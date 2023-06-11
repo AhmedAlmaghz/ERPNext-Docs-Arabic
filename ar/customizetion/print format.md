@@ -1,4 +1,10 @@
-## تخصيص تنسيق الطباعة
+---
+description: print format
+---
+
+# تخصيص تنسيق الطباعة
+
+### تخصيص تنسيق الطباعة
 
 **تنسيقات الطباعة هي التخطيطات التي يتم إنشاؤها عندما تريد طباعة معاملة أو إرسالها بالبريد الإلكتروني.**
 
@@ -6,7 +12,7 @@
 
 في ERPNext ، هناك ثلاثة أنواع من تنسيقات الطباعة ، وهي تنسيق الطباعة القياسي وتنسيق الطباعة المخصص وتنسيق طباعة HTML.
 
-## تنسيق الطباعة القياسي
+### تنسيق الطباعة القياسي
 
 سيكون لكل نوع مستند قابل للطباعة في ERPNext تنسيق طباعة قياسي خاص به يتم إنشاؤه بواسطة Frappe Framework. يعتمد وضع الحقل في تنسيقات الطباعة القياسية على موضع الحقول المعنية في المستند.
 
@@ -14,9 +20,9 @@
 
 أي تغييرات يتم إجراؤها على تنسيق الطباعة القياسي يجب أن تتم باستخدام نموذج التخصيص. يمكنك أيضًا التحقق من [إضافة الحقول في Print Formats](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/making-fields-visible-in-print-format) .
 
-## تنسيق الطباعة المخصص
+### تنسيق الطباعة المخصص
 
-يمكنك أيضًا إنشاء تنسيقات الطباعة المخصصة الخاصة بك باستخدام أداة تسمى [Print Format Builder](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format- باني). ستساعدك هذه الأداة في إنشاء تنسيق طباعة مخصص بسيط عن طريق سحب وإفلات الحقول بتنسيق حسب تفضيلاتك.
+يمكنك أيضًا إنشاء تنسيقات الطباعة المخصصة الخاصة بك باستخدام أداة تسمى \[Print Format Builder]\(https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format- باني). ستساعدك هذه الأداة في إنشاء تنسيق طباعة مخصص بسيط عن طريق سحب وإفلات الحقول بتنسيق حسب تفضيلاتك.
 
 ![تخصيص تنسيق الطباعة](https://docs.erpnext.com/files/customize-print-format.gif)
 
@@ -26,7 +32,7 @@
 
 > إنشاء> طرق عرض> تنسيق الطباعة
 
-## إعدادات الطباعة
+### إعدادات الطباعة
 
 لتعديل / تحديث إعدادات الطباعة و PDF ، انتقل إلى:
 
@@ -34,7 +40,7 @@
 
 ![إعدادات الطباعة](https://docs.erpnext.com/files/print-settings.png)
 
-## تنسيق طباعة HTML
+### تنسيق طباعة HTML
 
 لإنشاء تنسيق طباعة HTML ، قد تحتاج إلى بعض المعرفة بـ HTML و CSS و Python. فيما يلي مثال على كيفية تصميم تنسيق الطباعة الذي يحتوي على تنسيق محدد للغاية.
 
@@ -44,56 +50,54 @@
 
 للتصميم ، يتم توفير [Bootstrap CSS Framework](http://getbootstrap.com/) ويمكنك الاستمتاع بمجموعة كاملة من الفئات.
 
-#### مراجع
+**مراجع**
 
 1. [لغة قالب Jinja: المرجع](https://jinja.palletsprojects.com/en/3.0.x/templates/)
 2. [Bootstrap CSS Framework](http://getbootstrap.com/)
 
-#### مثال
+**مثال**
+
+"" {٪ raw٪}
+
+#### \{{doc.select\_print\_heading or "Invoice"\}}
+
+اسم العميل \</ div>\{{doc.customer\_name\}}التاريخ \</ div>\{{doc.get\_formatted ("invoice\_date")\}}
+
+```
+        {٪ - للصف في doc.items -٪}
+
+        {٪ - endfor -٪}
+    <table class = "table table-bordered">
+    <tbody>
+        <tr>
+            <th> الأب </th>
+            <th> اسم العنصر </th>
+            <th> الوصف </th>
+            <th class = "text-right"> الكمية </th>
+            <th class = "text-right"> معدل </th>
+            <th class = "text-right"> المبلغ </ th>
+        </tr> <tr>
+            <td style = "width: 3٪؛"> {{row.idx}} </td>
+            <td style = "width: 20٪؛">
+                {{row.item_name}}
+                {٪ if row.item_code! = row.item_name -٪}
+                <br> كود الصنف: {{row.item_code}}
+                {٪- إنهاء إذا ٪}
+            </td>
+            <td style = "width: 37٪؛">
+                <div style = "border: 0px؛"> {{row.description}} </div> </td>
+            <td style = "width: 10٪؛ text-align: right؛"> {{row.qty}} {{row.uom or row.stock_uom}} </td>
+            <td style = "width: 15٪؛ text-align: right؛"> {{
+                row.get_formatted ("rate"، doc)}} </td>
+            <td style = "width: 15٪؛ text-align: right؛"> {{
+                row.get_formatted ("amount"، doc)}} </td>
+        </tr> </tbody>
+</table> {٪ endraw٪}
+```
 
 ""
-    {٪ raw٪} <h3> {{doc.select_print_heading or "Invoice"}} </h3>
-    <div class = "row">
-        <div class = "col-md-3 text-right"> اسم العميل </ div>
-        <div class = "col-md-9"> {{doc.customer_name}} </div>
-    </div>
-    <div class = "row">
-        <div class = "col-md-3 text-right"> التاريخ </ div>
-        <div class = "col-md-9"> {{doc.get_formatted ("invoice_date")}} </div>
-    </div>
 
-            {٪ - للصف في doc.items -٪}
-
-            {٪ - endfor -٪}
-        <table class = "table table-bordered">
-        <tbody>
-            <tr>
-                <th> الأب </th>
-                <th> اسم العنصر </th>
-                <th> الوصف </th>
-                <th class = "text-right"> الكمية </th>
-                <th class = "text-right"> معدل </th>
-                <th class = "text-right"> المبلغ </ th>
-            </tr> <tr>
-                <td style = "width: 3٪؛"> {{row.idx}} </td>
-                <td style = "width: 20٪؛">
-                    {{row.item_name}}
-                    {٪ if row.item_code! = row.item_name -٪}
-                    <br> كود الصنف: {{row.item_code}}
-                    {٪- إنهاء إذا ٪}
-                </td>
-                <td style = "width: 37٪؛">
-                    <div style = "border: 0px؛"> {{row.description}} </div> </td>
-                <td style = "width: 10٪؛ text-align: right؛"> {{row.qty}} {{row.uom or row.stock_uom}} </td>
-                <td style = "width: 15٪؛ text-align: right؛"> {{
-                    row.get_formatted ("rate"، doc)}} </td>
-                <td style = "width: 15٪؛ text-align: right؛"> {{
-                    row.get_formatted ("amount"، doc)}} </td>
-            </tr> </tbody>
-    </table> {٪ endraw٪}
-""
-
-## ملحوظات
+### ملحوظات
 
 1. للحصول على القيم المنسقة للتاريخ والعملة ، استخدم ، `doc.get_formatted (" اسم الحقل ")`
 2. بالنسبة إلى السلاسل القابلة للترجمة ، استخدم `{{'{{_ (" تمت ترجمة هذه السلسلة ")}}'}}`

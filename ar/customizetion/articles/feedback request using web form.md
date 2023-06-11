@@ -1,8 +1,14 @@
-\nفي الإصدار 11 من ERPNext ، لدينا ميزة تسمح بجمع التعليقات من العميل والمستخدمين. في ERPNext ، يمكن الآن إدارة هذه الميزة باستخدام أدوات التخصيص المضمنة مثل:
+---
+description: feedback request using web form
+---
+
+# طلب التغذية الراجعة باستخدام نموذج الويب
+
+في الإصدار 11 من ERPNext ، لدينا ميزة تسمح بجمع التعليقات من العميل والمستخدمين. في ERPNext ، يمكن الآن إدارة هذه الميزة باستخدام أدوات التخصيص المضمنة مثل:
 
 * نوع DocType مخصص
-*   نموذج ويب
-*   إشعار
+* نموذج ويب
+* إشعار
 
 فيما يلي الخطوات الخاصة بكيفية تكوين ميزة والبدء في جمع التعليقات.
 
@@ -10,10 +16,10 @@
 
 قم بإنشاء نوع مستند مخصص للتصنيف في هذه السطور
 
-![](https://docs.erpnext.com/files/oUD”e.png)
+![](https://docs.erpnext.com/files/oUD%E2%80%9De.png)
 
 1. في الحقول الأولى ، قم بإدراج أنواع DocTypes التي تريد جمع تصنيف لها
-2. في حقل "اسم المستند" ، ما عليك سوى إدخال اسم الحقل الأول "المستند" ، بحيث يصبح [رابطًا ديناميكيًا](https://docs.erpnext.com/docs/v14/user/manual/en/customize -erpnext / articles / dynamic-link-field).
+2. في حقل "اسم المستند" ، ما عليك سوى إدخال اسم الحقل الأول "المستند" ، بحيث يصبح \[رابطًا ديناميكيًا]\(https://docs.erpnext.com/docs/v14/user/manual/en/customize -erpnext / articles / dynamic-link-field).
 3. أدخل حقل التصنيف. يمكنك أيضًا اختيار بيانات أخرى أو تحديد حقل ، إذا كنت ترغب في الحصول على تصنيف على هذه السطور.
 
 **نموذج ويب لاستمارة التعليقات**
@@ -26,14 +32,13 @@
 
 يجب إنشاء إشعار لإرسال ارتباط إلى مستخدم يقوم بعد ذلك بتقديم تصنيف. يمكنك تحديد شروط تشغيل بريد إلكتروني بناءً على الميزات القياسية لـ [الإعلام](https://erpnext.com/docs/user/manual/en/setting-up/notifications). فيما يلي المساعدة حول كيفية تحديد رسالة ورابط من شأنه أن يأخذ المستخدم إلى نموذج ويب ويسمح بإرسال تقييم.
 
-https://example.erpnext.com/feedback؟new=1&document=Sales٪20Order&document\_name={{doc.name}}
+https://example.erpnext.com/feedback؟new=1\&document=Sales٪20Order\&document\_name=\{{doc.name\}}
 
 أين:
 
-***example.erpnext.com**سيكون عنوان URL لحساب ERPNext الخاص بك
-***feedback**سيكون اسم نوع المستند المخصص المضاف لجمع الملاحظات
-***document = Sales٪ 20Order &**سيكون اسم DocType الذي تريد إرسال إشعار بشأنه
-* document \ _name = {{doc.name}} سوف يلتقط اسم مستند محدد ويتم تحديثه في حقل اسم المستند في نموذج الملاحظات.
+\***example.erpnext.com**سيكون عنوان URL لحساب ERPNext الخاص بك \***feedback**سيكون اسم نوع المستند المخصص المضاف لجمع الملاحظات \*\*\*document = Sales٪ 20Order &\*\*سيكون اسم DocType الذي تريد إرسال إشعار بشأنه
+
+* document \ \_name = \{{doc.name\}} سوف يلتقط اسم مستند محدد ويتم تحديثه في حقل اسم المستند في نموذج الملاحظات.
 
 ![](https://docs.erpnext.com/files/UDBhIaK.png)
 

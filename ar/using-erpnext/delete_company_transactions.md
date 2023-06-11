@@ -1,4 +1,10 @@
-## حذف معاملات الشركة
+---
+description: delete company transactions
+---
+
+# حذف معاملات الشركة
+
+### حذف معاملات الشركة
 
 **يمكنك حذف جميع بيانات المعاملات مثل فواتير المبيعات وأوامر المبيعات المرتبطة بشركة والبدء من جديد ، مع الحفاظ على البيانات الرئيسية الأخرى مثل العملاء والعناصر وقائمة المواد كما هي.**
 
@@ -19,23 +25,23 @@
 
 وفويلا ، شركتك جيدة كالجديدة.
 
-![سجل حذف المعاملة](https://docs.erpnext.com/files/Transaction٪20Deletion٪20Recordeea199.png)
+![سجل حذف المعاملة](https://docs.erpnext.com/files/Transaction%D9%AA20Deletion%D9%AA20Recordeea199.png)
 
 يعرض الجدول**الملخص**أسماء أنواع DocTypes التي تم حذف سجلاتها بالإضافة إلى عدد السجلات التي تم حذفها.
 
-## 2. حذف المعاملات
+### 2. حذف المعاملات
 
 1. انتقل إلى**الصفحة الرئيسية> المحاسبة> الشركة**وابحث عن شركتك.
 2. في أعلى اليسار ، ستجد زر**حذف المعاملات**تحت**إدارة**.
 3. أدخل كلمة المرور الخاصة بك.
 4. أدخل اسم الشركة للتأكيد.
 
-![حذف المعاملات](https://docs.erpnext.com/files/Delete٪20Transactions.png)
+![حذف المعاملات](https://docs.erpnext.com/files/Delete%D9%AA20Transactions.png)
 
-سيؤدي هذا إلى إرسال سجل في [أداة حذف المعاملات](https://docs.erpnext.com/docs/v13/user/manual/en/delete_company_transactions#1-transaction-deletion-tool) DocType.
+سيؤدي هذا إلى إرسال سجل في [أداة حذف المعاملات](https://docs.erpnext.com/docs/v13/user/manual/en/delete\_company\_transactions#1-transaction-deletion-tool) DocType.
 
-![رسالة حذف ناجحة](https://docs.erpnext.com/files/Successful٪20Deletion٪20Message.png)
+![رسالة حذف ناجحة](https://docs.erpnext.com/files/Successful%D9%AA20Deletion%D9%AA20Message.png)
 
-### ملحوظة:
+#### ملحوظة:
 
 لتنفيذ هذا الإجراء ، يجب أن يكون للمستخدم دور مدير النظام.

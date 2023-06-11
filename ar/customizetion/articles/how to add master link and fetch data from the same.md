@@ -1,4 +1,10 @@
-\n**سؤال:**كيف تضيف الشروط والأحكام في نموذج السائق؟
+---
+description: how to add master link and fetch data from the same
+---
+
+# كيفية إضافة رابط رئيسي وجلب البيانات منه
+
+\*\*سؤال:\*\*كيف تضيف الشروط والأحكام في نموذج السائق؟
 
 **خطوات:**
 
@@ -11,7 +17,7 @@
 2. قم بالتمرير لأسفل إلى القسم / الحقل الذي تريد بعده إضافة الشروط والأحكام.
 3. انقر على الأيقونة الصغيرة على الجانب الأيمن. سيؤدي هذا إلى توسيع المجال المحدد.
 4. يمكنك إضافة حقل جديد أعلاه في الأسفل بالنقر فوق _Insert Above / below_.![](https://docs.erpnext.com/files/AsJWH8L.png)
-5. أضف حقلاً جديدًا كما هو موضح أدناه:![](https://docs.erpnext.com/files/YGEuBrn.png) لمزيد من التفاصيل حول إضافة حقل ارتباط مخصص ، ارجع إلى [هذا الرابط](https: // erpnext.com/docs/user/manual/en/customize-erpnext/articles/creating-custom-link-field).
-6. أضف حقلاً ثانيًا أسفل هذا :![](https://docs.erpnext.com/files/LoWglZL.png) كيف يعمل هذا؟ في الجلب من ، نضيف التفاصيل التالية: DOCTYPE.field. في "نوع المستندات والشروط" ، يتم تسمية الحقل الذي نضيف فيه المصطلحات _terms_ وهو من النوع: محرر نصوص. لكي تعمل _fetch from_ ، يجب أن تكون البيانات بالتنسيق التالي: link_field_name.field_to_fetch
+5. أضف حقلاً جديدًا كما هو موضح أدناه:![](https://docs.erpnext.com/files/YGEuBrn.png) لمزيد من التفاصيل حول إضافة حقل ارتباط مخصص ، ارجع إلى \[هذا الرابط]\(https: // erpnext.com/docs/user/manual/en/customize-erpnext/articles/creating-custom-link-field).
+6. أضف حقلاً ثانيًا أسفل هذا :![](https://docs.erpnext.com/files/LoWglZL.png) كيف يعمل هذا؟ في الجلب من ، نضيف التفاصيل التالية: DOCTYPE.field. في "نوع المستندات والشروط" ، يتم تسمية الحقل الذي نضيف فيه المصطلحات _terms_ وهو من النوع: محرر نصوص. لكي تعمل _fetch from_ ، يجب أن تكون البيانات بالتنسيق التالي: link\_field\_name.field\_to\_fetch
 7. بمجرد القيام بذلك ، انقر فوق**تحديث**، والعودة إلى القائمة الخاصة بك. انقر فوق Ctrl + Shift + R لإعادة التحميل.
 8. عند تحديد قالب الشروط في برنامج التشغيل ، سيقوم النظام بجلب الشروط من النموذج المحدد:![](https://docs.erpnext.com/files/b7hVL7Y.png)

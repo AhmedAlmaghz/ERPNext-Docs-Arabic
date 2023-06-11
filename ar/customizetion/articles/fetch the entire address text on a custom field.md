@@ -1,4 +1,10 @@
-\nستساعدك هذه المقالة في إضافة حقل مخصص لجلب العناوين الكاملة على أي DocType ، باستخدام نهج من 3 خطوات.
+---
+description: fetch the entire address text on a custom field
+---
+
+# إحضار نص العنوان بالكامل في حقل مخصص
+
+ستساعدك هذه المقالة في إضافة حقل مخصص لجلب العناوين الكاملة على أي DocType ، باستخدام نهج من 3 خطوات.
 
 **الخطوة 1. التخصيصات التجميلية على DocType المطلوب**
 
@@ -12,7 +18,7 @@
 
 ![](https://docs.erpnext.com/files/q90efZM.png)
 
-للحصول على معلومات حول إنشاء حقول مخصصة على DocType ، يمكنك الرجوع إلى الرابط التالي - [Custom Fields in ERPNext](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/custom- مجال)
+للحصول على معلومات حول إنشاء حقول مخصصة على DocType ، يمكنك الرجوع إلى الرابط التالي - \[Custom Fields in ERPNext]\(https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/custom- مجال)
 
 بمجرد الانتهاء من هذه الخطوة ، يجب أن يكون لديك حقلين جديدين في DocType المحدد ، كما هو موضح أدناه: -
 
@@ -24,37 +30,37 @@
 
 في قسم البرنامج النصي ، قم بلصق برنامج العميل التالي: -
 
-frappe.ui.form.on ("DocType Name"، "address \ _link \ _field"، function (frm، cdt، cdn) {
+frappe.ui.form.on ("DocType Name"، "address \ \_link \ \_field"، function (frm، cdt، cdn) {
 
- إذا (frm.doc.address \ _link \ _field) {
+إذا (frm.doc.address \ \_link \ \_field) {
 
- إرجاع frm.call ({
+إرجاع frm.call ({
 
- الطريقة: "frappe.contacts.doctype.address.address.get \ _address \ _display"،
+الطريقة: "frappe.contacts.doctype.address.address.get \ \_address \ \_display"،
 
- أرغس: {
+أرغس: {
 
- "العنوان \ _dict": frm.doc.address \ _link \ _field
+"العنوان \ \_dict": frm.doc.address \ \_link \ \_field
 
- } ،
+} ،
 
- رد الاتصال: الوظيفة (ص) {
+رد الاتصال: الوظيفة (ص) {
 
- إذا (رسالة r.)
+إذا (رسالة r.)
 
- frm.set \ _value ("full \ _address \ _field" ، رسالة r.message) ؛
+frm.set \ \_value ("full \ \_address \ \_field" ، رسالة r.message) ؛
 
- }
+}
 
- }) ؛
+}) ؛
 
- }
+}
 
- آخر{
+آخر{
 
- frm.set \ _value ("full \ _address \ _field"، "")؛
+frm.set \ \_value ("full \ \_address \ \_field"، "")؛
 
- }
+}
 
 }) ؛
 
@@ -62,9 +68,9 @@ frappe.ui.form.on ("DocType Name"، "address \ _link \ _field"، function (frm،
 
 أ) استبدل "DocType Name" باسم DocType الذي نحتاجه لجلب العنوان عليه. على سبيل المثال. فاتورة المبيعات وأمر الشراء وما إلى ذلك.
 
-ب) استبدل "العنوان \ _ link \ _field" بالاسم المتغير لحقل الارتباط المخصص الذي أنشأناه في الخطوة 1
+ب) استبدل "العنوان \ \_ link \ \_field" بالاسم المتغير لحقل الارتباط المخصص الذي أنشأناه في الخطوة 1
 
-ج) استبدل "full \ _address \ _field" بالاسم المتغير لحقل القراءة المخصص المخصص الذي أنشأناه في الخطوة 1
+ج) استبدل "full \ \_address \ \_field" بالاسم المتغير لحقل القراءة المخصص المخصص الذي أنشأناه في الخطوة 1
 
 بمجرد الانتهاء من ذلك ، سيكون لديك برنامج عميل يبدو كما يلي: -
 

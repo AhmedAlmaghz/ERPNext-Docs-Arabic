@@ -1,4 +1,10 @@
-## جدول MultiSelect الحقل
+---
+description: table multiselect field
+---
+
+# الجدول متعدد الحقول
+
+### جدول MultiSelect الحقل
 
 حقل الجدول MultiSelect يشبه إلى حد بعيد حقل الارتباط. الاختلاف الرئيسي هو أن حقل الجدول MultiSelect يسمح لك بتحديد قيم متعددة.
 
@@ -8,7 +14,7 @@
 
 يمكنك إضافة حقل التحديد المتعدد للجدول باستخدام الخطوات التالية:
 
-## الخطوة 1: إنشاء نوع DocType تابع.
+### الخطوة 1: إنشاء نوع DocType تابع.
 
 قم بإنشاء DocType جديد ، وقم بتمكين مربعي الاختيار "Is Child Table" و "Editable Grid" وإضافة حقل بنوع "Link" كما هو موضح أدناه.
 
@@ -16,7 +22,7 @@
 
 ![DocType for Table MultiSelect](https://docs.erpnext.com/files/doctype-for-table-multi-select.png)
 
-## الخطوة 2: إضافة حقل من النوع "Table MultiSelect".
+### الخطوة 2: إضافة حقل من النوع "Table MultiSelect".
 
 قم بإنشاء حقل من النوع "Table MultiSelect" وأضف نوع DocType الذي تم إنشاؤه في الخطوة الأولى في "الخيارات".
 
