@@ -17,4 +17,4 @@ frappe.ui.form.on ("الرصاص" ، "الحالة" ، الوظيفة (frm) {
   }) ؛
 ""
 
-! [فتح حساب] (https://docs.erpnext.com/files/filter_dropdown.gif)
+![فتح حساب](https://docs.erpnext.com/files/filter_dropdown.gif)

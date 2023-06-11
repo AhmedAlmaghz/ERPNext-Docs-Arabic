@@ -1,6 +1,6 @@
-\n## تكامل منقوشة
+## تكامل منقوشة
 
-يوفر ERPNext إمكانية مزامنة حساباتك المصرفية من خلال خدمة تسمى [Plaid] (https://plaid.com/). يرجى مراجعة [الأسئلة الشائعة حول Plaid] (https://support-my.plaid.com/hc/en-us) لمعرفة ما إذا كان بلدك مدعومًا.
+يوفر ERPNext إمكانية مزامنة حساباتك المصرفية من خلال خدمة تسمى [Plaid](https://plaid.com/). يرجى مراجعة [الأسئلة الشائعة حول Plaid](https://support-my.plaid.com/hc/en-us) لمعرفة ما إذا كان بلدك مدعومًا.
 
 إذا كان المثيل الخاص بك متصلاً بـ Plaid ، فيمكنك مزامنة معاملات حسابك المصرفي دون الحاجة إلى استيراد ملف CSV أو XLSX يدويًا.
 
@@ -16,7 +16,7 @@
 
 من أجل تنشيط Plaid على مثيل ، انقر فوق الزر "تمكين" في Plaid Settings DocType.
 
-! [تمكين Plaid] (https://docs.erpnext.com/files/plaid_enable.gif)
+![تمكين Plaid](https://docs.erpnext.com/files/plaid_enable.gif)
 
 بمجرد التنشيط ، يمكنك إنشاء حساب جديد مباشرة من لوحة معلومات التسوية البنكية.
 
@@ -24,13 +24,13 @@
 
 لربط أحد حساباتك المصرفية الحالية بـ ERPNext ، انقر فوق "ربط حساب مصرفي جديد" واتبع الخطوات التي اقترحها Plaid.
 
-! [اربط حسابك المصرفي] (https://docs.erpnext.com/files/new_account_creation.gif)
+![اربط حسابك المصرفي](https://docs.erpnext.com/files/new_account_creation.gif)
 
 ## مزامنة البنك
 
 لمزامنة حساب مصرفي مع ERPNext ، حدد حسابًا وانقر فوق الزر "إجراء" لتحديد "مزامنة هذا الحساب".
 
-! [مزامنة حسابك المصرفي] (https://docs.erpnext.com/files/plaid_synchronization.gif)
+![مزامنة حسابك المصرفي](https://docs.erpnext.com/files/plaid_synchronization.gif)
 
 تستند المزامنة إلى "تاريخ آخر تكامل" المتاح في نوع مستند "الحساب المصرفي".
 

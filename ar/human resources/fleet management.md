@@ -7,5 +7,5 @@
 3. تقديم مطالبات المصاريف لمصاريف السيارة.
 4. عرض تقارير مصاريف السيارة.
 
-1. [مركبة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/vehicle)
-2. [سجل السيارة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/vehicle-log)
+1. [مركبة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/vehicle)
+2. [سجل السيارة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/vehicle-log)

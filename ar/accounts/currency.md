@@ -1,6 +1,6 @@
-\n## عملة
+## عملة
 
-في ERPNext ، تخزن قائمة العملات قيمة العملة ، ووحدة الرمز والكسر. معظم العملات شائعة الاستخدام موجودة بالفعل في ERPNext. يتم جلب أسعار الصرف تلقائيًا وفقًا لسعر السوق الحالي. يمكنك أيضًا تهيئة النظام لاستخدام أسعار الصرف الثابتة الأقدم من خلال إنشائها في نموذج [Currency Exchange] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/currency-exchange).
+في ERPNext ، تخزن قائمة العملات قيمة العملة ، ووحدة الرمز والكسر. معظم العملات شائعة الاستخدام موجودة بالفعل في ERPNext. يتم جلب أسعار الصرف تلقائيًا وفقًا لسعر السوق الحالي. يمكنك أيضًا تهيئة النظام لاستخدام أسعار الصرف الثابتة الأقدم من خلال إنشائها في نموذج [Currency Exchange](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/currency-exchange).
 
 للوصول إلى قائمة العملات ، انتقل إلى:
 
@@ -8,7 +8,7 @@
 
 على سبيل المثال ، هذه هي الطريقة التي تظهر بها صفحة العملة لليورو:
 
-! [عملة اليورو] (https://docs.erpnext.com/files/eur_new.png)
+![عملة اليورو](https://docs.erpnext.com/files/eur_new.png)
 
 ## التكوينات
 
@@ -30,6 +30,6 @@
 
 يمكنك أيضًا إخفاء جميع رموز العملات من "الافتراضات العامة".
 
-1. [إعادة تقييم سعر الصرف] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/exchange-rate-revaluation)
-2. [محاسبة العملات المتعددة] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/multi-currency-accounting)
-3. [صرف العملات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/currency-exchange)
+1. [إعادة تقييم سعر الصرف](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/exchange-rate-revaluation)
+2. [محاسبة العملات المتعددة](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/multi-currency-accounting)
+3. [صرف العملات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/currency-exchange)

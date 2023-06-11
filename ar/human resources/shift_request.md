@@ -1,15 +1,15 @@
 \nيتم استخدام طلب التحول من قبل الموظف لطلب نوع معين من المناوبة.
 
-### 1 \. المتطلبات الأساسية
+### 1. المتطلبات الأساسية
 
 لإنشاء طلب التحول ، يجب إنشاء هذه أولاً:
 
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
     
-* [نوع التحول] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_type)
+* [نوع التحول](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_type)
     
 
-### 2 \. كيفية إنشاء طلب وردية
+### 2. كيفية إنشاء طلب وردية
 
 لإنشاء طلب التحول الجديد ، انتقل إلى:> الموارد البشرية> إدارة التحول> طلب التحول
 
@@ -23,24 +23,24 @@
     
 5. حفظ.
     
-6. بمجرد الموافقة على طلب التحول وإرساله ، فإنه ينشئ [تعيين التحول] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_assignment)
+6. بمجرد الموافقة على طلب التحول وإرساله ، فإنه ينشئ [تعيين التحول](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_assignment)
     
-    ! [طلب التحول] (https://docs.erpnext.com/files/shift-requestae7f8e.png)
+    ![طلب التحول](https://docs.erpnext.com/files/shift-requestae7f8e.png)
     
 
-### 3 \. الموافقة على طلب التحول
+### 3. الموافقة على طلب التحول
 
 معتمد طلب المناوبة هو مستخدم يمكنه الموافقة على طلب المناوبة للموظف. يمكن تعيين الموافقة على طلب التحول على مستويين:
 
-* ** مستوى القسم: ** يمكن تكوين الموافقين على طلبات التحول لكل قسم في [القسم] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department) الرئيسي . يمكن تعيين "الموافقة على طلبات الورديات المتعددة" في القسم.
+***مستوى القسم:**يمكن تكوين الموافقين على طلبات التحول لكل قسم في [القسم](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department) الرئيسي . يمكن تعيين "الموافقة على طلبات الورديات المتعددة" في القسم.
     
-    ! [Shift Request Approvers] (https://docs.erpnext.com/files/department-shift-request-approvers.png)
+    ![Shift Request Approvers](https://docs.erpnext.com/files/department-shift-request-approvers.png)
     
     عندما يطلب موظف ينتمي إلى قسم معين لنوع المناوبة ، سيتم اعتبار "موافق طلب المناوبة" المعين في مدير قسم ذلك الموظف بمثابة الموافقين على نوع المناوبة.
     
-* ** مستوى الموظف: ** يمكن أيضًا تعيين الموافق على طلب التحول في مدير الموظف.
+***مستوى الموظف:**يمكن أيضًا تعيين الموافق على طلب التحول في مدير الموظف.
     
-    ! [Shift Request Approvers] (https://docs.erpnext.com/files/employee-shift-request-approver.png)
+    ![Shift Request Approvers](https://docs.erpnext.com/files/employee-shift-request-approver.png)
     
 
 إذا تم تعيين "الموافقة على طلب التحول" على مستوى كل من الموظف والقسم ، فسيتم اعتبار "الموافق على طلب التحول" على مستوى الموظف بمثابة "معتمد الإجازة الافتراضي" في هذه الحالة.

@@ -2,21 +2,21 @@
 
 * إنشاء برنامج ولاء في مستند: يمكنك تعيين فئة واحدة أو برنامج متعدد المستويات استنادًا إلى الألواح الموجودة في مبلغ الشراء الذي تم إجراؤه في ERPNext.
 
-! [] (https://docs.erpnext.com/files/GPSIGPX.png)
+![](https://docs.erpnext.com/files/GPSIGPX.png)
 
 * بمجرد تعيين برنامج الولاء ، يمكنك إنشاء عميل وربط برنامج الولاء به.
 
-! [] (https://docs.erpnext.com/files/9Wphzgr.png)
+![](https://docs.erpnext.com/files/9Wphzgr.png)
 
 بمجرد ربط هذا العميل ببرنامج الولاء ، يمكنك الآن إعداد ملف تعريف POS الخاص بك إذا لم يتم تعيينه بعد:
 
-! [] (https://docs.erpnext.com/files/Lw5UhFp.png)
+![](https://docs.erpnext.com/files/Lw5UhFp.png)
 
 الآن ، يمكنك الذهاب إلى معاملة نقاط البيع:
 
 * حدد العميل
 *   إضافة عناصر
 *   يدفع
-* تحقق من الحقل -> ** استرداد نقاط الولاء **
+* تحقق من الحقل ->**استرداد نقاط الولاء**
 
-! [] (https://docs.erpnext.com/files/s2Jps8N.png)
+![](https://docs.erpnext.com/files/s2Jps8N.png)

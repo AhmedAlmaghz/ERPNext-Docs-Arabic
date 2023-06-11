@@ -1,6 +1,6 @@
 ## مدير
 
-** المسؤول أعلى من مدير النظام ولديه جميع الحقوق والأذونات لحساب ERPNext. **
+**المسؤول أعلى من مدير النظام ولديه جميع الحقوق والأذونات لحساب ERPNext.**
 
 يمتلك مدير النظام أيضًا أذونات لمعظم العناصر في النظام ، لكن المسؤول لديه وصول غير مقيد.
 
@@ -13,8 +13,8 @@
 4. بالنسبة للحسابات المحلية المستضافة ذاتيًا ، تكون بيانات اعتماد المسؤول مع مستخدم الحساب.
     
 
-1. [إضافة مستخدمين] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/adding-users)
-2. [ملف تعريف الدور والدور] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-and-role-profile)
-3. [الأذونات المستندة إلى الدور] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions)
-4. [أذونات المستخدم] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/user-permissions)
-5. [إذن الدور للصفحة والتقرير] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-permission-for-page-and -تقرير)
+1. [إضافة مستخدمين](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/adding-users)
+2. [ملف تعريف الدور والدور](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-and-role-profile)
+3. [الأذونات المستندة إلى الدور](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions)
+4. [أذونات المستخدم](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/user-permissions)
+5. [إذن الدور للصفحة والتقرير](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-permission-for-page-and -تقرير)

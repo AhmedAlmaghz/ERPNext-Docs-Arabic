@@ -1,6 +1,6 @@
 ## مجلس كانبان
 
-** Kanban Board هي أداة ستمنحك تخطيطًا وصفيًا لبياناتك في ERPNext بناءً على الحالة واللوحة الافتراضية. **
+**Kanban Board هي أداة ستمنحك تخطيطًا وصفيًا لبياناتك في ERPNext بناءً على الحالة واللوحة الافتراضية.**
 
 يجب أن تتكون هذه اللوحة من بطاقات تمثل المستندات المختلفة المدرجة في نوع مستند معين يتم محاذاته وفقًا لمرحلة تشغيل المعاملات التي تمثلها أعمدة الحالة. يمكن تغيير حالة البطاقة بسهولة عن طريق سحب البطاقات وإفلاتها عبر اللوحة.
 
@@ -8,36 +8,36 @@
 
 ## إنشاء مجلس كانبان جديد
 
-! [لوحة كانبان الجديدة] (https://docs.erpnext.com/files/create-kanban-board.gif)
+![لوحة كانبان الجديدة](https://docs.erpnext.com/files/create-kanban-board.gif)
 
 ## إضافة بطاقة / مستند جديد
 
 لإضافة بطاقات على لوحة كانبان ، انقر فوق إضافة مهام. يمكنك تعديل تفاصيل البطاقة عن طريق النقر على البطاقة وسيأخذك إلى Task Doctype حيث يمكنك إضافة تفاصيل البطاقة وتعديلها.
 
-! [أضف بطاقة جديدة في لوحة كانبان] (https://docs.erpnext.com/files/add-card-in-kanban-board.gif)
+![أضف بطاقة جديدة في لوحة كانبان](https://docs.erpnext.com/files/add-card-in-kanban-board.gif)
 
 ## تحديث البطاقات / حالة المستند
 
 بناءً على حالة المهمة ، يمكنك سحب وإسقاط البطاقات في العمود المعني. على سبيل المثال ، إذا كانت المهمة قيد التقدم ، يمكنك نقل البطاقة الخاصة بالمهمة من الحالة مفتوحة إلى العمل.
 
-! [تحديث البطاقات على لوحة كانبان] (https://docs.erpnext.com/files/update-kanban-board.gif)
+![تحديث البطاقات على لوحة كانبان](https://docs.erpnext.com/files/update-kanban-board.gif)
 
 ## إدارة الأعمدة
 
 لإضافة المزيد من الأعمدة في لوحة كانبان ، انقر فوق إضافة أعمدة.
 
-! [إضافة عمود جديد في لوحة كانبان] (https://docs.erpnext.com/files/add-column-in-kanban-board.gif)
+![إضافة عمود جديد في لوحة كانبان](https://docs.erpnext.com/files/add-column-in-kanban-board.gif)
 
 يمكنك أيضًا تعيين ألوان للأعمدة.
 
-! [أضف ألوانًا إلى البطاقات] (https://docs.erpnext.com/files/add-colour-in-kanban-board.gif)
+![أضف ألوانًا إلى البطاقات](https://docs.erpnext.com/files/add-colour-in-kanban-board.gif)
 
 يمكنك أيضًا أرشفة واستعادة الأعمدة المضافة في لوحة كانبان. للقيام بذلك ، انقر فوق "أرشفة" في القائمة المنسدلة على البطاقة. بمجرد أرشفته ، يمكنك استعادة العمود من قائمة الأعمدة المؤرشفة في لوحة Kanban.
 
-! [أرشيف عمود لوحة كانبان] (https://docs.erpnext.com/files/archive-kanban-board-column.gif)
+![أرشيف عمود لوحة كانبان](https://docs.erpnext.com/files/archive-kanban-board-column.gif)
 
 ## المرشحات
 
 يمكنك إنشاء العديد من لوحات Kanban بناءً على عوامل تصفية مختلفة. لحفظ المرشحات في لوحة كانبان ، انقر فوق القائمة ثم "حفظ عوامل التصفية".
 
-! [حفظ عوامل التصفية في لوحة كانبان] (https://docs.erpnext.com/files/filter-cards-in-kanban-board.gif)
+![حفظ عوامل التصفية في لوحة كانبان](https://docs.erpnext.com/files/filter-cards-in-kanban-board.gif)

@@ -1,8 +1,8 @@
-\n\n** في عملية تعيين موظف ، هناك مجموعة من الأنشطة القياسية التي يجب تنفيذها. تساعدك هذه الميزة في الحفاظ على سادة هذه الأنشطة ، وإنشاء مجموعة من المهام في وقت تعيين كل موظف. **
+\n\n**في عملية تعيين موظف ، هناك مجموعة من الأنشطة القياسية التي يجب تنفيذها. تساعدك هذه الميزة في الحفاظ على سادة هذه الأنشطة ، وإنشاء مجموعة من المهام في وقت تعيين كل موظف.**
 
 يتم إنشاء الموظف على متن الطائرة لتطبيق الوظيفة ، الذي تمت الموافقة عليه للتوظيف.
 
-** حالة الاستخدام: ** لنفترض أن الأنشطة التالية هي التي يجب القيام بها بمجرد الموافقة على تعيين طالب الوظيفة.
+**حالة الاستخدام:**لنفترض أن الأنشطة التالية هي التي يجب القيام بها بمجرد الموافقة على تعيين طالب الوظيفة.
 
 * إجراء فحص الخلفية القانونية والمهنية
 * إنشاء موظف سيد
@@ -14,32 +14,32 @@
 
 \> الموارد البشرية> دورة حياة الموظف> إعداد الموظف
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء موظف على متن الطائرة ، يُنصح بإنشاء المستندات التالية:
 
-* [متقدم لوظيفة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-applicant)
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
-* [القسم] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
-* [التعيين] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/designation)
-* [درجة الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade)
+* [متقدم لوظيفة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-applicant)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [القسم](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
+* [التعيين](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/designation)
+* [درجة الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade)
 
-## 2 \. كيفية إنشاء موظف على متن الطائرة
+## 2. كيفية إنشاء موظف على متن الطائرة
 
 1. انتقل إلى: إعداد الموظف> جديد.
 2. حدد المتقدم للوظيفة. بمجرد اختيار طالب الوظيفة ، سيتم جلب الموظف المقابل تلقائيًا.
-3. حدد [نموذج إعداد الموظف] (# 31-قالب تأهيل الموظفين). استنادًا إلى القالب المحدد ، سيتم تلقائيًا جلب معلومات مثل القسم والتعيين ودرجة الموظف (إذا تم ذكر ذلك بالفعل في نموذج Onboarding).
+3. حدد [نموذج إعداد الموظف](# 31-قالب تأهيل الموظفين). استنادًا إلى القالب المحدد ، سيتم تلقائيًا جلب معلومات مثل القسم والتعيين ودرجة الموظف (إذا تم ذكر ذلك بالفعل في نموذج Onboarding).
 4. أدخل تاريخ الانضمام.
 5. حفظ وإرسال.
     
-    ! [نموذج Onboarding] (https://docs.erpnext.com/files/employee-onboarding1.png)
+    ![نموذج Onboarding](https://docs.erpnext.com/files/employee-onboarding1.png)
     
 
 \> ملاحظة 1: إذا لم يتم إنشاء "نموذج تأهيل الموظف" ، يمكنك تعبئة معلومات الإعداد مباشرةً في نوع مستند "إعداد الموظف" نفسه.
 
 \> ملاحظة 2: ستتغير "حالة" تأهيل الموظف إلى مكتمل بمجرد اكتمال جميع الأنشطة المرتبطة.
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 نموذج إعداد الموظف
 
@@ -50,22 +50,22 @@
 1. انتقل إلى: الموارد البشرية> دورة حياة الموظف> نموذج إعداد الموظف> جديد.
 2. أدخل القسم والتعيين ودرجة الموظف (اختياري).
 3. أذكر أنشطة على متن الطائرة. لكل نشاط ، يمكنك أيضًا ذكر المستخدم أو الدور ، أو أحدهما ، الذي سيتم تعيين هذا النشاط له.
-4. يمكنك أيضًا جدولة أنشطة الإعداد من خلال تحديد ** البدء في (الأيام) ** ، أي وقت بدء النشاط و ** المدة (بالأيام) ** لنفسه.
+4. يمكنك أيضًا جدولة أنشطة الإعداد من خلال تحديد**البدء في (الأيام)**، أي وقت بدء النشاط و**المدة (بالأيام)**لنفسه.
     
-    ! [نموذج Onboarding] (https://docs.erpnext.com/files/onboarding-template972e99.png)
+    ![نموذج Onboarding](https://docs.erpnext.com/files/onboarding-template972e99.png)
     
 
 ### 3.2 المهام والواجبات
 
-عند تقديم الموظف على متن الطائرة ، سيتم إنشاء [مشروع] (https://docs.erpnext.com/docs/v143/user/manual/en/projects/project). داخل المشروع ، سيتم أيضًا إنشاء [المهام] (https://docs.erpnext.com/docs/v143/user/manual/en/projects/tasks) لكل نشاط. إذا قمت بتعيين التاريخ والمدة مقابل الأنشطة ، فسيتم إنشاء المهام مع تاريخ البدء والانتهاء المناسبين باستثناء أيام العطل.
+عند تقديم الموظف على متن الطائرة ، سيتم إنشاء [مشروع](https://docs.erpnext.com/docs/v143/user/manual/en/projects/project). داخل المشروع ، سيتم أيضًا إنشاء [المهام](https://docs.erpnext.com/docs/v143/user/manual/en/projects/tasks) لكل نشاط. إذا قمت بتعيين التاريخ والمدة مقابل الأنشطة ، فسيتم إنشاء المهام مع تاريخ البدء والانتهاء المناسبين باستثناء أيام العطل.
 
 يمكنك عرض المشاريع والمهام التي تم إنشاؤها كما هو موضح أدناه:
 
-! [نموذج Onboarding] (https://docs.erpnext.com/files/project-task.png)
+![نموذج Onboarding](https://docs.erpnext.com/files/project-task.png)
 
 بالإضافة إلى ذلك ، يمكن تعيين أوزان لكل نشاط بناءً على أهميته.
 
-! [المهام والواجبات] (https://docs.erpnext.com/files/employee-onboarding3.png)
+![المهام والواجبات](https://docs.erpnext.com/files/employee-onboarding3.png)
 
 استنادًا إلى التقدم في المهام ، يمكن تحديث التقدم في عملية إعداد الموظف.
 
@@ -73,8 +73,8 @@
 
 يمكنك إنشاء موظف مباشرةً من خلال نموذج مستند إعداد الموظف (إذا لم يكن قد تم إنشاؤه بالفعل) بمجرد اكتمال جميع مهام الإعداد الإلزامية.
 
-! [نموذج Onboarding] (https://docs.erpnext.com/files/onboarding-employee.png)
+![نموذج Onboarding](https://docs.erpnext.com/files/onboarding-employee.png)
 
-1. [ترقية الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee_promotion)
-2. [فصل الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-separation)
-3. [نقل موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee_transfer)
+1. [ترقية الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee_promotion)
+2. [فصل الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-separation)
+3. [نقل موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee_transfer)

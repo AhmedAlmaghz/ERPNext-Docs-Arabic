@@ -1,28 +1,28 @@
-\n## طلب القرض
+## طلب القرض
 
 > مقدمة في الإصدار 13
 
-** يحتوي طلب القرض على تفاصيل حول مقدم الطلب وتفاصيل ضمان القرض للمراجعة. **
+**يحتوي طلب القرض على تفاصيل حول مقدم الطلب وتفاصيل ضمان القرض للمراجعة.**
 
 أثناء عملية القرض ، فإن الخطوة الأولى التي يتعين على العميل أو الموظف القيام بها هي تقديم طلب قرض للمراجعة. في حالة الحصول على قرض مضمون ، يمكن أن يحتوي طلب القرض أيضًا على أوراق مالية مقترحة للقرض.
 
-! [تقديم طلب قرض] (https://docs.erpnext.com/files/loan-application-flow.png)
+![تقديم طلب قرض](https://docs.erpnext.com/files/loan-application-flow.png)
 
 للوصول إلى قائمة طلبات القرض ، انتقل إلى:
 
 > الصفحة الرئيسية> إدارة القروض> القرض> طلب القرض
 
-! [طلب قرض] (https://docs.erpnext.com/files/loan-application.png)
+![طلب قرض](https://docs.erpnext.com/files/loan-application.png)
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء ضمان القرض واستخدامه ، يُنصح بإنشاء ما يلي أولاً:
 
-* [نوع ضمان القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
-* [قرض الضمان] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security)
-* [نوع القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-type)
+* [نوع ضمان القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
+* [قرض الضمان](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security)
+* [نوع القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-type)
 
-## 2 \. كيفية إنشاء طلب قرض
+## 2. كيفية إنشاء طلب قرض
 
 1. اذهب إلى قائمة طلبات القرض ، وانقر على جديد.
 2. حدد نوع مقدم الطلب.
@@ -34,16 +34,16 @@
 8. انقر على "حفظ" لحفظ مسودة طلب القرض.
 9. انقر فوق "إرسال" لتقديم طلب القرض.
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 إنشاء تعهد ضمان القرض
 
-يمكن إنشاء [تعهد ضمان القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-pledge) بناءً على الأوراق المالية المقترحة من طلب القرض نفسه عبر زر ** إنشاء ** في أعلى اليمين. يمكن بعد ذلك التعهد بضمان القرض مقابل قرض كضمان أولي للقرض.
+يمكن إنشاء [تعهد ضمان القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-pledge) بناءً على الأوراق المالية المقترحة من طلب القرض نفسه عبر زر**إنشاء**في أعلى اليمين. يمكن بعد ذلك التعهد بضمان القرض مقابل قرض كضمان أولي للقرض.
 
-! [طلب قرض] (https://docs.erpnext.com/files/create-loan-security-pledge.png)
+![طلب قرض](https://docs.erpnext.com/files/create-loan-security-pledge.png)
 
 ### 3.2 تقديم طلب القرض
 
-بمجرد تقديم طلب القرض والموافقة عليه ، يمكنك إنشاء قرض من طلب القرض باستخدام زر ** إنشاء ** وسيتم تعيين جميع التفاصيل المطلوبة من طلب القرض تلقائيًا في القرض.
+بمجرد تقديم طلب القرض والموافقة عليه ، يمكنك إنشاء قرض من طلب القرض باستخدام زر**إنشاء**وسيتم تعيين جميع التفاصيل المطلوبة من طلب القرض تلقائيًا في القرض.
 
-! [طلب قرض] (https://docs.erpnext.com/files/create-loan.png)
+![طلب قرض](https://docs.erpnext.com/files/create-loan.png)

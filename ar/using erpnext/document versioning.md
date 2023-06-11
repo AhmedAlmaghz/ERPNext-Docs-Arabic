@@ -1,10 +1,10 @@
 ## إصدار الوثيقة
 
-** في ERPNext ، يعد تعيين إصدار المستند ميزة تتيح لك تتبع جميع التغييرات التي تم إجراؤها في نموذج أو مستند. **
+**في ERPNext ، يعد تعيين إصدار المستند ميزة تتيح لك تتبع جميع التغييرات التي تم إجراؤها في نموذج أو مستند.**
 
 تأتي هذه الميزة في متناول اليد أثناء إجراء "ذيل التدقيق" للتحقق من التغييرات التي تم إجراؤها في المستند بالإضافة إلى وقت التغيير وأصحاب المصلحة المسؤولين.
 
-! [إصدار المستند] (https://docs.erpnext.com/files/using-document-versioning-1.png)
+![إصدار المستند](https://docs.erpnext.com/files/using-document-versioning-1.png)
 
 ## كيفية تمكين تعيين إصدارات المستند
 
@@ -12,10 +12,10 @@
 
 1. انتقل إلى قائمة أوامر الشراء.
 2. انقر فوق "تخصيص" من القائمة المنسدلة.
-3. سيتم توجيهك إلى صفحة [Customize Form] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/customize-form) لطلب الشراء.
+3. سيتم توجيهك إلى صفحة [Customize Form](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/customize-form) لطلب الشراء.
 4. تحقق من حقل "تتبع التغييرات" في الخصائص.
     
-    ! [إصدار المستند] (https://docs.erpnext.com/files/using-document-versioning-2.gif)
+    ![إصدار المستند](https://docs.erpnext.com/files/using-document-versioning-2.gif)
     
 
 باستخدام هذا ، يجب تمكين إصدار المستند لجميع أوامر الشراء التي تم تحريرها من الآن فصاعدًا.
@@ -26,4 +26,4 @@
 
 عند النقر فوق هذه الروابط ، سيتم توجيهك إلى سجل بجميع الحقول والتغييرات التي أجريت فيه.
 
-! [إصدار المستند] (https://docs.erpnext.com/files/using-document-versioning-3.gif)
+![إصدار المستند](https://docs.erpnext.com/files/using-document-versioning-3.gif)

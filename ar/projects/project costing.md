@@ -1,10 +1,10 @@
-\n## تكاليف المشروع
+## تكاليف المشروع
 
 لكل مشروع مهام متعددة مرتبطة به. لتتبع التكلفة الفعلية للمشروع ، في المقام الأول من حيث الخدمات ، يتعين على المستخدم إنشاء سجل الدوام بناءً على الوقت الذي يقضيه في مهمة داخل المشروع. يمكنك تتبع تكلفة الخدمة مقابل مشروع بالطرق التالية.
 
 ## نوع النشاط
 
-[نوع النشاط] (https://docs.erpnext.com/docs/v13/user/manual/en/projects/activity-type) هو خبير في الخدمات التي يقدمها موظفوك. يمكنك إضافة نوع نشاط جديد من:
+[نوع النشاط](https://docs.erpnext.com/docs/v13/user/manual/en/projects/activity-type) هو خبير في الخدمات التي يقدمها موظفوك. يمكنك إضافة نوع نشاط جديد من:
 
 > الصفحة الرئيسية> المشروع> نوع النشاط> جديد
 
@@ -12,13 +12,13 @@
 
 تكلفة النشاط هي تكلفة رئيسية حيث يمكنك تتبع معدل الفواتير والتكلفة لكل موظف ، لكل نوع نشاط.
 
-! [تكلفة النشاط] (https://docs.erpnext.com/files/projects-activity-cost.png)
+![تكلفة النشاط](https://docs.erpnext.com/files/projects-activity-cost.png)
 
 ## ورقة التوقيت
 
-بناءً على الوقت الذي يقضيه الموظف في مهمة المشروع ، سيقوم الموظف بإنشاء [جدول زمني] (https://docs.erpnext.com/docs/v13/user/manual/en/projects/timesheets).
+بناءً على الوقت الذي يقضيه الموظف في مهمة المشروع ، سيقوم الموظف بإنشاء [جدول زمني](https://docs.erpnext.com/docs/v13/user/manual/en/projects/timesheets).
 
-! [الجدول الزمني] (https://docs.erpnext.com/files/projects-timesheet.png)
+![الجدول الزمني](https://docs.erpnext.com/files/projects-timesheet.png)
 
 عند تحديد نوع النشاط في سجل الوقت ، سيتم جلب الفواتير ومعدل التكلفة لهذا الموظف من [تكلفة النشاط] المعنية (https://docs.erpnext.com/docs/v13/user/manual/en/projects / تكلفة النشاط).
 
@@ -28,8 +28,8 @@
 
 استنادًا إلى جميع سجلات الدوام التي تم إنشاؤها لمهام محددة ، سيتم تحديث تكاليفها في المهمة المعنية.
 
-! [مهمة] (https://docs.erpnext.com/files/projects-task-costing.png)
+![مهمة](https://docs.erpnext.com/files/projects-task-costing.png)
 
 بنفس الطريقة ، سيتم تحديث تكلفة المشروع بناءً على الجداول الزمنية التي تم إنشاؤها مقابل كل مهمة من المهام المرتبطة بها ويتم تحديث تكلفة المشروع في وقت واحد.
 
-! [المشروع - التكلفة] (https://docs.erpnext.com/files/projects-costing-and-billing.png)
+![المشروع - التكلفة](https://docs.erpnext.com/files/projects-costing-and-billing.png)

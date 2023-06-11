@@ -8,4 +8,4 @@
 
 3) انتقل إلى قسم "تغيير كلمة المرور" ، وأدخل كلمة المرور الجديدة واحفظ النموذج لحفظ التغييرات
 
-! [] (https://docs.erpnext.com/files/5itelik.png)
+![](https://docs.erpnext.com/files/5itelik.png)

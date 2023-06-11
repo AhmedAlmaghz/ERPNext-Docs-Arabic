@@ -4,20 +4,20 @@
 
 يمكن للموظفين أيضًا إنشاء طلبات إجازة ، والتي يمكن لمديريهم (المعتمدين على الإجازة) الموافقة عليها أو رفضها. يمكن للموظف اختيار الإجازات من عدد من أنواع الإجازات مثل الإجازة المرضية والإجازة العرضية وإجازة الامتياز وما إلى ذلك.
 
-1. [قائمة العطلات] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/holiday-list)
+1. [قائمة العطلات](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/holiday-list)
     
-2. [نوع الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-type)
+2. [نوع الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-type)
     
-3. [فترة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-period)
+3. [فترة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-period)
     
-4. [سياسة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
+4. [سياسة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
     
-5. [ترك التخصيص] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-allocation)
+5. [ترك التخصيص](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-allocation)
     
-6. [اترك التطبيق] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-application)
+6. [اترك التطبيق](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-application)
     
-7. [طلب إجازة تعويضية] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/compensatory-leave-request)
+7. [طلب إجازة تعويضية](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/compensatory-leave-request)
     
-8. [إيداع الأموال] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-encashment)
+8. [إيداع الأموال](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-encashment)
     
-9. [قائمة الحظر مغادرة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-block-list)
+9. [قائمة الحظر مغادرة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-block-list)

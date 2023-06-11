@@ -1,6 +1,6 @@
-\n## عقد
+## عقد
 
-** العقد هو اتفاق ملزم قانونًا بين المورد والعميل بشأن البيع أو المنتجات أو الخدمات. **
+**العقد هو اتفاق ملزم قانونًا بين المورد والعميل بشأن البيع أو المنتجات أو الخدمات.**
 
 العقد واجب النفاذ قانونًا لأنه يفي بمتطلبات القانون وموافقته. تتضمن الاتفاقية عادةً تبادل السلع أو الخدمات أو الأموال أو الوعود الخاصة بأي منها.
 
@@ -8,22 +8,22 @@
 
 > الصفحة الرئيسية> خط أنابيب المبيعات> العقد
 
-## 1 \. كيفية إنشاء عقد
+## 1. كيفية إنشاء عقد
 
 1. اذهب إلى قائمة العقود وانقر على جديد.
 2. اختر الزبون.
 3. أدخل شروط العقد. يمكن أيضًا إنشاء نموذج لجلب المصطلحات بسهولة.
-4. حفظ. ! [Contract] (https://docs.erpnext.com/files/contract.png)
+4. حفظ. ![Contract](https://docs.erpnext.com/files/contract.png)
 
-** مستخدم طرف **: موظف من شركتك على اتصال بالعميل.
+**مستخدم طرف**: موظف من شركتك على اتصال بالعميل.
 
 ### 1.1 الأوضاع
 
-* ** غير موقع **: لم يوقع العميل على العقد بعد.
-* ** ساري المفعول **: تم توقيع العقد وهو ساري بموجب فترة العقد.
-* ** غير نشط **: العقد خارج فترة العقد ولم يعد ساريًا.
+***غير موقع**: لم يوقع العميل على العقد بعد.
+***ساري المفعول**: تم توقيع العقد وهو ساري بموجب فترة العقد.
+***غير نشط**: العقد خارج فترة العقد ولم يعد ساريًا.
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 فترة العقد
 
@@ -33,10 +33,10 @@
 
 سيظهر هذا القسم عندما يتم تحديد مربع الاختيار "تم التوقيع" للإشارة إلى أن العميل قد وقع العقد وقبله.
 
-! [موقع توقيع العقد] (https://docs.erpnext.com/files/contract-signee.png)
+![موقع توقيع العقد](https://docs.erpnext.com/files/contract-signee.png)
 
-* ** الموقع **: أدخل اسم الشخص الذي وقع العقد.
-* ** التوقيع **: التاريخ الذي تم فيه توقيع العقد.
+***الموقع**: أدخل اسم الشخص الذي وقع العقد.
+***التوقيع**: التاريخ الذي تم فيه توقيع العقد.
 
 ### 2.3 تفاصيل العقد
 
@@ -46,10 +46,10 @@
 
 إذا كان العقد يتطلب بعض الاستيفاء من طرف المورد (الخاص بك) ، فيمكن تسجيل تفاصيلها في جدول شروط الاستيفاء.
 
-! [تنفيذ العقد] (https://docs.erpnext.com/files/contract-fulfilment.png)
+![تنفيذ العقد](https://docs.erpnext.com/files/contract-fulfilment.png)
 
-* ** المتطلبات **: أدخل متطلبًا يجب الوفاء به. على سبيل المثال ، "التثبيت".
-* ** ملاحظات **: يمكن إدخال أي ملاحظات حول المتطلبات هنا.
+***المتطلبات**: أدخل متطلبًا يجب الوفاء به. على سبيل المثال ، "التثبيت".
+***ملاحظات**: يمكن إدخال أي ملاحظات حول المتطلبات هنا.
 
 ### 2.5 نموذج العقد
 
@@ -65,7 +65,7 @@
 
 عند إنشاء عقد جديد باستخدام هذا النموذج ، يتم استبدال "{{start_date}}" بالتاريخ الذي تم إدخاله في الحقل الذي يحمل نفس الاسم.
 
-! [نموذج العقد] (https://docs.erpnext.com/files/contract-template-jinja.gif)
+![نموذج العقد](https://docs.erpnext.com/files/contract-template-jinja.gif)
 
 ### 2.6 المراجع
 
@@ -78,12 +78,12 @@
 *   فاتورة المبيعات
 * فاتورة الشراء
 
-! [مراجع العقد] (https://docs.erpnext.com/files/contract-reference.png)
+![مراجع العقد](https://docs.erpnext.com/files/contract-reference.png)
 
-1. [اقتباس] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/quotation)
-2. [أمر الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/buying/purchase-order)
-3. [أمر المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
-4. [إيصال الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/purchase-receipt)
-5. [مذكرة التسليم] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note)
-6. [فاتورة المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
-7. [فاتورة الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
+1. [اقتباس](https://docs.erpnext.com/docs/v13/user/manual/en/selling/quotation)
+2. [أمر الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/buying/purchase-order)
+3. [أمر المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
+4. [إيصال الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/stock/purchase-receipt)
+5. [مذكرة التسليم](https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note)
+6. [فاتورة المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
+7. [فاتورة الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)

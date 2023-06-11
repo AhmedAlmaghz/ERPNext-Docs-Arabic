@@ -1,6 +1,6 @@
 ## الافتراضات العالمية
 
-** يمكن تعيين القيم الافتراضية للمستندات مثل العملة والسنة المالية وما إلى ذلك من الإعدادات الافتراضية العالمية. **
+**يمكن تعيين القيم الافتراضية للمستندات مثل العملة والسنة المالية وما إلى ذلك من الإعدادات الافتراضية العالمية.**
 
 ستؤثر القيم التي تم تعيينها هنا على جميع المستخدمين وسيتم تعيين القيم الافتراضية للحقول المختلفة لهم.
 
@@ -12,7 +12,7 @@
 
 عندما يتم إنشاء مستند جديد ، سيتم تعيين هذه القيم كافتراضية.
 
-! [الإعدادات الافتراضية العامة] (https://docs.erpnext.com/files/global-defaults.png)
+![الإعدادات الافتراضية العامة](https://docs.erpnext.com/files/global-defaults.png)
 
 * الشركة الافتراضية
 * السنة المالية الحالية
@@ -23,6 +23,6 @@
 * تعطيل تقريب الإجمالي
 * تعطيل في الكلمات
 
-تُستخدم وحدة المسافة الافتراضية لحساب المسافة الإجمالية في [Delivery Trips] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-trip).
+تُستخدم وحدة المسافة الافتراضية لحساب المسافة الإجمالية في [Delivery Trips](https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-trip).
 
-1. [إعدادات النظام] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/system-settings)
+1. [إعدادات النظام](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/system-settings)

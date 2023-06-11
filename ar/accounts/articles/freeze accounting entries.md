@@ -1,4 +1,4 @@
-\n## تجميد إدخالات المحاسبة
+## تجميد إدخالات المحاسبة
 
 لتجميد قيود المحاسبة حتى تاريخ معين ، اتبع الخطوات الموضحة أدناه.
 
@@ -8,14 +8,14 @@
 
 #### الخطوة الثانية: تحديد التاريخ
 
-حدد التاريخ في الحقل ** Accounts Frozen Upto **.
+حدد التاريخ في الحقل**Accounts Frozen Upto**.
 
-! [تم إغلاق الكتب من خلال] (https://docs.erpnext.com/files/books-closed-through.png)
+![تم إغلاق الكتب من خلال](https://docs.erpnext.com/files/books-closed-through.png)
 
 الآن ، لن يسمح النظام بإجراء أي إدخالات محاسبية قبل التاريخ المحدد. إذا حاول شخص ما إنشاء إدخالات على الإطلاق ، فسيعرض النظام رسالة الخطأ على النحو التالي.
 
-! [خطأ تاريخ التجميد] (https://docs.erpnext.com/files/error-message-in-transaction.png)
+![خطأ تاريخ التجميد](https://docs.erpnext.com/files/error-message-in-transaction.png)
 
 لا يزال بإمكانك السماح للمستخدم الذي له دور معين بإنشاء / تحرير الإدخالات في تاريخ تجميد الحسابات. يمكنك تعيين هذا الدور في إعدادات الحساب نفسها.
 
-! [الدور المسموح به لإغلاق الكتب] (https://docs.erpnext.com/files/role-allowed-to-close-books.png)
+![الدور المسموح به لإغلاق الكتب](https://docs.erpnext.com/files/role-allowed-to-close-books.png)

@@ -2,8 +2,8 @@
 
 ### الخطوة الأولى: تعرف على نوع المستند الذي تم إنشاء التقرير منه
 
-! [] (https://docs.erpnext.com/files/rcDRhRG.gif)
+![](https://docs.erpnext.com/files/rcDRhRG.gif)
 
 ### الخطوة 2: انتقل إلى "مدير أذونات الدور" ، وقم بالتصفية باستخدام نفس نوع المستند _ (فاتورة المبيعات في مثالنا) _ وعدّل الأذونات بناءً على الأدوار
 
-! [] (https://docs.erpnext.com/files/mqBtoqD.gif)
+![](https://docs.erpnext.com/files/mqBtoqD.gif)

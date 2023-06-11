@@ -1,4 +1,4 @@
-\n## الفصل
+## الفصل
 
 يسمح لك نوع مستند الفصل بتسجيل تفاصيل الفصل.
 
@@ -8,7 +8,7 @@
 
 > غير ربحية> فصل> جديد
 
-! [الفصل] (https://docs.erpnext.com/files/chapter.png)
+![الفصل](https://docs.erpnext.com/files/chapter.png)
 
 يمكن لمستخدم النظام أو رئيس الفصل إضافة عضو الفصل مباشرة من المكتب أو يمكن للمستخدم الانضمام مباشرة عن طريق زيارة صفحة الفصل على موقع الويب
 
@@ -16,8 +16,8 @@
 
 > حسابي على الموقع> الفصل من الشريط الجانبي> حدد الفصل المتاح وانقر على زر الانضمام إلى الفصل
 
-! [فصل على الإنترنت] (https://docs.erpnext.com/files/online_chapter.png)
+![فصل على الإنترنت](https://docs.erpnext.com/files/online_chapter.png)
 
-! [فصل على الإنترنت] (https://docs.erpnext.com/files/online_chapter_join.png)
+![فصل على الإنترنت](https://docs.erpnext.com/files/online_chapter_join.png)
 
 لمغادرة الفصل اضغط على زر مغادرة الفصل

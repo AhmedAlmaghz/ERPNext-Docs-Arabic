@@ -4,9 +4,9 @@
 
 * بعد إنشاء سيد العنصر ، قم بإنشاء قائمة مكونات الصنف لأي من FG ستنتجه من النفط الخام (RM). لقد قمت هنا بإنشاء BOM of Petrol لـ 25 لترًا حيث سأستخدم الزيت الخام (RM) من الكمية. 100 لتر. لقد أضفت بقية FG مثل الغاز والديزل والكيروسين في قسم الخردة.
 
-! [] (https://docs.erpnext.com/files/1VHaiPf.png)
+![](https://docs.erpnext.com/files/1VHaiPf.png)
 
-! [] (https://docs.erpnext.com/files/mg68Dbr.png)
+![](https://docs.erpnext.com/files/mg68Dbr.png)
 
 * أثناء إنشاء قائمة مكونات الصنف ، يمكنك إضافة العمليات أيضًا وتشغيل دورة الإنتاج (أمر العمل) وفقًا لذلك.
 

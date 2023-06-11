@@ -1,6 +1,6 @@
-\n\n## بطاقة عمل
+## بطاقة عمل
 
-** تخزن بطاقة العمل معلومات الإنتاج الفعلية حول عملية معينة يتم إجراؤها على محطة عمل معينة. **
+**تخزن بطاقة العمل معلومات الإنتاج الفعلية حول عملية معينة يتم إجراؤها على محطة عمل معينة.**
 
 يتم إنشاء بطاقة العمل من أمر العمل ويتم تقديمها لكل محطة عمل في طابق التصنيع لبدء إنتاج عنصر بكمية معينة في كل من العمليات المحددة في أمر العمل.
 
@@ -8,28 +8,28 @@
 
 سيؤدي إكمال بطاقة العمل إلى تغيير حالة الإنتاج في أمر العمل ، ويمكننا تتبع إكمال تقدم الإنتاج لكل من العمليات المحددة في أمر العمل.
 
-! [أمر العمل] (https://docs.erpnext.com/files/manufacturing-flow-jc.png)
+![أمر العمل](https://docs.erpnext.com/files/manufacturing-flow-jc.png)
 
 للوصول إلى قائمة بطاقة العمل ، انتقل إلى:
 
 > الصفحة الرئيسية> التصنيع> الإنتاج> بطاقة العمل
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء بطاقة العمل واستخدامها ، يُنصح بإنشاء ما يلي أولاً:
 
-* [فاتورة المواد] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/bill-of-materials)
-* [عملية] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/operation)
-* [محطة العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/workstation)
-* [أمر العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order)
+* [فاتورة المواد](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/bill-of-materials)
+* [عملية](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/operation)
+* [محطة العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/workstation)
+* [أمر العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order)
 
-## 2 \. كيفية إنشاء بطاقة عمل
+## 2. كيفية إنشاء بطاقة عمل
 
 يتم إنشاء بطاقة العمل للعمليات تلقائيًا عند تقديم طلب العمل.
 
 هذا ما تبدو عليه بطاقة العمل:
 
-! [بطاقة العمل] (https://docs.erpnext.com/files/job-card.png)
+![بطاقة العمل](https://docs.erpnext.com/files/job-card.png)
 
 لاستخدام بطاقة العمل ، اتبع الخطوات التالية:
 
@@ -40,13 +40,13 @@
 5. أضف المزيد من الصفوف في جدول سجلات الوقت وسجل الوقت باستخدام زري البدء / الإكمال.
 6. انقر فوق إرسال.
 
-في أمر العمل ، يتم جلب العمليات ومحطات العمل من قائمة مكونات الصنف. لسهولة الاستخدام ، يجب التأكد من تكوين [التوجيه] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/routing) في قائمة مكونات الصنف.
+في أمر العمل ، يتم جلب العمليات ومحطات العمل من قائمة مكونات الصنف. لسهولة الاستخدام ، يجب التأكد من تكوين [التوجيه](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/routing) في قائمة مكونات الصنف.
 
 سيتم تعيين محطة العمل والعمليات لكل بطاقة عمل تم إنشاؤها. سيتم حساب المواد الخام المطلوبة من كل مستودع مصدر بناءً على الكمية المطلوبة للإنتاج.
 
 عند إرسال طلب عمل ، سيتم إنشاء بطاقات العمل تلقائيًا استنادًا إلى القيم الموجودة في جدول العمليات.
 
-! [إنشاء مساهم] (https://docs.erpnext.com/files/work-order-job-card-creation.gif)
+![إنشاء مساهم](https://docs.erpnext.com/files/work-order-job-card-creation.gif)
 
 ### 2.1 حدد أمر العمل مع العنصر المطلوب تصنيعه
 
@@ -54,33 +54,33 @@
 
 في أمر العمل ، يمكنك تحديد الخيار:
 
-! [إنشاء مساهم] (https://docs.erpnext.com/files/work-order-transfer-against-job-card.png)
+![إنشاء مساهم](https://docs.erpnext.com/files/work-order-transfer-against-job-card.png)
 
 ### 2.3 استخدام بطاقة العمل
 
 سيتم أيضًا تحديد تفاصيل تعيين الموظف والتوقيت في بطاقة العمل. يمكن تسجيل الوقت المستغرق للقيام بعمل ما. إذا كان هناك عدة موظفين يعملون في نفس العملية ، فأضف بطاقات عمل جديدة بالنقر فوق الزر "إنشاء بطاقة عمل".
 
-! [إنشاء مساهم] (https://docs.erpnext.com/files/job-card-form.png)
+![إنشاء مساهم](https://docs.erpnext.com/files/job-card-form.png)
 
 ### 2.4 طلب المواد مقابل بطاقة العمل
 
 سيتم رفع طلب المواد من بطاقة العمل كأساس / طلب لإعداد المواد الخام المطلوبة لعملية التصنيع. سيكون لطلب المواد الذي تم رفعه إشارة مرجعية إلى رقم بطاقة العمل الأصلي.
 
-! [إنشاء مساهم] (https://docs.erpnext.com/files/material-request-against-job-card.png)
+![إنشاء مساهم](https://docs.erpnext.com/files/material-request-against-job-card.png)
 
 تتبع تقدم التصنيع في أمر العمل من خلال إكمال كل عملية محددة في أمر العمل.
 
 يتيح لك إكمال بطاقة العمل تتبع تقدم التصنيع داخل أمر العمل من خلال النظر في إكمال كل عملية متعلقة بطلب العمل.
 
-! [إكمال بطاقة عمل طلب العمل] (https://docs.erpnext.com/files/work-order-job-card-completion.png)
+![إكمال بطاقة عمل طلب العمل](https://docs.erpnext.com/files/work-order-job-card-completion.png)
 
 ### 2.5 عناصر الخردة
 
 أثناء إكمال العمليات ، قد تكون هناك فرص لإنتاج بعض مواد الخردة. يجب إضافة هذه المواد الخردة في المخزون. لذلك يحتاج المستخدم إلى وضع تفاصيل عناصر الخردة في بطاقة العمل. يمكن للمستخدم أيضًا تعيين المواد المعيبة / المواد المكسورة في جدول العناصر الخردة.
 
-! [إتمام بطاقة عمل طلب العمل] (https://docs.erpnext.com/files/job_card_scrap_item.png)
+![إتمام بطاقة عمل طلب العمل](https://docs.erpnext.com/files/job_card_scrap_item.png)
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 تتبع فحص الجودة
 
@@ -88,8 +88,8 @@
 
 بالنسبة لأوامر الإنتاج ، يجب أيضًا تتبع جودة السلع قيد المعالجة (نصف النهائية). يتم تعريفها من خلال العملية (العملية) التي يتم إجراؤها عليها والتي يتم تحديدها بدورها في بطاقة العمل. تختلف الاختبارات قيد المعالجة عن اختبارات المواد الواردة والصادرة. تساعد مراقبة الجودة أثناء التصنيع على التأكد من أن المنتج النهائي المنتج بالجودة المطلوبة. يمكنك إنشاء استقصاء جودة لعنصر الإنتاج مقابل بطاقة العمل.
 
-! [فحص الجودة مقابل بطاقة العمل] (https://docs.erpnext.com/files/qi-against-job-card.png)
+![فحص الجودة مقابل بطاقة العمل](https://docs.erpnext.com/files/qi-against-job-card.png)
 
-! [رابط فحص الجودة في بطاقة العمل] (https://docs.erpnext.com/files/qi-link-in-job-card.png)
+![رابط فحص الجودة في بطاقة العمل](https://docs.erpnext.com/files/qi-link-in-job-card.png)
 
-لمزيد من التفاصيل ، راجع صفحة [فحص الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/quality-inspection).
+لمزيد من التفاصيل ، راجع صفحة [فحص الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/stock/quality-inspection).

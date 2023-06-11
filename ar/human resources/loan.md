@@ -1,21 +1,21 @@
-\n** بمجرد موافقة المدير على طلب القرض ، يمكن إنشاء سجل للقرض وجدول السداد لمقدم الطلب باستخدام القرض. **
+\n**بمجرد موافقة المدير على طلب القرض ، يمكن إنشاء سجل للقرض وجدول السداد لمقدم الطلب باستخدام القرض.**
 
 للوصول إلى القرض ، انتقل إلى:
 
 \> الموارد البشرية> القروض> القرض
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء سجل قرض ، من الضروري إنشاء المستندات التالية:
 
-* [نوع القرض] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-type)
+* [نوع القرض](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-type)
     
-* [طلب قرض] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-application)
+* [طلب قرض](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-application)
     
-* [مخطط الحسابات] (https://docs.erpnext.com/docs/v14/user/manual/en/accounts/chart-of-accounts)
+* [مخطط الحسابات](https://docs.erpnext.com/docs/v14/user/manual/en/accounts/chart-of-accounts)
     
 
-## 2 \. كيفية إنشاء سجل قرض
+## 2. كيفية إنشاء سجل قرض
 
 1. انتقل إلى: قرض> جديد.
     
@@ -25,39 +25,39 @@
     
 4. أدخل تاريخ بدء السداد.
     
-    ! [قرض] (https://docs.erpnext.com/files/loan1.png)
+    ![قرض](https://docs.erpnext.com/files/loan1.png)
     
 5. أدخل معلومات الحساب مثل طريقة الدفع وحساب الدفع وحساب القرض وحساب دخل الفوائد.
     
 6. حفظ. بمجرد الحفظ ، يتم إنشاء جدول السداد تلقائيًا. سيتم تحديد تاريخ السداد الأول وفقًا لـ "تاريخ بدء السداد". ال
     
-    ! [جدول السداد] (https://docs.erpnext.com/files/loan2.png)
+    ![جدول السداد](https://docs.erpnext.com/files/loan2.png)
     
 
 \> ملاحظة: حدد "السداد من الراتب" إذا كان سداد القرض سيتم خصمه من الراتب
 
-يمكنك بدلاً من ذلك إنشاء سجل قرض مباشرةً من [Loan Application] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-application)
+يمكنك بدلاً من ذلك إنشاء سجل قرض مباشرةً من [Loan Application](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-application)
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 إنشاء إدخال الصرف
 
 بعد تقديم مستند القرض ، إذا كانت الحالة "موافق عليه" ، يمكنك النقر فوق "إنشاء إدخال صرف" لإنشاء إدخال دفتر يومية للقرض.
 
-! [إدخال الصرف] (https://docs.erpnext.com/files/disbursement-entry.png)
+![إدخال الصرف](https://docs.erpnext.com/files/disbursement-entry.png)
 
 ### 3.2 خصم سداد القرض من الراتب
 
 لخصم سداد القرض تلقائيًا من الراتب ، حدد "السداد من الراتب" في القرض. سيظهر على أنه سداد قرض في قسيمة الراتب.
 
-! [قسيمة الراتب] (https://docs.erpnext.com/files/salary-slip-loan.png)
+![قسيمة الراتب](https://docs.erpnext.com/files/salary-slip-loan.png)
 
 ### 3.3 تمديد القرض
 
 يتم خصم مبلغ القرض من الراتب. إذا كان الموظف في إجازة بدون أجر لبعض الوقت ، فيمكن تمديد القرض الحالي دون الحاجة إلى إنشاء قرض جديد. يمكن القيام بذلك عن طريق تحرير جدول جدول السداد حتى بعد تقديم القرض.
 
-! [تمديد القرض] (https://docs.erpnext.com/files/change-loan-amount.gif)
+![تمديد القرض](https://docs.erpnext.com/files/change-loan-amount.gif)
 
-1. [إدخال دفتر اليومية] (https://docs.erpnext.com/docs/v14/user/manual/en/accounts/journal-entry)
+1. [إدخال دفتر اليومية](https://docs.erpnext.com/docs/v14/user/manual/en/accounts/journal-entry)
     
-2. [إدخال كشوف المرتبات] (https://docs.erpnext.com/docs/v14/user/manual/en/accounts/payment-entry)
+2. [إدخال كشوف المرتبات](https://docs.erpnext.com/docs/v14/user/manual/en/accounts/payment-entry)

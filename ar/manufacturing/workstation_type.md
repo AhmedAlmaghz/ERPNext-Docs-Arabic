@@ -1,4 +1,4 @@
-\n## نوع محطة العمل
+## نوع محطة العمل
 
 إذا كان لدى المستخدمين نفس أنواع محطات العمل المتعددة (الأجهزة) ويريد المستخدمون تعيين المهام تلقائيًا إلى محطة العمل المتاحة بناءً على نوع محطة العمل ، فإن هذه الميزة هي الخيار الأفضل لهم.
 
@@ -6,7 +6,7 @@
 
 > الصفحة الرئيسية> التصنيع> نوع محطة العمل
 
-! [] (https://docs.erpnext.com/private/files/workstation-type.png)
+![](https://docs.erpnext.com/private/files/workstation-type.png)
 
 بعد إضافة نوع محطة العمل ، يتعين على المستخدمين تعيين نوع محطة العمل إلى محطة العمل المعنية وتعيين نوع محطة العمل إلى العملية المعنية في قائمة مكونات الصنف.
 
@@ -14,14 +14,14 @@
 
 > الصفحة الرئيسية> التصنيع> محطة العمل> إضافة محطة العمل> حدد نوع محطة العمل
 
-! [] (https://docs.erpnext.com/private/files/workstation-link-workstation-type.png)
+![](https://docs.erpnext.com/private/files/workstation-link-workstation-type.png)
 
 لتعيين نوع محطة العمل على BOM GoTo
 
 > الصفحة الرئيسية> التصنيع> محطة العمل> إضافة قائمة مكونات الصنف> حدد نوع محطة العمل مقابل العملية
 
-! [] (https://docs.erpnext.com/private/files/bom-workstation-type.png)
+![](https://docs.erpnext.com/private/files/bom-workstation-type.png)
 
 بعد إعداد نوع محطة العمل عند قيام المستخدم بإجراء أمر العمل مع نظام العمليات ، سيقوم بإنشاء بطاقات العمل مقابل العملية وتعيين محطة العمل المتاحة بناءً على نوع محطة العمل المعينة في قائمة مكونات الصنف.
 
-! [] (https://docs.erpnext.com/private/files/job-card-workstation-type.png)
+![](https://docs.erpnext.com/private/files/job-card-workstation-type.png)

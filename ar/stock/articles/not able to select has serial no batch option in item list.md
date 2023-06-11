@@ -2,16 +2,16 @@
 
 لا يسمح لك النظام ، حسب التصميم ، بتنشيط هذه الخيارات بمجرد إجراء معاملات الأسهم.
 
-! [] (https://docs.erpnext.com/files/a0VHlSB.png)
+![](https://docs.erpnext.com/files/a0VHlSB.png)
 
-يمكنك قراءة المزيد حول سبب تعطيل نفس الشيء [هنا] (https://erpnext.com/docs/user/manual/en/stock/articles/maintain-stock-field-frozen-in-item-master.html) .
+يمكنك قراءة المزيد حول سبب تعطيل نفس الشيء [هنا](https://erpnext.com/docs/user/manual/en/stock/articles/maintain-stock-field-frozen-in-item-master.html) .
 
 لتمكين الخيارات مرة أخرى ، يمكنك إما حذف جميع معاملات المخزون لهذا العنصر ، أو إذا لم يكن ذلك خيارًا ، فيمكنك تكرار نفس العنصر وإدخال المخزون مع تحديد هذه الخيارات.
 
 **خطوات:**
 
-1. سيتعين عليك أولاً تخزين العنصر الحالي باستخدام أداة تسوية المخزون (جعل المخزون الحالي صفرًا). يمكنك أيضًا تخزين العنصر عن طريق إدخال مخزون من النوع ** إصدار مادة **.
-2. ثم باستخدام استلام المواد ، قم بإدخال المخزون المتسلسل إلى الداخل. ارجع إلى الرابط التالي للحصول على مساعدة بشأن نفسه: [https://erpnext.org/docs/user/manual/en/stock/articles/opening-stock-balance-entry-for-serialized-and-batch-item] ( https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/opening-stock-balance-entry-for-serialized-and-batch-item)
+1. سيتعين عليك أولاً تخزين العنصر الحالي باستخدام أداة تسوية المخزون (جعل المخزون الحالي صفرًا). يمكنك أيضًا تخزين العنصر عن طريق إدخال مخزون من النوع**إصدار مادة**.
+2. ثم باستخدام استلام المواد ، قم بإدخال المخزون المتسلسل إلى الداخل. ارجع إلى الرابط التالي للحصول على مساعدة بشأن نفسه: [https://erpnext.org/docs/user/manual/en/stock/articles/opening-stock-balance-entry-for-serialized-and-batch-item]( https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/opening-stock-balance-entry-for-serialized-and-batch-item)
 3. قم بتعطيل العناصر القديمة بحيث لا يمكن تحديدها في المعاملات مرة أخرى.
 
-** ملاحظة: ** إذا كنت تريد الاحتفاظ برمز العنصر نفسه ، فستحتاج إلى إعادة تسمية العناصر الموجودة ، ثم إنشاء العنصر الجديد وفقًا لرمز العنصر الفعلي. خلاف ذلك ، ستحتفظ بالعنصر تحت رمز جديد.
+**ملاحظة:**إذا كنت تريد الاحتفاظ برمز العنصر نفسه ، فستحتاج إلى إعادة تسمية العناصر الموجودة ، ثم إنشاء العنصر الجديد وفقًا لرمز العنصر الفعلي. خلاف ذلك ، ستحتفظ بالعنصر تحت رمز جديد.

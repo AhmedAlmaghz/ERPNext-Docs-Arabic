@@ -1,128 +1,128 @@
-\n\n## أنواع الحقول
+## أنواع الحقول
 
 فيما يلي أنواع الحقول التي يمكنك تحديدها أثناء إنشاء حقول جديدة أو أثناء تعديل الحقول القياسية.
 
 #### وصلة
 
-يرتبط حقل الارتباط بسيد آخر من حيث يقوم بجلب البيانات. على سبيل المثال ، في عرض الأسعار الرئيسي ، يكون العميل عبارة عن حقل ارتباط. لمعرفة المزيد ، [انقر هنا] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/creating-custom-link-field).
+يرتبط حقل الارتباط بسيد آخر من حيث يقوم بجلب البيانات. على سبيل المثال ، في عرض الأسعار الرئيسي ، يكون العميل عبارة عن حقل ارتباط. لمعرفة المزيد ، [انقر هنا](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/creating-custom-link-field).
 
 #### الارتباط الديناميكي
 
-حقل الارتباط الديناميكي هو حقل يمكنه البحث عن قيمة أي مستند / مستند والاحتفاظ به. [انقر هنا] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/dynamic-link-fields) لمعرفة كيفية عمل حقل الارتباط الديناميكي.
+حقل الارتباط الديناميكي هو حقل يمكنه البحث عن قيمة أي مستند / مستند والاحتفاظ به. [انقر هنا](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/dynamic-link-fields) لمعرفة كيفية عمل حقل الارتباط الديناميكي.
 
 #### يفحص
 
 سيمكنك هذا من الحصول على مربع اختيار هنا.
 
-! [تحقق من نوع الحقل] (https://docs.erpnext.com/files/field-type-check.png)
+![تحقق من نوع الحقل](https://docs.erpnext.com/files/field-type-check.png)
 
 #### يختار
 
 التحديد سيكون حقل قائمة منسدلة. يمكنك إضافة نتائج متعددة في حقل الخيار ، مفصولة بصف.
 
-! [حدد نوع الحقل] (https://docs.erpnext.com/files/field-type-select.png)
+![حدد نوع الحقل](https://docs.erpnext.com/files/field-type-select.png)
 
 #### طاولة
 
 سيكون الجدول نوعًا من حقل الارتباط الذي يعرض نوع DocType آخر داخل النموذج الحالي. على سبيل المثال ، يعد جدول العناصر في طلب المبيعات حقل جدول مرتبطًا بنوع مستند أمر المبيعات.
 
-! [نوع حقل الجدول] (https://docs.erpnext.com/files/field-type-table.png)
+![نوع حقل الجدول](https://docs.erpnext.com/files/field-type-table.png)
 
 #### يربط
 
 يسمح لك الحقل "إرفاق" باستعراض حقل من "مدير الملفات" وإرفاقه هنا.
 
-! [إرفاق نوع الحقل] (https://docs.erpnext.com/files/field-type-attach.png)
+![إرفاق نوع الحقل](https://docs.erpnext.com/files/field-type-attach.png)
 
 #### إرفاق صورة
 
 إرفاق صورة هو حقل حيث يُسمح لك بإرفاق صور بتنسيق jpeg و png وما إلى ذلك. يصبح هذا هو الصورة التي تمثل نوع DocType المعين. على سبيل المثال ، قد ترغب في الحصول على صورة عنصر في DocType الخاص به ، يمكنك اختيار الحقل الخاص بك ليكون "إرفاق حقل صورة".
 
-! [صورة نوع الحقل] (https://docs.erpnext.com/files/field-type-image.png)
+![صورة نوع الحقل](https://docs.erpnext.com/files/field-type-image.png)
 
 #### محرر النص
 
 محرر النصوص هو حقل نصي. لديها خيارات تنسيق النص. في ERPNext ، يتم استخدام هذا الحقل بشكل عام لتعريف الشروط والأحكام.
 
-! [محرر نص نوع الحقل] (https://docs.erpnext.com/files/field-type-text-editor.png)
+![محرر نص نوع الحقل](https://docs.erpnext.com/files/field-type-text-editor.png)
 
 #### تاريخ
 
 سيمكنك هذا الحقل من إدخال التاريخ في هذا الحقل.
 
-! [تاريخ نوع الحقل] (https://docs.erpnext.com/files/field-type-date.png)
+![تاريخ نوع الحقل](https://docs.erpnext.com/files/field-type-date.png)
 
 #### التاريخ و الوقت
 
 سيعطيك هذا الحقل منتقي التاريخ والوقت. يتم تعيين التاريخ والوقت الحاليين (على النحو المنصوص عليه بواسطة جهاز الكمبيوتر الخاص بك) بشكل افتراضي.
 
-! [تاريخ ووقت نوع الحقل] (https://docs.erpnext.com/files/field-type-date-and-time.png)
+![تاريخ ووقت نوع الحقل](https://docs.erpnext.com/files/field-type-date-and-time.png)
 
 #### الباركود
 
 في هذا الحقل ، يمكنك تحديد الحقل كرمز شريطي والذي سيسمح لك بإدخال رقم الباركود. بمجرد القيام بذلك ، سيتم إنشاء الرمز الشريطي تلقائيًا مقابل الرقم.
 
-! [رمز شريطي لنوع الحقل] (https://docs.erpnext.com/files/field-type-barcode.png)
+![رمز شريطي لنوع الحقل](https://docs.erpnext.com/files/field-type-barcode.png)
 
 #### زر
 
 سيكون هذا النوع من الحقول عبارة عن زر إجراء ، مثل حفظ وإرسال وما إلى ذلك.
 
-! [زر نوع الحقل] (https://docs.erpnext.com/files/field-type-button.png)
+![زر نوع الحقل](https://docs.erpnext.com/files/field-type-button.png)
 
 #### شفرة
 
 إذا تم تحديد نوع الحقل كرمز ، فستتمكن من إدخال رمز في الحقل.
 
-! [رمز نوع الحقل] (https://docs.erpnext.com/files/field-type-code.png)
+![رمز نوع الحقل](https://docs.erpnext.com/files/field-type-code.png)
 
 #### لون
 
 سيكون لديك خيار تحديد لون هذا النموذج.
 
-! [لون نوع الحقل] (https://docs.erpnext.com/files/field-type-colour.png)
+![لون نوع الحقل](https://docs.erpnext.com/files/field-type-colour.png)
 
 #### فاصل العمود
 
 نظرًا لأن ERPNext يحتوي على تخطيطات أعمدة متعددة ، باستخدام فواصل الأعمدة ، يمكنك تقسيم مجموعة من الحقول إلى عمودين كحد أقصى.
 
-! [فاصل عمود نوع الحقل] (https://docs.erpnext.com/files/field-type-column-break.png)
+![فاصل عمود نوع الحقل](https://docs.erpnext.com/files/field-type-column-break.png)
 
 #### عملة
 
 يحتوي حقل العملة على قيمة رقمية ، مثل سعر العنصر ، والمبلغ ، وما إلى ذلك. يمكن أن يحتوي حقل العملة على قيمة تصل إلى ستة منازل عشرية. أيضًا ، يمكن أن يكون لديك رمز عملة معروض لحقل العملة.
 
-! [عملة نوع الحقل] (https://docs.erpnext.com/files/field-type-currency.png)
+![عملة نوع الحقل](https://docs.erpnext.com/files/field-type-currency.png)
 
 #### بيانات
 
 سيكون حقل البيانات حقلاً نصيًا بسيطًا. يسمح لك بإدخال قيمة تصل إلى 140 حرفًا ، مما يجعل هذا النوع من الحقول الأكثر عمومية. لتمكين عمليات التحقق من إدخالات البريد الإلكتروني أو الاسم أو رقم الهاتف ، عيّن الخيارات على "البريد الإلكتروني" أو "الاسم" أو "الهاتف" في الإعدادات> DocType.
 
-! [بيانات نوع الحقل] (https://docs.erpnext.com/files/field-type-data.png)
+![بيانات نوع الحقل](https://docs.erpnext.com/files/field-type-data.png)
 
 #### يطفو
 
-يحمل الحقل Float قيمة عددية تصل إلى تسعة منازل عشرية. يتم تعيين دقة حقل الطفو عبر [Set Precision] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/set-precision)
+يحمل الحقل Float قيمة عددية تصل إلى تسعة منازل عشرية. يتم تعيين دقة حقل الطفو عبر [Set Precision](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/set-precision)
 
 > الإعداد> الإعدادات> إعدادات النظام
 
 سيكون الإعداد قابلاً للتطبيق على جميع الحقول العائمة.
 
-! [Field Type Float] (https://docs.erpnext.com/files/field-type-float.png)
+![Field Type Float](https://docs.erpnext.com/files/field-type-float.png)
 
 #### تحديد الموقع الجغرافي
 
-استخدم حقل تحديد الموقع الجغرافي لتخزين GeoJSON [feature \ _collection] (https://tools.ietf.org/html/rfc7946#section-3.3). يخزن المضلعات والخطوط والنقاط. داخليًا ، يستخدم الخصائص المخصصة التالية لتحديد الدائرة.
+استخدم حقل تحديد الموقع الجغرافي لتخزين GeoJSON [feature \ _collection](https://tools.ietf.org/html/rfc7946#section-3.3). يخزن المضلعات والخطوط والنقاط. داخليًا ، يستخدم الخصائص المخصصة التالية لتحديد الدائرة.
 
-اقرأ [حقل تحديد الموقع الجغرافي] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/geolocation-field) لمزيد من الفهم.
+اقرأ [حقل تحديد الموقع الجغرافي](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/geolocation-field) لمزيد من الفهم.
 
-! [تحديد الموقع الجغرافي لنوع الحقل] (https://docs.erpnext.com/files/field-type-geolocation.png)
+![تحديد الموقع الجغرافي لنوع الحقل](https://docs.erpnext.com/files/field-type-geolocation.png)
 
 #### لغة البرمجة
 
 يمكنك تحديد الحقل ليكون حقل HTML عندما تريد إدخال البيانات بتنسيق HTML.
 
-! [HTML نوع الحقل] (https://docs.erpnext.com/files/field-type-html.png)
+![HTML نوع الحقل](https://docs.erpnext.com/files/field-type-html.png)
 
 #### صورة
 
@@ -130,94 +130,94 @@
 
 بالنسبة لحقل الصورة ، ضمن خيار (في Doctype) ، يجب توفير اسم حقل حيث يتم إرفاق ملف الصورة. بالإشارة إلى القيمة الموجودة في هذا الحقل ، ستكون الصورة مرجعًا في حقل الصورة.
 
-! [صورة نوع الحقل] (https://docs.erpnext.com/files/field-type-image2.png)
+![صورة نوع الحقل](https://docs.erpnext.com/files/field-type-image2.png)
 
 #### كثافة العمليات (عدد صحيح)
 
 يحتوي حقل العدد الصحيح على قيمة عددية ، بدون مكان عشري.
 
-! [Field Type Integer] (https://docs.erpnext.com/files/field-type-integer.png)
+![Field Type Integer](https://docs.erpnext.com/files/field-type-integer.png)
 
 #### نص صغير
 
 يحمل حقل النص الصغير محتوى نصيًا وله عدد أحرف أكبر من حقل البيانات.
 
-! [Field Type Small Text] (https://docs.erpnext.com/files/field-type-small-text.png)
+![Field Type Small Text](https://docs.erpnext.com/files/field-type-small-text.png)
 
 #### نص طويل
 
 يمكنك تحديد الحقل الخاص بك إلى حقل نصي طويل عندما تريد إدخال بيانات بعدد غير محدود من الأحرف.
 
-! [نص طويل لنوع الحقل] (https://docs.erpnext.com/files/field-type-long-text.png)
+![نص طويل لنوع الحقل](https://docs.erpnext.com/files/field-type-long-text.png)
 
 #### نص
 
 سيسمح لك نوع الحقل هذا بإضافة نص في الحقل. يجب تحديد عدد الأحرف المسموح به في حقول النص الصغير والنص الطويل والنص بناءً على نظام إدارة قاعدة البيانات العلائقية.
 
-! [نص نوع الحقل] (https://docs.erpnext.com/files/field-type-text.png)
+![نص نوع الحقل](https://docs.erpnext.com/files/field-type-text.png)
 
 #### محرر Markdown
 
 سيسمح لك هذا الحقل بإضافة النص بلغة الترميز.
 
-! [محرر علامة تحديد نوع الحقل] (https://docs.erpnext.com/files/field-type-markdown-editor.png)
+![محرر علامة تحديد نوع الحقل](https://docs.erpnext.com/files/field-type-markdown-editor.png)
 
 #### كلمة المرور
 
 سيحتوي حقل كلمة المرور على قيمة مفككة فيه.
 
-! [كلمة مرور نوع الحقل] (https://docs.erpnext.com/files/field-type-password.png)
+![كلمة مرور نوع الحقل](https://docs.erpnext.com/files/field-type-password.png)
 
 #### نسبه مئويه
 
 يمكنك تحديد الحقل كحقل النسبة المئوية والذي سيتم حسابه في الخلفية كنسبة مئوية.
 
-! [نسبة نوع الحقل] (https://docs.erpnext.com/files/field-type-percent.png)
+![نسبة نوع الحقل](https://docs.erpnext.com/files/field-type-percent.png)
 
 #### تقييم
 
 يمكنك تحديد الحقل كحقل معدل والذي سيتم حسابه في الخلفية على أنه تصنيف.
 
-! [تصنيف نوع الحقل] (https://docs.erpnext.com/files/field-type-rating.png)
+![تصنيف نوع الحقل](https://docs.erpnext.com/files/field-type-rating.png)
 
 #### يقرأ فقط
 
 سيحمل حقل "للقراءة فقط" البيانات التي تم جلبها من نموذج آخر والتي ستكون غير قابلة للتحرير. يجب عليك تعيين للقراءة فقط كنوع حقل إذا كان مصدر القيمة محددًا مسبقًا.
 
-! [نوع الحقل للقراءة فقط] (https://docs.erpnext.com/files/field-type-read-only.png)
+![نوع الحقل للقراءة فقط](https://docs.erpnext.com/files/field-type-read-only.png)
 
 #### فاصل المقطع
 
 يُستخدم الفاصل المقطعي لتقسيم النموذج إلى أقسام متعددة.
 
-! [فاصل نوع الحقل] (https://docs.erpnext.com/files/field-type-section-break.png)
+![فاصل نوع الحقل](https://docs.erpnext.com/files/field-type-section-break.png)
 
 #### إمضاء
 
-يمكنك تحديد الحقل ليكون حقل التوقيع حيث يمكنك إضافة التوقيع الرقمي في هذا الحقل. اقرأ وثائق [حقل التوقيع] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/signature-field) لمعرفة المزيد.
+يمكنك تحديد الحقل ليكون حقل التوقيع حيث يمكنك إضافة التوقيع الرقمي في هذا الحقل. اقرأ وثائق [حقل التوقيع](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/signature-field) لمعرفة المزيد.
 
 #### جدول متعدد التحديد
 
 هذا هو مزيج من نوع "ارتباط" وحقول نوع "جدول". بدلاً من الجدول الفرعي الذي يحتوي على الزر "إضافة صف" ، يمكن تحديد قيم متعددة في حقل واحد.
 
-! [Field Type Table MultiSelect] (https://docs.erpnext.com/files/field-type-table-multiselect.png)
+![Field Type Table MultiSelect](https://docs.erpnext.com/files/field-type-table-multiselect.png)
 
 #### وقت
 
 هذا حقل الوقت حيث يمكنك تحديد الوقت في الحقل.
 
-! [وقت نوع الحقل] (https://docs.erpnext.com/files/field-type-time.png)
+![وقت نوع الحقل](https://docs.erpnext.com/files/field-type-time.png)
 
 #### مدة
 
 يمكنك استخدام حقل المدة إذا كنت تريد تحديد نطاق زمني.
 
-! [مدة نوع الحقل] (https://docs.erpnext.com/files/field-type-duration.png)
+![مدة نوع الحقل](https://docs.erpnext.com/files/field-type-duration.png)
 
 إذا كنت لا تريد تتبع المدة من حيث الأيام أو الثواني ، فيمكنك تمكين خياري "إخفاء الأيام" و "إخفاء الثواني" على التوالي في النموذج الخاص بك.
 
-! [خيارات مدة نوع الحقل] (https://docs.erpnext.com/files/field-type-duration-options.png)
+![خيارات مدة نوع الحقل](https://docs.erpnext.com/files/field-type-duration-options.png)
 
 هذه هي الطريقة التي يبدو بها حقل المدة بعد التغييرات المذكورة أعلاه.
 
-! [مدة نوع الحقل] (https://docs.erpnext.com/files/field-type-duration2.png)
+![مدة نوع الحقل](https://docs.erpnext.com/files/field-type-duration2.png)

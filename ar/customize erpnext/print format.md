@@ -1,6 +1,6 @@
-\n\n## تخصيص تنسيق الطباعة
+## تخصيص تنسيق الطباعة
 
-** تنسيقات الطباعة هي التخطيطات التي يتم إنشاؤها عندما تريد طباعة معاملة أو إرسالها بالبريد الإلكتروني. **
+**تنسيقات الطباعة هي التخطيطات التي يتم إنشاؤها عندما تريد طباعة معاملة أو إرسالها بالبريد الإلكتروني.**
 
 هذه الميزة مفيدة لجميع المعاملات في ERPNext مثل جميع معاملات البيع والشراء ووثائق الموارد البشرية وغير ذلك الكثير.
 
@@ -10,15 +10,15 @@
 
 سيكون لكل نوع مستند قابل للطباعة في ERPNext تنسيق طباعة قياسي خاص به يتم إنشاؤه بواسطة Frappe Framework. يعتمد وضع الحقل في تنسيقات الطباعة القياسية على موضع الحقول المعنية في المستند.
 
-! [تنسيق الطباعة القياسي] (https://docs.erpnext.com/files/customize-standard-print-format.png)
+![تنسيق الطباعة القياسي](https://docs.erpnext.com/files/customize-standard-print-format.png)
 
-أي تغييرات يتم إجراؤها على تنسيق الطباعة القياسي يجب أن تتم باستخدام نموذج التخصيص. يمكنك أيضًا التحقق من [إضافة الحقول في Print Formats] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/making-fields-visible-in-print-format) .
+أي تغييرات يتم إجراؤها على تنسيق الطباعة القياسي يجب أن تتم باستخدام نموذج التخصيص. يمكنك أيضًا التحقق من [إضافة الحقول في Print Formats](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/making-fields-visible-in-print-format) .
 
 ## تنسيق الطباعة المخصص
 
-يمكنك أيضًا إنشاء تنسيقات الطباعة المخصصة الخاصة بك باستخدام أداة تسمى [Print Format Builder] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format- باني). ستساعدك هذه الأداة في إنشاء تنسيق طباعة مخصص بسيط عن طريق سحب وإفلات الحقول بتنسيق حسب تفضيلاتك.
+يمكنك أيضًا إنشاء تنسيقات الطباعة المخصصة الخاصة بك باستخدام أداة تسمى [Print Format Builder](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format- باني). ستساعدك هذه الأداة في إنشاء تنسيق طباعة مخصص بسيط عن طريق سحب وإفلات الحقول بتنسيق حسب تفضيلاتك.
 
-! [تخصيص تنسيق الطباعة] (https://docs.erpnext.com/files/customize-print-format.gif)
+![تخصيص تنسيق الطباعة](https://docs.erpnext.com/files/customize-print-format.gif)
 
 لإنشاء تنسيقات طباعة مخصصة ، يأتي ERPNext مع العديد من القوالب المحددة مسبقًا بثلاثة أنماط ، وهي Modern و Monochrome و Classic.
 
@@ -32,22 +32,22 @@
 
 > الإعدادات> إعدادات الطباعة
 
-! [إعدادات الطباعة] (https://docs.erpnext.com/files/print-settings.png)
+![إعدادات الطباعة](https://docs.erpnext.com/files/print-settings.png)
 
 ## تنسيق طباعة HTML
 
 لإنشاء تنسيق طباعة HTML ، قد تحتاج إلى بعض المعرفة بـ HTML و CSS و Python. فيما يلي مثال على كيفية تصميم تنسيق الطباعة الذي يحتوي على تنسيق محدد للغاية.
 
-! [تنسيق طباعة HTML] (https://docs.erpnext.com/files/customize-custom-print-format-1.png)
+![تنسيق طباعة HTML](https://docs.erpnext.com/files/customize-custom-print-format-1.png)
 
-يتم توفير تنسيقات الطباعة على جانب الخادم باستخدام [Jinja Templating Language] (https://jinja.palletsprojects.com/en/3.0.x/templates/). جميع النماذج لها حق الوصول إلى كائن المستند الذي يحتوي على معلومات حول المستند الذي يتم تنسيقه. يمكنك أيضًا الوصول إلى المرافق العامة عبر وحدة فرابي. للاستفادة من الدعم عند إنشاء تنسيق طباعة مستند إلى HTML ، يمكنك الرجوع إلى [منتدى مجتمع ERPNext] (https://discuss.erpnext.com/) ، أو بدء منشور جديد لاستعلامك.
+يتم توفير تنسيقات الطباعة على جانب الخادم باستخدام [Jinja Templating Language](https://jinja.palletsprojects.com/en/3.0.x/templates/). جميع النماذج لها حق الوصول إلى كائن المستند الذي يحتوي على معلومات حول المستند الذي يتم تنسيقه. يمكنك أيضًا الوصول إلى المرافق العامة عبر وحدة فرابي. للاستفادة من الدعم عند إنشاء تنسيق طباعة مستند إلى HTML ، يمكنك الرجوع إلى [منتدى مجتمع ERPNext](https://discuss.erpnext.com/) ، أو بدء منشور جديد لاستعلامك.
 
-للتصميم ، يتم توفير [Bootstrap CSS Framework] (http://getbootstrap.com/) ويمكنك الاستمتاع بمجموعة كاملة من الفئات.
+للتصميم ، يتم توفير [Bootstrap CSS Framework](http://getbootstrap.com/) ويمكنك الاستمتاع بمجموعة كاملة من الفئات.
 
 #### مراجع
 
-1. [لغة قالب Jinja: المرجع] (https://jinja.palletsprojects.com/en/3.0.x/templates/)
-2. [Bootstrap CSS Framework] (http://getbootstrap.com/)
+1. [لغة قالب Jinja: المرجع](https://jinja.palletsprojects.com/en/3.0.x/templates/)
+2. [Bootstrap CSS Framework](http://getbootstrap.com/)
 
 #### مثال
 

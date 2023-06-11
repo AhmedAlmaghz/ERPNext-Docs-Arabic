@@ -1,25 +1,25 @@
-\n## سداد القروض
+## سداد القروض
 
 > مقدمة في الإصدار 13
 
-** يُستخدم إدخال سداد القرض لتتبع عمليات السداد مقابل القروض. **
+**يُستخدم إدخال سداد القرض لتتبع عمليات السداد مقابل القروض.**
 
-! [إجراء سداد القرض] (https://docs.erpnext.com/files/loan-repayment-flow.png)
+![إجراء سداد القرض](https://docs.erpnext.com/files/loan-repayment-flow.png)
 
 للوصول إلى قائمة صرف القرض ، انتقل إلى:
 
 > الصفحة الرئيسية> إدارة القرض> الصرف والسداد> سداد القرض
 
-! [سداد القرض] (https://docs.erpnext.com/files/loan-repayment.png)
+![سداد القرض](https://docs.erpnext.com/files/loan-repayment.png)
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء "صرف القرض" ، يجب عليك إنشاء ما يلي أولاً:
 
-* [قرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan)
-* [استحقاق فائدة القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-interest-accrual)
+* [قرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan)
+* [استحقاق فائدة القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-interest-accrual)
 
-## 2 \. كيفية إنشاء سداد القرض
+## 2. كيفية إنشاء سداد القرض
 
 1. اذهب إلى قائمة سداد القرض ، وانقر على جديد.
 2. حدد القرض الذي يتم السداد مقابله. سيتم جلب نوع مقدم الطلب ومقدم الطلب من القرض.
@@ -30,6 +30,6 @@
 
 ### 2.1. طرق أخرى لإنشاء سداد القرض
 
-يمكنك أيضًا إنشاء سداد قرض من قرض تم صرفه عبر الزر ** إنشاء ** في أعلى يمين القرض.
+يمكنك أيضًا إنشاء سداد قرض من قرض تم صرفه عبر الزر**إنشاء**في أعلى يمين القرض.
 
-! [إنشاء سداد قرض] (https://docs.erpnext.com/files/create-loan-repayment.png)
+![إنشاء سداد قرض](https://docs.erpnext.com/files/create-loan-repayment.png)

@@ -1,12 +1,12 @@
 ## حالة سير العمل
 
-** حالة سير العمل هي حالة في سير العمل الذي تقوم بإنشائه. **
+**حالة سير العمل هي حالة في سير العمل الذي تقوم بإنشائه.**
 
 يمكن تحقيق حالات سير العمل المختلفة قبل أو بعد تطبيق إجراءات سير العمل المختلفة عليها. إذا كنت ترغب في إنشاء سير عمل حيث توجد موافقات متعددة من مدير أو مدير أول أو مدير عام ، وما إلى ذلك ، يمكنك تعيين الحالات له من حالات سير العمل.
 
 بشكل افتراضي ، يتم إنشاء حالات سير العمل التالية في ERPNext:
 
-! [حالات سير العمل] (https://docs.erpnext.com/files/workflow-states.png)
+![حالات سير العمل](https://docs.erpnext.com/files/workflow-states.png)
 
 يمكن أن يكون لحالات سير العمل ألوان مختلفة حسب الولاية.
 
@@ -23,6 +23,6 @@
 * تم الإرسال = 1
 * ملغاة = 2
 
-1. [Workflows] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/workflows)
-2. [إجراءات سير العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/workflow-actions)
-3. [قاعدة التنازل] (https://docs.erpnext.com/docs/v13/user/manual/en/automation/assignment-rule)
+1. [Workflows](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/workflows)
+2. [إجراءات سير العمل](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/workflow-actions)
+3. [قاعدة التنازل](https://docs.erpnext.com/docs/v13/user/manual/en/automation/assignment-rule)

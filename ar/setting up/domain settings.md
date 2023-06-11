@@ -11,7 +11,7 @@
 * لن تكون بطاقة المجال متاحة في الصفحة الرئيسية
 * لن يمكن الوصول إلى أنواع DocTypes المتعلقة بالمجال بعد الآن. على سبيل المثال ، إذا قمت بتعطيل وحدة التعليم ، فلن يمكن الوصول إلى "الطالب وأنواع DocTypes الأخرى في التعليم".
     
-    ! [إعدادات المجال] (https://docs.erpnext.com/files/domain-settings.png)
+    ![إعدادات المجال](https://docs.erpnext.com/files/domain-settings.png)
     
 
-1. [إعداد الشركة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/company-setup)
+1. [إعداد الشركة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/company-setup)

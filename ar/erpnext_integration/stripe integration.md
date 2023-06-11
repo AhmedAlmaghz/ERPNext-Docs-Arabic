@@ -1,18 +1,18 @@
-\n## إعداد Stripe
+## إعداد Stripe
 
 لإعداد Stripe ، `Explore> Integrations> Stripe Settings`
 
 #### شريط الإعداد
 
-لتمكين خدمة دفع Stripe ، تحتاج إلى تكوين معلمات مثل Publishable Key، Secret Key! [إعدادات Razorpay] (https://docs.erpnext.com/files/stripe_setting.png)
+لتمكين خدمة دفع Stripe ، تحتاج إلى تكوين معلمات مثل Publishable Key، Secret Key![إعدادات Razorpay](https://docs.erpnext.com/files/stripe_setting.png)
 
 عند تمكين الخدمة ، سيقوم النظام بإنشاء سجل بوابة الدفع ورئيس الحساب في مخطط الحساب مع نوع الحساب مثل البنك.
 
-! [Stripe COA] (https://docs.erpnext.com/files/stripe_coa.png)
+![Stripe COA](https://docs.erpnext.com/files/stripe_coa.png)
 
 كما سيتم إنشاء إدخال حساب بوابة الدفع. حساب بوابة الدفع هو مركز التكوين من هذا يمكنك تعيين رئيس الحساب من COA الموجودة ، قالب نص البريد الإلكتروني الافتراضي لطلب الدفع.
 
-! [حساب بوابة الدفع] (https://docs.erpnext.com/files/payment_gateway_account_stripe.png)
+![حساب بوابة الدفع](https://docs.erpnext.com/files/payment_gateway_account_stripe.png)
 
 بعد تكوين حساب Payment Gateway ، يستطيع نظامك قبول المدفوعات عبر الإنترنت.
 
@@ -22,11 +22,11 @@
 
 بمجرد إنشاء خطط الفوترة الخاصة بك في Stripe ، أضف واحدة أو عدة "خطة دفع" جديدة في Frappe.
 
-! [خطة الدفع] (https://docs.erpnext.com/files/payment_plan.png)
+![خطة الدفع](https://docs.erpnext.com/files/payment_plan.png)
 
 بعد ذلك ، عند إنشاء طلب الدفع الخاص بك ، انقر فوق حقل الاختيار "هو اشتراك" وستقوم إضافة النظام بجلب خطط الاشتراك المقابلة من داخل الاشتراك المقابل.
 
-! [طلب الدفع] (https://docs.erpnext.com/files/subscription_payment_request.png)
+![طلب الدفع](https://docs.erpnext.com/files/subscription_payment_request.png)
 
 سيقوم ERPNext تلقائيًا بإنشاء اشتراك جديد لهذا العميل في Stripe.
 

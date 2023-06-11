@@ -1,4 +1,4 @@
-\n\n** طلب الإجازة هو مستند رسمي تم إنشاؤه بواسطة الموظف للتقدم بطلب للحصول على إجازات لفترة زمنية معينة. **
+\n\n**طلب الإجازة هو مستند رسمي تم إنشاؤه بواسطة الموظف للتقدم بطلب للحصول على إجازات لفترة زمنية معينة.**
 
 يسمح Frappe HR لموظفيك بالتقدم بطلب للحصول على إجازات عبر طلبات الإجازة والحصول على الموافقة عليها من قبل المعتمدين على الإجازات.
 
@@ -6,30 +6,30 @@
 
 > الرئيسية> الموارد البشرية> الإجازات> طلب إجازة
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء طلب إجازة ، من المستحسن أن يكون لديك المستندات التالية:
 
-* [القسم] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
+* [القسم](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
     
-* [فترة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-period)
+* [فترة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-period)
     
-* [قائمة العطلات] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/holiday-list)
+* [قائمة العطلات](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/holiday-list)
     
-* [نوع الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-type)
+* [نوع الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-type)
     
-* [سياسة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
+* [سياسة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
     
-* [إجازة التخصيص] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-allocation)
+* [إجازة التخصيص](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-allocation)
     
 
-## 2 \. كيفية إنشاء طلب إجازة
+## 2. كيفية إنشاء طلب إجازة
 
 1. انتقل إلى قائمة "مغادرة التطبيق" ، وانقر فوق "جديد".
     
 2. سيتم عرض جدول الأوراق المخصصة. بناءً على الأوراق المأخوذة ، يتم عرض الأوراق المتاحة لكل نوع إجازة.
     
-    ! [اترك التطبيق] (https://docs.erpnext.com/files/leave-app.png)
+    ![اترك التطبيق](https://docs.erpnext.com/files/leave-app.png)
     
 3. حدد اسم الموظف ونوع الإجازة.
     
@@ -39,7 +39,7 @@
     
 6. أدخل سبب الإجازة.
     
-    ! [اترك التطبيق] (https://docs.erpnext.com/files/leave-app1.png)
+    ![اترك التطبيق](https://docs.erpnext.com/files/leave-app1.png)
     
 7. حدد الموافقة على الإجازة.
     
@@ -49,14 +49,14 @@
     
 10. يمكنك أيضًا ربط قسيمة راتب الموظف في طلب الإجازة للسجل.
     
-    ! [اترك التطبيق] (https://docs.erpnext.com/files/leave-app3.png)
+    ![اترك التطبيق](https://docs.erpnext.com/files/leave-app3.png)
     
-11. انقر فوق حفظ. بمجرد أن يحفظ الموظف طلب الإجازة ، تتغير حالة طلب الإجازة إلى "مفتوح" ، ويتم إرسال بريد إلكتروني إلى مسؤول الإجازة للموافقة عليه. يمكن تكوين نموذج إشعار الموافقة على الإجازة في [إعدادات الموارد البشرية] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/hr-settings) ضمن قسم إعدادات الإجازة.
+11. انقر فوق حفظ. بمجرد أن يحفظ الموظف طلب الإجازة ، تتغير حالة طلب الإجازة إلى "مفتوح" ، ويتم إرسال بريد إلكتروني إلى مسؤول الإجازة للموافقة عليه. يمكن تكوين نموذج إشعار الموافقة على الإجازة في [إعدادات الموارد البشرية](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/hr-settings) ضمن قسم إعدادات الإجازة.
     
 12. بمجرد أن يتلقى مسؤول الإجازة البريد الإلكتروني ، يمكنه الموافقة على طلب الإجازة أو رفضه أو إلغائه. بمجرد القيام بذلك ، يمكن للمسؤول عن الإجازة تقديم طلب الإجازة. عند الإرسال ، تتغير حالة المستند وفقًا لذلك ، ويتم إرسال بريد إلكتروني إلى الموظف لإعلامه بنفس الشيء.
     
 
-> ** ملاحظة: ** لا يمكن تقديم طلب الإجازة إذا تمت معالجة الراتب بالفعل لفترة الإجازة.
+>**ملاحظة:**لا يمكن تقديم طلب الإجازة إذا تمت معالجة الراتب بالفعل لفترة الإجازة.
 
 يتم تلخيص سير إجراءات طلب الإجازة أدناه:
 
@@ -71,46 +71,46 @@
 * يحصل الموظف على إشعار بحالة طلب إجازته
     
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 إعداد الموافقة على الإجازة
 
 مانح الإجازة هو مستخدم يمكنه الموافقة على طلب إجازة للموظف. في الإصدار 12 من Frappe HR ، يمكن تعيين الموافقين على الإجازات على مستويين:
 
-* ** مستوى القسم: ** يمكن تكوين المعتمدين على الإجازات لكل قسم في [القسم] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department). يمكن تعيين العديد من الموافقين على الإجازات في القسم. سيتم اعتبار أول معتمد إجازة في القائمة بمثابة معتمد الإجازة الافتراضي.
+***مستوى القسم:**يمكن تكوين المعتمدين على الإجازات لكل قسم في [القسم](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department). يمكن تعيين العديد من الموافقين على الإجازات في القسم. سيتم اعتبار أول معتمد إجازة في القائمة بمثابة معتمد الإجازة الافتراضي.
     
-    ! [اترك التطبيق - الموافقة على المغادرة] (https://docs.erpnext.com/files/leave-app4.png)
+    ![اترك التطبيق - الموافقة على المغادرة](https://docs.erpnext.com/files/leave-app4.png)
     
     عندما يتقدم موظف ينتمي إلى قسم معين للحصول على إجازة ، فسيتم اعتبار مصدري الإجازة المحددين في مدير قسم ذلك الموظف بمثابة الموافقين على الإجازة الخاصة به.
     
-* ** مستوى الموظف: ** يمكن أيضًا تعيين الموافقين على الإجازات على مستوى الموظف في مدير الموظف.
+***مستوى الموظف:**يمكن أيضًا تعيين الموافقين على الإجازات على مستوى الموظف في مدير الموظف.
     
-    ! [مغادرة التطبيق - موافقون على الإجازة] (https://docs.erpnext.com/files/employee-level-approvers.png)
+    ![مغادرة التطبيق - موافقون على الإجازة](https://docs.erpnext.com/files/employee-level-approvers.png)
     
 
 إذا تم تعيين الموافقين على الإجازة على مستوى كل من مستوى الموظف والإدارة ، فسيتم اعتبار اعتماد الإجازة على مستوى الموظف بمثابة معتمد الإجازة الافتراضي في هذه الحالة.
 
 عندما يتم إنشاء طلب إجازة جديد ، إذا لم يكن للموافق على الإجازة المحدد حق الوصول إليه ، تتم مشاركة المستند مع الموافق بإذن "إرسال".
 
-** نصيحة: ** إذا كنت تريد من جميع المستخدمين إنشاء تطبيقات الإجازة الخاصة بهم ، فيمكنك تعيين "معرف الموظف" الخاص بهم كقاعدة مطابقة في إعدادات إذن طلب الإجازة. تحقق من [إعداد الأذونات] (https://docs.erpnext.com/docs/v144/user/manual/en/setting-up/users-and-permissions/user-permissions) لمزيد من المعلومات.
+**نصيحة:**إذا كنت تريد من جميع المستخدمين إنشاء تطبيقات الإجازة الخاصة بهم ، فيمكنك تعيين "معرف الموظف" الخاص بهم كقاعدة مطابقة في إعدادات إذن طلب الإجازة. تحقق من [إعداد الأذونات](https://docs.erpnext.com/docs/v144/user/manual/en/setting-up/users-and-permissions/user-permissions) لمزيد من المعلومات.
 
-> ** ملاحظات إضافية: **
+>**ملاحظات إضافية:**
 
 > * يجب أن تكون فترة تقديم طلب الإجازة ضمن فترة تخصيص إجازة واحدة. في حالة تقدمك بطلب للحصول على إجازة خلال فترة تخصيص الإجازة ، يجب عليك إنشاء سجلين لطلب الإجازة.
 >
 > * يجب أن تكون فترة تقديم الإجازة في آخر فترة تخصيص إجازة.
 >
-> * لا يمكن للموظف التقدم بطلب للحصول على إجازة في التواريخ التي تمت إضافتها في [قائمة الإجازات المحظورة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-block-list ).
+> * لا يمكن للموظف التقدم بطلب للحصول على إجازة في التواريخ التي تمت إضافتها في [قائمة الإجازات المحظورة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-block-list ).
 >
 
-لفهم كيف يسمح لك Frappe HR بتهيئة الإجازات للموظفين ، تحقق من [Leaves] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-management-intro/).
+لفهم كيف يسمح لك Frappe HR بتهيئة الإجازات للموظفين ، تحقق من [Leaves](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-management-intro/).
 
-1. [نوع الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-type)
+1. [نوع الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-type)
     
-2. [فترة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-period)
+2. [فترة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-period)
     
-3. [سياسة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
+3. [سياسة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
     
-4. [إجازة التخصيص] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-allocation)
+4. [إجازة التخصيص](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-allocation)
     
-5. [قائمة الحظر مغادرة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-block-list)
+5. [قائمة الحظر مغادرة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-block-list)

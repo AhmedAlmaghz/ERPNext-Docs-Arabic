@@ -1,6 +1,6 @@
 ## تصفية البحث
 
-** عامل تصفية البحث هو خيار يسمح لك بتصفية السجلات بناءً على قيمة معينة لحقل معين في المستند. **
+**عامل تصفية البحث هو خيار يسمح لك بتصفية السجلات بناءً على قيمة معينة لحقل معين في المستند.**
 
 تتوفر مرشحات البحث في عرض القائمة ومنشئ التقارير لنوع المستند.
 
@@ -10,13 +10,13 @@
 
 حدد حقل المستند الذي ترغب في تصفية السجلات بناءً عليه. سيتم تحديد جميع الحقول في النموذج في هذه القائمة.
 
-! [عامل تصفية البحث] (https://docs.erpnext.com/files/using-search-filer-1.png)
+![عامل تصفية البحث](https://docs.erpnext.com/files/using-search-filer-1.png)
 
 #### مرتكز على
 
 بالنسبة للحقل ، سيُطلب منك وضع قيمة للحقل. في الحقل "على أساس" ، يمكنك تحديد المعايير بناءً على النظام الذي سيبحث في المستند.
 
-! [عامل تصفية البحث] (https://docs.erpnext.com/files/using-search-filter-2.png)
+![عامل تصفية البحث](https://docs.erpnext.com/files/using-search-filter-2.png)
 
 الشروط المختلفة التي تستند إليها المرشحات هي:
 
@@ -26,21 +26,21 @@
 
 هنا ، ستتم مطالبتك بإدخال القيمة التي تقوم بتشغيل بحث المستند من أجلها.
 
-! [عامل تصفية البحث] (https://docs.erpnext.com/files/using-search-filter-3.png)
+![عامل تصفية البحث](https://docs.erpnext.com/files/using-search-filter-3.png)
 
 لذلك ، بشكل عام ، سيتم إنشاء خوارزمية أو معادلة للبحث في المستندات والتي ستتيح لك جلب المستندات التي تريدها.
 
-! [عامل تصفية البحث] (https://docs.erpnext.com/files/using-search-filter.gif)
+![عامل تصفية البحث](https://docs.erpnext.com/files/using-search-filter.gif)
 
 يمكنك أيضًا تطبيق مرشحات متعددة في وقت واحد. لإزالة عامل تصفية معين ، ما عليك سوى النقر فوق علامة "x" عليها.
 
 ## المرشحات الافتراضية
 
-هناك بعض المرشحات الموجودة خارج الصندوق لطرق العرض التي يمكن استخدامها لتصفية نتائج البحث. يمكن تعيين عوامل التصفية الافتراضية لأي نوع مستند من [Customize Form] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/custom-field#12-more-properties) خيار.
+هناك بعض المرشحات الموجودة خارج الصندوق لطرق العرض التي يمكن استخدامها لتصفية نتائج البحث. يمكن تعيين عوامل التصفية الافتراضية لأي نوع مستند من [Customize Form](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/custom-field#12-more-properties) خيار.
 
-! [عامل تصفية البحث] (https://docs.erpnext.com/files/using-search-filter-4.png)
+![عامل تصفية البحث](https://docs.erpnext.com/files/using-search-filter-4.png)
 
 ## أنظر أيضا
 
-1. [تصفية حسب] (https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/filter-by)
-2. [حفظ عامل التصفية] (https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/save-filter)
+1. [تصفية حسب](https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/filter-by)
+2. [حفظ عامل التصفية](https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/save-filter)

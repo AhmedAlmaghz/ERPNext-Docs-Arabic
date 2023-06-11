@@ -1,4 +1,4 @@
-\n## إعداد Braintree
+## إعداد Braintree
 
 لإعداد Braintree ، انتقل إلى "Explore> Integrations> Braintree Settings"
 
@@ -12,15 +12,15 @@
 
 يمكنك إعداد عدة بوابات دفع Braintree إذا لزم الأمر. سيحدد اختيار حساب بوابة الدفع أي حساب braintree يتم استخدامه للدفع.
 
-! [إعدادات Braintree] (https://docs.erpnext.com/files/braintree_account.png)
+![إعدادات Braintree](https://docs.erpnext.com/files/braintree_account.png)
 
 عند تمكين الخدمة ، سيقوم النظام بإنشاء سجل بوابة الدفع ورئيس الحساب في مخطط الحساب مع نوع الحساب مثل البنك.
 
-! [Braintree COA] (https://docs.erpnext.com/files/braintree_coa.png)
+![Braintree COA](https://docs.erpnext.com/files/braintree_coa.png)
 
 سيتم أيضًا إنشاء حساب بوابة دفع. يمكنك تغيير الحساب المصرفي الافتراضي إذا لزم الأمر وإنشاء نموذج لطلب الدفع.
 
-! [حساب بوابة الدفع] (https://docs.erpnext.com/files/payment_gateway_account_braintree.png)
+![حساب بوابة الدفع](https://docs.erpnext.com/files/payment_gateway_account_braintree.png)
 
 بعد تكوين حساب Payment Gateway ، يكون نظامك قادرًا على قبول المدفوعات عبر الإنترنت من خلال Braintree.
 

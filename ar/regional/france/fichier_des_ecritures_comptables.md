@@ -16,4 +16,4 @@
 
 ### تعليمات الاختبار
 
-لاختبار صلاحية ملفك ، توفر إدارة الضرائب أداة اختبار على العنوان التالي: [Outil de test des fichiers des écrurniture comptables (FEC)] (http://www.economie.gouv.fr/dgfip/outil- test-des-fichiers-des-ecriture-comptables-fec)
+لاختبار صلاحية ملفك ، توفر إدارة الضرائب أداة اختبار على العنوان التالي: [Outil de test des fichiers des écrurniture comptables (FEC)](http://www.economie.gouv.fr/dgfip/outil- test-des-fichiers-des-ecriture-comptables-fec)

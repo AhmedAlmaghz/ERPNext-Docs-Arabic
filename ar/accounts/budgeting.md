@@ -1,6 +1,6 @@
-\n## الميزنة
+## الميزنة
 
-** الميزانية هي خطة مالية تساعد في التحكم في نفقات الشركة. **
+**الميزانية هي خطة مالية تساعد في التحكم في نفقات الشركة.**
 
 في ERPNext ، يمكنك تعيين وإدارة الميزانيات مقابل مركز التكلفة أو المشروع. هذا مفيد في التحكم في نفقاتك. باستخدام الإصدار 12 ، يمكنك أيضًا إنشاء [أبعاد المحاسبة] منفصلة (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions) لتمييز المعاملات بحقول مختلفة.
 
@@ -12,47 +12,47 @@
 
 > الصفحة الرئيسية> المحاسبة> مركز التكلفة والميزانية> الميزانية
 
-## 1 \. كيفية إنشاء ميزانية جديدة
+## 1. كيفية إنشاء ميزانية جديدة
 
 1. اذهب إلى قائمة الميزانية وانقر على جديد.
-2. حدد ما تريد موازنة مقابله ، أو مركز التكلفة ، أو المشروع ، أو [أبعاد المحاسبة] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions).
-3. في جدول الحسابات ، حدد حساب الدخل / المصروفات الذي سيتم تعيين ميزانية له. دعنا نضع ميزانية لنفقات الهاتف لهذا العام. ! [الميزانية] (https://docs.erpnext.com/files/budget.png)
+2. حدد ما تريد موازنة مقابله ، أو مركز التكلفة ، أو المشروع ، أو [أبعاد المحاسبة](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions).
+3. في جدول الحسابات ، حدد حساب الدخل / المصروفات الذي سيتم تعيين ميزانية له. دعنا نضع ميزانية لنفقات الهاتف لهذا العام. ![الميزانية](https://docs.erpnext.com/files/budget.png)
 4. أدخل مبلغ الميزانية لهذا الحساب.
 5. حفظ وإرسال.
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 التوزيع الشهري
 
 يمكنك أيضًا تحديد سجل التوزيع الشهري لتوزيع الميزانية بين الأشهر. إذا لم تقم بتعيين التوزيع الشهري ، فسيقوم ERPNext بحساب الميزانية سنويًا أو بنسب متساوية لكل شهر.
 
-! [التوزيع الشهري] (https://docs.erpnext.com/files/monthly-budget-distribution.png)
+![التوزيع الشهري](https://docs.erpnext.com/files/monthly-budget-distribution.png)
 
 ### 2.2 إجراءات التحكم (التنبيهات)
 
 يمكن بدء إجراءات التحكم في الحالات التالية:
 
-* يتم إرسال [طلب مادة] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/material-request)
-* يتم إرسال [أمر شراء] (https://docs.erpnext.com/docs/v13/user/manual/en/buying/purchase-order)
+* يتم إرسال [طلب مادة](https://docs.erpnext.com/docs/v13/user/manual/en/stock/material-request)
+* يتم إرسال [أمر شراء](https://docs.erpnext.com/docs/v13/user/manual/en/buying/purchase-order)
 * عندما يتم ترحيل مصروفات فعلية (من خلال إدخال دفتر يومية أو فاتورة شراء).
 
 يمكنك تعيين إجراء تحكم في الميزانية بناءً على طلبات المواد أو أوامر الشراء أو النفقات الفعلية. علاوة على ذلك ، يمكنك تعيين إجراء تحكم للميزانيات السنوية أو الشهرية.
 
-! [إجراءات التحكم] (https://docs.erpnext.com/files/control-actions.png)
+![إجراءات التحكم](https://docs.erpnext.com/files/control-actions.png)
 
 هناك ثلاثة أنواع من إجراءات التحكم.
 
-* ** إيقاف **: لن يسمح هذا للمستخدمين بإرسال المعاملة.
-* ** تحذير **: ستظهر رسالة تحذير ولكنها تتيح للمستخدم إرسال المعاملة.
-* ** تجاهل **: لن يمنع هذا المستخدم من إرسال المعاملات ولن يظهر رسالة خطأ.
+***إيقاف**: لن يسمح هذا للمستخدمين بإرسال المعاملة.
+***تحذير**: ستظهر رسالة تحذير ولكنها تتيح للمستخدم إرسال المعاملة.
+***تجاهل**: لن يمنع هذا المستخدم من إرسال المعاملات ولن يظهر رسالة خطأ.
 
 يمكنك تعيين إجراءات منفصلة للميزانيات الشهرية والسنوية. إذا تجاوزت الميزانية ، سيظهر تحذير:
 
-! [تحذير بشأن الميزانية] (https://docs.erpnext.com/files/budget-warning.png)
+![تحذير بشأن الميزانية](https://docs.erpnext.com/files/budget-warning.png)
 
 لاحظ أنه سيتم تشغيل تحذير مماثل لأي نوع من المعاملات المحددة في الميزانية لرؤساء الحسابات المعينين.
 
-## 3 \. تقرير تباين الميزانية
+## 3. تقرير تباين الميزانية
 
 في أي وقت ، يمكنك التحقق من تقرير تباين الميزانية لتحليل المصروفات الفعلية المتكبدة مقابل الميزانية المخصصة لمركز تكلفة أو مشروع.
 
@@ -60,12 +60,12 @@
 
 > الصفحة الرئيسية> المحاسبة> مركز التكلفة والميزانية> تقرير تباين الميزانية
 
-! [تقرير تباين الميزانية] (https://docs.erpnext.com/files/budget-variance-report.png)
+![تقرير تباين الميزانية](https://docs.erpnext.com/files/budget-variance-report.png)
 
-## 4 \. فيديو
+## 4. فيديو
 
 هنا عرض فيديو:
 
-1. [مركز التكلفة] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/cost-center)
-2. [فاتورة المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
-3. [فاتورة الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
+1. [مركز التكلفة](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/cost-center)
+2. [فاتورة المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
+3. [فاتورة الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)

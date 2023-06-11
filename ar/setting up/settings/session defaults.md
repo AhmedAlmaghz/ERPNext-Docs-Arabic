@@ -1,10 +1,10 @@
 ## الافتراضات الجلسة
 
-** الإعدادات الافتراضية للجلسة هي قيم افتراضية قابلة للتكوين يتم تعيينها أثناء جلسات المستخدم. **
+**الإعدادات الافتراضية للجلسة هي قيم افتراضية قابلة للتكوين يتم تعيينها أثناء جلسات المستخدم.**
 
 ضع في اعتبارك سيناريو حيث لديك 8 شركات تم إنشاؤها في حسابك وعليك تعيين حقل "الشركة" في كل مرة أثناء إنشاء طلب مبيعات جديد. هذه عملية تستغرق وقتًا طويلاً جدًا عندما يتعين عليك التعامل مع طلبات مبيعات متعددة يوميًا.
 
-## 1 \. كيفية إنشاء افتراضيات الجلسة
+## 1. كيفية إنشاء افتراضيات الجلسة
 
 ### 1.1 إعداد الإعدادات الافتراضية للجلسة
 
@@ -13,35 +13,35 @@
 3. حدد DocType الذي تريد تعيين افتراضيات الجلسة له.
 4. حفظ.
     
-    ! [إعدادات الإعدادات الافتراضية للجلسة] (https://docs.erpnext.com/files/session-defaults-settings.png)
+    ![إعدادات الإعدادات الافتراضية للجلسة](https://docs.erpnext.com/files/session-defaults-settings.png)
     
 
 ### 1.2 إعداد القيم الافتراضية للجلسة
 
 1. انقر فوق قائمة "الإعدادات" في شريط الأدوات. ستجد خيار "Session Defaults" هناك. انقر عليه.
     
-    ! [قائمة الإعدادات الافتراضية للجلسة] (https://docs.erpnext.com/files/session-defaults-menu.png)
+    ![قائمة الإعدادات الافتراضية للجلسة](https://docs.erpnext.com/files/session-defaults-menu.png)
     
 2. ستظهر مطالبة "Session Defaults" (الإعدادات الافتراضية للجلسة). قم بتعيين القيم الافتراضية للحقول المعنية ثم حفظ.
     
-    ! [موجه الإعدادات الافتراضية للجلسة] (https://docs.erpnext.com/files/session-defaults-prompt.png)
+    ![موجه الإعدادات الافتراضية للجلسة](https://docs.erpnext.com/files/session-defaults-prompt.png)
     
 
 بعد الحفظ ، سيتم تعيين القيم الافتراضية في كل مكان.
 
 يمكنك فتح أمر مبيعات جديد والتحقق. تم تعيين حقل الشركة على الشركة الافتراضية.
 
-! [مجموعة الإعدادات الافتراضية للجلسة] (https://docs.erpnext.com/files/session-defaults-set-1.png)
+![مجموعة الإعدادات الافتراضية للجلسة](https://docs.erpnext.com/files/session-defaults-set-1.png)
 
 افتح مهمة جديدة. تم تعيين حقل "المشروع" على المشروع الافتراضي.
 
-! [المجموعة الافتراضية للجلسة] (https://docs.erpnext.com/files/session-defaults-set-2.png)
+![المجموعة الافتراضية للجلسة](https://docs.erpnext.com/files/session-defaults-set-2.png)
 
 افتح تقريرًا ، على سبيل المثال ، دفتر الأستاذ العام. تم تعيين عامل تصفية الشركة على الشركة الافتراضية.
 
-! [افتراضي الجلسة] (https://docs.erpnext.com/files/session-defaults-set-3.png)
+![افتراضي الجلسة](https://docs.erpnext.com/files/session-defaults-set-3.png)
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 مسح الإعدادات الافتراضية عند تسجيل الخروج
 
@@ -51,7 +51,7 @@
 
 يكون زر "الإعدادات" مرئيًا فقط لمدير النظام أو للشخص الذي لديه إذن بالوصول إلى "إعدادات الجلسة الافتراضية". ينقلك هذا الزر إلى الإعدادات الافتراضية للجلسة حيث يمكنك إضافة أو إزالة أنواع المستندات التي تريد تعيين الإعدادات الافتراضية للجلسة لها.
 
-! [موجه الإعدادات الافتراضية للجلسة] (https://docs.erpnext.com/files/settings-button.png)
+![موجه الإعدادات الافتراضية للجلسة](https://docs.erpnext.com/files/settings-button.png)
 
-1. [الافتراضات العالمية] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/global-defaults)
-2. [إعدادات النظام] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/system-settings)
+1. [الافتراضات العالمية](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/global-defaults)
+2. [إعدادات النظام](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/system-settings)

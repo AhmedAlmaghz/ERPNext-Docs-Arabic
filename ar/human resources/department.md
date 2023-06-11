@@ -1,6 +1,6 @@
-\n## قسم
+## قسم
 
-** القسم هو مجال وظيفي متخصص أو قسم داخل المنظمة. **
+**القسم هو مجال وظيفي متخصص أو قسم داخل المنظمة.**
 
 يمكنك تكوين الإدارات في مؤسستك ، وتعيين قائمة الإجازات ، وأيضًا الموافقون على الإجازات والنفقات لنفسهم.
 
@@ -10,18 +10,18 @@
 
 القسم هو سيد منظم على شكل شجرة ، مما يعني أنه يمكنك إنشاء أقسام رئيسية وأقسام فرعية كما هو موضح أدناه:
 
-! [شجرة القسم] (https://docs.erpnext.com/files/department-tree.png)
+![شجرة القسم](https://docs.erpnext.com/files/department-tree.png)
 
-\> ** ملاحظة: ** يجب تحديد خانة الاختيار "هي مجموعة" إذا كانت الإدارة هي قسم رئيسي.
+\>**ملاحظة:**يجب تحديد خانة الاختيار "هي مجموعة" إذا كانت الإدارة هي قسم رئيسي.
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء قسم ، يُنصح بإنشاء المستندات التالية:
 
-* [الشركة] (https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/company-setup)
+* [الشركة](https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/company-setup)
     
 
-## 2 \. كيفية إنشاء قسم
+## 2. كيفية إنشاء قسم
 
 1. اذهب إلى قائمة الأقسام ، وانقر على جديد.
     
@@ -33,31 +33,31 @@
     
 5. حفظ.
     
-    ! [القسم] (https://docs.erpnext.com/files/department.png)
+    ![القسم](https://docs.erpnext.com/files/department.png)
     
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 المعتمدون على الإجازات والنفقات
 
 يمكنك تعيين اعتمادات الإجازة والمصروفات لإدارة معينة في جدول "اعتماد الإجازة" و "اعتماد المصاريف" على التوالي.
 
-! [الموافقة على المغادرة والنفقات] (https://docs.erpnext.com/files/leave-and-expense.png)
+![الموافقة على المغادرة والنفقات](https://docs.erpnext.com/files/leave-and-expense.png)
 
-\> ** ملاحظة: ** يمكن تعيين العديد من الموافقات على الإجازات والنفقات لإدارة معينة. ومع ذلك ، سيتم تعيين الموافق الأول في القائمة على أنه الموافق الافتراضي.
+\>**ملاحظة:**يمكن تعيين العديد من الموافقات على الإجازات والنفقات لإدارة معينة. ومع ذلك ، سيتم تعيين الموافق الأول في القائمة على أنه الموافق الافتراضي.
 
-1. [نوع التوظيف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employment-type)
+1. [نوع التوظيف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employment-type)
     
-2. [درجة الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade)
+2. [درجة الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade)
     
-3. [فرع الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/branch)
+3. [فرع الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/branch)
     
-4. [تعيين الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/designation)
+4. [تعيين الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/designation)
     
 
 ## قسم
 
-** القسم هو مجال وظيفي متخصص أو قسم داخل المنظمة. **
+**القسم هو مجال وظيفي متخصص أو قسم داخل المنظمة.**
 
 يمكنك تكوين الإدارات في مؤسستك ، وتعيين قائمة الإجازات ، وأيضًا الموافقون على الإجازات والنفقات لنفسهم.
 
@@ -67,18 +67,18 @@
 
 القسم هو سيد منظم على شكل شجرة ، مما يعني أنه يمكنك إنشاء أقسام رئيسية وأقسام فرعية كما هو موضح أدناه:
 
-! [شجرة القسم] (https://docs.erpnext.com/files/department-tree.png)
+![شجرة القسم](https://docs.erpnext.com/files/department-tree.png)
 
-\> ** ملاحظة: ** يجب تحديد خانة الاختيار "هي مجموعة" إذا كانت الإدارة هي قسم رئيسي.
+\>**ملاحظة:**يجب تحديد خانة الاختيار "هي مجموعة" إذا كانت الإدارة هي قسم رئيسي.
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء قسم ، يُنصح بإنشاء المستندات التالية:
 
-* [الشركة] (https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/company-setup)
+* [الشركة](https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/company-setup)
     
 
-## 2 \. كيفية إنشاء قسم
+## 2. كيفية إنشاء قسم
 
 1. اذهب إلى قائمة الأقسام ، وانقر على جديد.
     
@@ -90,25 +90,25 @@
     
 5. حفظ.
     
-    ! [القسم] (https://docs.erpnext.com/files/department.png)
+    ![القسم](https://docs.erpnext.com/files/department.png)
     
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 الموافقون على الإجازات والنفقات
 
 يمكنك تعيين اعتمادات الإجازة والمصروفات لإدارة معينة في جدول "اعتماد الإجازة" و "اعتماد المصاريف" على التوالي.
 
-! [الموافقة على المغادرة والنفقات] (https://docs.erpnext.com/files/leave-and-expense.png)
+![الموافقة على المغادرة والنفقات](https://docs.erpnext.com/files/leave-and-expense.png)
 
-\> ** ملاحظة: ** يمكن تعيين العديد من الموافقات على الإجازات والنفقات لإدارة معينة. ومع ذلك ، سيتم تعيين الموافق الأول في القائمة على أنه الموافق الافتراضي.
+\>**ملاحظة:**يمكن تعيين العديد من الموافقات على الإجازات والنفقات لإدارة معينة. ومع ذلك ، سيتم تعيين الموافق الأول في القائمة على أنه الموافق الافتراضي.
 
-## 4 \. مواضيع ذات صلة
+## 4. مواضيع ذات صلة
 
-1. [نوع التوظيف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employment-type)
+1. [نوع التوظيف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employment-type)
     
-2. [درجة الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade)
+2. [درجة الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade)
     
-3. [فرع الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/branch)
+3. [فرع الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/branch)
     
-4. [تعيين الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/designation)
+4. [تعيين الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/designation)

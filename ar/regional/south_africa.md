@@ -1,7 +1,7 @@
-\n## متطلبات جنوب إفريقيا
+## متطلبات جنوب إفريقيا
 
 يهدف ERPNext إلى دعم التنظيم المحلي لمناطق مختلفة في العالم. في معظم الحالات ، يكون ERPNext مرنًا للغاية ، لذا يمكنك بسهولة إضافة حقول مخصصة وإنشاء تقارير مخصصة لدعم تنظيم منطقتك.
 
 يحتوي هذا القسم على ميزات خاصة بالمنطقة لجنوب إفريقيا.
 
-* [تقرير تدقيق ضريبة القيمة المضافة] (https://docs.erpnext.com/docs/v13/user/manual/en/regional/south_africa/vat_audit_report)
+* [تقرير تدقيق ضريبة القيمة المضافة](https://docs.erpnext.com/docs/v13/user/manual/en/regional/south_africa/vat_audit_report)

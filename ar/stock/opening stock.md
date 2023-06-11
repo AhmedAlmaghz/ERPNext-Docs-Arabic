@@ -1,23 +1,23 @@
-\n## مخزون الافتتاح
+## مخزون الافتتاح
 
-** المخزون الافتتاحي هو مقدار وقيمة المواد التي تمتلكها الشركة للبيع أو الاستخدام في بداية فترة محاسبية. **
+**المخزون الافتتاحي هو مقدار وقيمة المواد التي تمتلكها الشركة للبيع أو الاستخدام في بداية فترة محاسبية.**
 
 يصبح المخزون الختامي للفترة المحاسبية السابقة هو المخزون الافتتاحي للفترة المحاسبية الحالية.
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
-* أنشئ [مستودعات] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/warehouse).
+* أنشئ [مستودعات](https://docs.erpnext.com/docs/v13/user/manual/en/stock/warehouse).
 * ربط المستودع بدفاتر الأستاذ المحاسبية المناسبة.
 
-## 2 \. فتح المخزون للسلع غير المسلسلة
+## 2. فتح المخزون للسلع غير المسلسلة
 
-لنشر المخزون الافتتاحي ، قم بزيارة صفحة [تسوية المخزون] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/stock-reconciliation).
+لنشر المخزون الافتتاحي ، قم بزيارة صفحة [تسوية المخزون](https://docs.erpnext.com/docs/v13/user/manual/en/stock/stock-reconciliation).
 
-## 3 \. فتح المخزون للعناصر المسلسلة والمجمعة
+## 3. فتح المخزون للعناصر المسلسلة والمجمعة
 
-أنشئ [Batch] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/batch) و [الرقم التسلسلي] (https://docs.erpnext.com/docs/v13/ المستخدم / دليل / en / stock / serial-no) السجلات مسبقًا. لترحيل المخزون الافتتاحي للأصناف المسلسلة والمجمعة:
+أنشئ [Batch](https://docs.erpnext.com/docs/v13/user/manual/en/stock/batch) و [الرقم التسلسلي](https://docs.erpnext.com/docs/v13/ المستخدم / دليل / en / stock / serial-no) السجلات مسبقًا. لترحيل المخزون الافتتاحي للأصناف المسلسلة والمجمعة:
 
-1. انتقل إلى ** المخزون> معاملات المخزون> إدخال المخزون> جديد **.
+1. انتقل إلى**المخزون> معاملات المخزون> إدخال المخزون> جديد**.
 2. حدد "استلام المواد" في "نوع إدخال المخزون".
 3. حدد المستودع في "المستودع الهدف الافتراضي".
 4. في جدول العناصر ، حدد رمز العنصر والكمية والسعر الأساسي.
@@ -25,8 +25,8 @@
 6. بالنسبة للعناصر المسلسلة ، حدد Serial No.
 7. حفظ وإرسال.
 
-## 4 \. فيديو
+## 4. فيديو
 
-1. [محاسبة المخزون] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/accounting-of-inventory-stock)
-2. [إدخال المخزون] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/stock-entry)
-3. [تسوية المخزون] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/stock-reconciliation)
+1. [محاسبة المخزون](https://docs.erpnext.com/docs/v13/user/manual/en/stock/accounting-of-inventory-stock)
+2. [إدخال المخزون](https://docs.erpnext.com/docs/v13/user/manual/en/stock/stock-entry)
+3. [تسوية المخزون](https://docs.erpnext.com/docs/v13/user/manual/en/stock/stock-reconciliation)

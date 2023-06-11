@@ -1,4 +1,4 @@
-\n## تقارير التصنيع
+## تقارير التصنيع
 
 هناك العديد من التقارير في وحدة التصنيع التي تساعدك على تتبع تقدم طلب العمل وتحليلات الإنتاج وتقارير قائمة المواد وما إلى ذلك.
 
@@ -12,36 +12,36 @@
 
 يعرض أوامر العمل المفتوحة التي لم تبدأ الإنتاج بعد.
 
-! [فتح أوامر العمل] (https://docs.erpnext.com/files/open-wo.png)
+![فتح أوامر العمل](https://docs.erpnext.com/files/open-wo.png)
 
 ## تقرير العمل الجاري
 
 يعرض هذا التقرير أي أوامر عمل بدأت وهي قيد التقدم. حالة أوامر العمل هذه "قيد المعالجة".
 
-! [تقرير ويب] (https://docs.erpnext.com/files/wip-report.png)
+![تقرير ويب](https://docs.erpnext.com/files/wip-report.png)
 
 ## الأصناف المصدرة مقابل أمر العمل
 
-العناصر التي تم إصدارها إلى أمر عمل وتم نقلها إلى مستودع العمل قيد التنفيذ موضحة هنا. ! [عناصر ضد WO] (https://docs.erpnext.com/files/items-against-wo.png)
+العناصر التي تم إصدارها إلى أمر عمل وتم نقلها إلى مستودع العمل قيد التنفيذ موضحة هنا. ![عناصر ضد WO](https://docs.erpnext.com/files/items-against-wo.png)
 
 ## أوامر العمل المكتملة
 
 يتم عرض أوامر العمل المكتملة بجميع الكميات المصنعة في هذا التقرير.
 
-! [أوامر العمل المكتملة] (https://docs.erpnext.com/files/completed-wo.png)
+![أوامر العمل المكتملة](https://docs.erpnext.com/files/completed-wo.png)
 
 ## تحليلات الإنتاج
 
 يعرض هذا التقرير التحليلات العامة لجميع أوامر العمل.
 
-! [تحليلات الإنتاج] (https://docs.erpnext.com/files/production-analytics.png)
+![تحليلات الإنتاج](https://docs.erpnext.com/files/production-analytics.png)
 
 ## بحث BOM
 
-في هذا التقرير ، يمكنك البحث عن قائمة مكونات الصنف محددة بناءً على أصناف المواد الخام المستخدمة فيها ، ثم فتحها. مفيد إذا كان لديك الكثير من BOMs. ! [بحث BOM] (https://docs.erpnext.com/files/bom-search.png)
+في هذا التقرير ، يمكنك البحث عن قائمة مكونات الصنف محددة بناءً على أصناف المواد الخام المستخدمة فيها ، ثم فتحها. مفيد إذا كان لديك الكثير من BOMs. ![بحث BOM](https://docs.erpnext.com/files/bom-search.png)
 
 ## تقرير المخزون BOM
 
 عند تحديد قائمة مكونات الصنف في هذا التقرير ، سيتم عرض كمية المواد الخام في المستودعات. كما ترى ، يتم عرض العناصر التي تحتوي على كمية غير كافية باللون الأحمر والعناصر التي تحتوي على كمية كافية لتصنيع عنصر قائمة المواد باللون الأخضر.
 
-! [BOM Stock Report] (https://docs.erpnext.com/files/bom-stock-report.png)
+![BOM Stock Report](https://docs.erpnext.com/files/bom-stock-report.png)

@@ -2,6 +2,6 @@
 
 يغطي هذا الرسم البياني كيفية تتبع ERPNext لمعلومات شركتك عبر الوظائف الرئيسية. لا يغطي هذا الرسم البياني جميع ميزات ERPNext.
 
-! [Workflow] (https://docs.erpnext.com/files/overview-flow.png)
+![Workflow](https://docs.erpnext.com/files/overview-flow.png)
 
 _ ملاحظة: ليست كل الخطوات إلزامية. يسمح لك ERPNext بتخطي الخطوات بحرية إذا كنت تريد تبسيط العملية.

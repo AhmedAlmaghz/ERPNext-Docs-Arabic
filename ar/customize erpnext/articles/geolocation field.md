@@ -1,7 +1,7 @@
-\n## تحديد الموقع الجغرافي
+## تحديد الموقع الجغرافي
 
 تحديد الموقع الجغرافي هو نوع حقل يقدمه Frappe Framework. يسمح لك هذا الحقل بإدراج حقل بالخريطة ، حيث يمكنك وضع علامة على موقع أو الرسم حسب حاجتك.
 
-هذا هو نوع الحقل ، معظم الأوقات المستخدمة في وحدة [الزراعة] (https://docs.erpnext.com/docs/v13/user/manual/en/agriculture) ، في وحدة الأرض والأرض الرئيسية.
+هذا هو نوع الحقل ، معظم الأوقات المستخدمة في وحدة [الزراعة](https://docs.erpnext.com/docs/v13/user/manual/en/agriculture) ، في وحدة الأرض والأرض الرئيسية.
 
-! [حقل تحديد الموقع الجغرافي] (https://docs.erpnext.com/files/geolocation-field.gif)
+![حقل تحديد الموقع الجغرافي](https://docs.erpnext.com/files/geolocation-field.gif)

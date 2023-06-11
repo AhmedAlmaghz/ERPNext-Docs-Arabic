@@ -1,14 +1,14 @@
 ## تصدير البيانات
 
-** يتيح لك تصدير البيانات تصدير البيانات من DocTypes إلى تنسيق CSV أو Excel. **
+**يتيح لك تصدير البيانات تصدير البيانات من DocTypes إلى تنسيق CSV أو Excel.**
 
-بعد تصدير البيانات ، يمكنك استخدام نفس الملف لاستيراد البيانات باستخدام [استيراد البيانات] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/data/data-import).
+بعد تصدير البيانات ، يمكنك استخدام نفس الملف لاستيراد البيانات باستخدام [استيراد البيانات](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/data/data-import).
 
 للوصول إلى تصدير البيانات ، انتقل إلى:
 
 > الصفحة الرئيسية> الإعدادات> تصدير البيانات
 
-## 1 \. كيفية استخدام تصدير البيانات
+## 1. كيفية استخدام تصدير البيانات
 
 1. انتقل إلى Data Export DocType.
 2. حدد DocType الذي تريد تصدير البيانات الخاصة به.
@@ -17,7 +17,7 @@
 5. يمكنك أيضًا إضافة عوامل تصفية لتحديد بيانات محددة فقط ، على سبيل المثال ، الإجمالي الكلي> = 1،000 لأوامر المبيعات.
 6. انقر فوق "تصدير" لتنزيل الملف.
     
-    ! [تصدير البيانات] (https://docs.erpnext.com/files/data-export.png)
+    ![تصدير البيانات](https://docs.erpnext.com/files/data-export.png)
     
 
-1. [استيراد البيانات] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/data/data-import)
+1. [استيراد البيانات](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/data/data-import)

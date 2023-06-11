@@ -6,7 +6,7 @@
 
 > الصفحة الرئيسية> الإعدادات> البريد الإلكتروني> نموذج البريد الإلكتروني
 
-## 1 \. كيفية إنشاء قالب بريد إلكتروني
+## 1. كيفية إنشاء قالب بريد إلكتروني
 
 1. اذهب إلى قائمة قالب البريد الإلكتروني ، وانقر على جديد.
 2. أدخل اسمًا لقالب البريد الإلكتروني هذا.
@@ -14,19 +14,19 @@
 4. الاستجابة هي المحتوى القياسي للبريد الإلكتروني الذي سيكون جزءًا من هذا النموذج.
 5. حفظ.
 
-! [نموذج بريد إلكتروني] (https://docs.erpnext.com/files/email-template-example.png)
+![نموذج بريد إلكتروني](https://docs.erpnext.com/files/email-template-example.png)
 
-** DocType مقترن: ** (اختياري) DocType المرتبط بهذا النموذج.
+**DocType مقترن:**(اختياري) DocType المرتبط بهذا النموذج.
 
 ### 1.1 كيفية استخدام نموذج البريد الإلكتروني
 
 يمكنك استخدام نموذج البريد الإلكتروني هذا في رسائل البريد الإلكتروني التي يتم إرسالها من ERPNext في حقل "CC و BCC & Email Template" بقسم البريد الإلكتروني في المستند. سيقوم ERPNext بإحضار الموضوع والاستجابة وفقًا للقالب المحدد.
 
-يمكنك تعيين نموذج بريد إلكتروني افتراضي لكل نوع مستند عبر [Customize Form] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/customize-form).
+يمكنك تعيين نموذج بريد إلكتروني افتراضي لكل نوع مستند عبر [Customize Form](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/customize-form).
 
 ### 1.2 كيفية الحصول على أسماء الحقول
 
-أسماء الحقول التي يمكنك استخدامها في قالب البريد الإلكتروني الخاص بك هي الحقول الموجودة في المستند الذي ترسل البريد الإلكتروني منه. يمكنك معرفة حقول أي مستندات عبر [Customize Form] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/customize-form) وتحديد نوع المستند (على سبيل المثال طلب المبيعات)
+أسماء الحقول التي يمكنك استخدامها في قالب البريد الإلكتروني الخاص بك هي الحقول الموجودة في المستند الذي ترسل البريد الإلكتروني منه. يمكنك معرفة حقول أي مستندات عبر [Customize Form](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/customize-form) وتحديد نوع المستند (على سبيل المثال طلب المبيعات)
 
 ### 1.3 استخدام HTML لبناء النموذج
 
@@ -34,7 +34,7 @@
 
 ### 1.4 القوالب
 
-يتم تجميع القوالب باستخدام Jinja. لمعرفة المزيد حول Jinja ، [قم بزيارة هذه الصفحة] (https://jinja.palletsprojects.com/en/2.10.x/).
+يتم تجميع القوالب باستخدام Jinja. لمعرفة المزيد حول Jinja ، [قم بزيارة هذه الصفحة](https://jinja.palletsprojects.com/en/2.10.x/).
 
-1. [حساب بريد إلكتروني] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account)
-2. [صندوق البريد الإلكتروني] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-inbox)
+1. [حساب بريد إلكتروني](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account)
+2. [صندوق البريد الإلكتروني](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-inbox)

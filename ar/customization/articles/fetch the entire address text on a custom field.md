@@ -1,6 +1,6 @@
 \nستساعدك هذه المقالة في إضافة حقل مخصص لجلب العناوين الكاملة على أي DocType ، باستخدام نهج من 3 خطوات.
 
-** الخطوة 1. التخصيصات التجميلية على DocType المطلوب **
+**الخطوة 1. التخصيصات التجميلية على DocType المطلوب**
 
 سنحتاج أولاً إلى إضافة حقلين جديدين في DocType لجلب العناوين: -
 
@@ -10,15 +10,15 @@
 
 قم بتدوين أسماء المتغيرات للحقول الجديدة التي تقوم بإنشائها. ستكون هذه المعلومات مطلوبة لاحقًا في العملية.
 
-! [] (https://docs.erpnext.com/files/q90efZM.png)
+![](https://docs.erpnext.com/files/q90efZM.png)
 
-للحصول على معلومات حول إنشاء حقول مخصصة على DocType ، يمكنك الرجوع إلى الرابط التالي - [Custom Fields in ERPNext] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/custom- مجال)
+للحصول على معلومات حول إنشاء حقول مخصصة على DocType ، يمكنك الرجوع إلى الرابط التالي - [Custom Fields in ERPNext](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/custom- مجال)
 
 بمجرد الانتهاء من هذه الخطوة ، يجب أن يكون لديك حقلين جديدين في DocType المحدد ، كما هو موضح أدناه: -
 
-! [] (https://docs.erpnext.com/files/SabQi7A.png)
+![](https://docs.erpnext.com/files/SabQi7A.png)
 
-** الخطوة 2. إضافة برنامج نصي للعميل لجلب العنوان الكامل من العنوان الرئيسي لدينا **
+**الخطوة 2. إضافة برنامج نصي للعميل لجلب العنوان الكامل من العنوان الرئيسي لدينا**
 
 ابحث عن "Client Script" في شريط البحث ، وأنشئ برنامج Client Script جديد. حدد DocType المطلوب الذي نحتاج إلى جلب العنوان عليه.
 
@@ -68,9 +68,9 @@ frappe.ui.form.on ("DocType Name"، "address \ _link \ _field"، function (frm،
 
 بمجرد الانتهاء من ذلك ، سيكون لديك برنامج عميل يبدو كما يلي: -
 
-! [] (https://docs.erpnext.com/files/VukPzs4.png)
+![](https://docs.erpnext.com/files/VukPzs4.png)
 
-** الخطوة الثالثة. احفظ وتمكين واختبر البرنامج النصي للعميل **
+**الخطوة الثالثة. احفظ وتمكين واختبر البرنامج النصي للعميل**
 
 بمجرد تعديل البرنامج النصي للعميل وفقًا لحالة الاستخدام الخاصة بك ، يمكننا حفظه وتمكينه بالنقر فوق مربع الاختيار "ممكّن".
 
@@ -78,4 +78,4 @@ frappe.ui.form.on ("DocType Name"، "address \ _link \ _field"، function (frm،
 
 الآن عند تحديد عنوان في حقل الارتباط المخصص الخاص بنا ، سيتم جلب العنوان بالكامل في حقل القراءة المخصص المخصص لدينا ، كما هو موضح أدناه: -
 
-! [] (https://docs.erpnext.com/files/W3kxhT2.gif)
+![](https://docs.erpnext.com/files/W3kxhT2.gif)

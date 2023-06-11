@@ -1,4 +1,4 @@
-\n** الحضور هو سجل يوضح ما إذا كان الموظف حاضرًا في يوم معين أم لا. **
+\n**الحضور هو سجل يوضح ما إذا كان الموظف حاضرًا في يوم معين أم لا.**
 
 في Frappe HR ، يمكنك تحديد وتسجيل حضور الموظف على أساس يومي باستخدام نموذج الحضور.
 
@@ -6,16 +6,16 @@
 
 \> الرئيسية> الموارد البشرية> الحضور
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء سجل حضور ، يُنصح بإنشاء ما يلي أولاً:
 
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
     
-* [نوع التحول] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift-management)
+* [نوع التحول](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift-management)
     
 
-## 2 \. كيفية إنشاء حضور
+## 2. كيفية إنشاء حضور
 
 1. اذهب إلى قائمة الحضور ، وانقر على جديد.
     
@@ -29,18 +29,18 @@
     
 6. حفظ وإرسال.
     
-    ! [الحضور] (https://docs.erpnext.com/files/attendance.png)
+    ![الحضور](https://docs.erpnext.com/files/attendance.png)
     
 
-\> ** ملاحظة: ** لا يمكن تحديد الحضور لتواريخ مستقبلية.
+\>**ملاحظة:**لا يمكن تحديد الحضور لتواريخ مستقبلية.
 
-يمكنك الحصول على تقرير شهري ببيانات الحضور الخاصة بك من خلال الانتقال إلى تقرير ** تفاصيل الحضور **.
+يمكنك الحصول على تقرير شهري ببيانات الحضور الخاصة بك من خلال الانتقال إلى تقرير**تفاصيل الحضور**.
 
-يمكنك بسهولة تعيين الحضور للموظفين باستخدام [أداة حضور الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-attendance-tool).
+يمكنك بسهولة تعيين الحضور للموظفين باستخدام [أداة حضور الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-attendance-tool).
 
-يمكنك أيضًا تحميل الحضور الجماعي باستخدام [تحميل الحضور] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/upload-attendance).
+يمكنك أيضًا تحميل الحضور الجماعي باستخدام [تحميل الحضور](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/upload-attendance).
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 تعليم الحضور غير المحدد
 
@@ -50,7 +50,7 @@
 
 1. انتقل إلى قائمة الحضور.
     
-2. انقر فوق الزر ** وضع علامة على الحضور **.
+2. انقر فوق الزر**وضع علامة على الحضور**.
     
 3. سيظهر مربع حوار.
     
@@ -62,20 +62,20 @@
     
 7. حدد التواريخ التي تريد أن تحدد الحضور لموظف محدد.
     
-8. انقر على زر ** Mark Attendance ** وانقر على ** Yes **.
+8. انقر على زر**Mark Attendance**وانقر على**Yes**.
     
-    ! [الحضور] (https://docs.erpnext.com/files/mark-attendance.gif)
-    
-
-1. [أداة حضور الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-attendance-tool)
-    
-2. [إدارة التحول] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift-management)
-    
-3. [حضور تلقائي] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/auto-attendance)
-    
-4. [تحميل الحضور] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/upload-attendance)
-    
-5. [طلب حضور] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/attendance-request)
+    ![الحضور](https://docs.erpnext.com/files/mark-attendance.gif)
     
 
-من الممكن أيضًا إعداد علامات الحضور تلقائيًا بناءً على سجلات تسجيل الوصول / المغادرة من أجهزة المقاييس الحيوية / RFID (أو أي آليات أخرى مماثلة تنتج سجلات الدخول / الخروج للموظف). يرجى الرجوع إلى ميزة [الحضور التلقائي] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/auto-attendance) لمزيد من المعلومات.
+1. [أداة حضور الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-attendance-tool)
+    
+2. [إدارة التحول](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift-management)
+    
+3. [حضور تلقائي](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/auto-attendance)
+    
+4. [تحميل الحضور](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/upload-attendance)
+    
+5. [طلب حضور](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/attendance-request)
+    
+
+من الممكن أيضًا إعداد علامات الحضور تلقائيًا بناءً على سجلات تسجيل الوصول / المغادرة من أجهزة المقاييس الحيوية / RFID (أو أي آليات أخرى مماثلة تنتج سجلات الدخول / الخروج للموظف). يرجى الرجوع إلى ميزة [الحضور التلقائي](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/auto-attendance) لمزيد من المعلومات.

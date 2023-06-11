@@ -1,6 +1,6 @@
-\n## شريك المبيعات
+## شريك المبيعات
 
-** شركاء المبيعات هم أشخاص أو شركات تساعدك في الحصول على أعمال. **
+**شركاء المبيعات هم أشخاص أو شركات تساعدك في الحصول على أعمال.**
 
 يمكن تمثيل شركاء المبيعات بأسماء مختلفة في ERPNext. يمكنك الاتصال بهم شريك القناة ، الموزع ، التاجر ، الوكيل ، بائع التجزئة ، شريك التنفيذ ، البائع ، إلخ.
 
@@ -10,36 +10,36 @@
 
 > الصفحة الرئيسية> البيع> شريك المبيعات
 
-## 1 \. كيفية إنشاء شريك مبيعات
+## 1. كيفية إنشاء شريك مبيعات
 
 1. انتقل إلى قائمة شركاء المبيعات ، وانقر فوق جديد.
 2. أدخل اسم شريك المبيعات ومعدل العمولة.
 3. يمكنك أيضًا تحديد نوع شريك المبيعات الذي تقوم بإنشائه لتحديد ما إذا كان بائع تجزئة أم بائع تجزئة ، وما إلى ذلك.
 4. حفظ.
 
-! [شريك المبيعات] (https://docs.erpnext.com/files/sales-partnerfe5f56.png)
+![شريك المبيعات](https://docs.erpnext.com/files/sales-partnerfe5f56.png)
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 العنوان والاتصال
 
 يمكنك إضافة وتتبع عناوين وتفاصيل الاتصال الخاصة بشريك المبيعات. يمكن إضافتها في قسم العنوان وجهات الاتصال في شريك المبيعات:
 
-! [عنوان شريك المبيعات] (https://docs.erpnext.com/files/sales-partner-address.png)
+![عنوان شريك المبيعات](https://docs.erpnext.com/files/sales-partner-address.png)
 
 ### 2.2 هدف شريك المبيعات
 
-يمكنك تخصيص أهداف لكل مجموعة عناصر ومنطقة ، بناءً على الكمية والمبلغ. يمكنك تخصيص أهداف المنطقة - أو الشهر ، لمعرفة المزيد راجع _مواضيع ذات صلة_. ! [هدف شريك المبيعات] (https://docs.erpnext.com/files/Screenshot٪202021-09-09٪20at٪2011.38.20٪20AM.png)
+يمكنك تخصيص أهداف لكل مجموعة عناصر ومنطقة ، بناءً على الكمية والمبلغ. يمكنك تخصيص أهداف المنطقة - أو الشهر ، لمعرفة المزيد راجع _مواضيع ذات صلة_. ![هدف شريك المبيعات](https://docs.erpnext.com/files/Screenshot٪202021-09-09٪20at٪2011.38.20٪20AM.png)
 
 ### 2.3 تضمين شركاء المبيعات في موقع الويب الخاص بك
 
-لتضمين اسم شريكك على موقع الويب الخاص بك ، حدد مربع الاختيار "إظهار في موقع الويب". عند النقر فوق "إظهار في موقع الويب" ، سترى حقلاً يمكنك من خلاله إرفاق شعار شركة شريكك وإدخال مقدمة موجزة عن الشريك ، وإضافة وصف للأغراض / المراجع الداخلية اختياريًا. ! [شريك المبيعات] (https://docs.erpnext.com/files/sales-partner-website.png)
+لتضمين اسم شريكك على موقع الويب الخاص بك ، حدد مربع الاختيار "إظهار في موقع الويب". عند النقر فوق "إظهار في موقع الويب" ، سترى حقلاً يمكنك من خلاله إرفاق شعار شركة شريكك وإدخال مقدمة موجزة عن الشريك ، وإضافة وصف للأغراض / المراجع الداخلية اختياريًا. ![شريك المبيعات](https://docs.erpnext.com/files/sales-partner-website.png)
 
 لمشاهدة قائمة الشركاء ، انتقل إلى:
 
 https://yourCompanyName.erpnext.com/partners
 
-! [شريك المبيعات] (https://docs.erpnext.com/files/sales-partner-listing.png)
+![شريك المبيعات](https://docs.erpnext.com/files/sales-partner-listing.png)
 
 ### 2.4 تتبع المبيعات عبر شريك المبيعات
 
@@ -49,27 +49,27 @@ https://yourCompanyName.erpnext.com/partners
 
 على سبيل المثال عنوان URL الذي يحتوي على "sp" كمعامل مثل http://xyz.erpnext.com؟sp=speed سوف يلتقط معلومات شريك المبيعات في طلب المبيعات الذي تم إنشاؤه عبر سلة التسوق.
 
-! [رمز إحالة شريك المبيعات] (https://docs.erpnext.com/files/sales-partner-refrral-code.png)
+![رمز إحالة شريك المبيعات](https://docs.erpnext.com/files/sales-partner-refrral-code.png)
 
-## 3 \. تقارير شركاء المبيعات
+## 3. تقارير شركاء المبيعات
 
 ### 3.1 ملخص عمولة شريك المبيعات
 
 للحصول على بيانات عمولة طلب المبيعات الحكيمة لشريك المبيعات.
 
-! [هدف شريك المبيعات] (https://docs.erpnext.com/files/sales-partner-commission.png)
+![هدف شريك المبيعات](https://docs.erpnext.com/files/sales-partner-commission.png)
 
 ### 3.2 ملخص معاملة شريك المبيعات
 
 للحصول على بيانات عمولة شريك المبيعات حسب طلب المبيعات.
 
-! [هدف شريك المبيعات] (https://docs.erpnext.com/files/sales-partner-commission-item.png)
+![هدف شريك المبيعات](https://docs.erpnext.com/files/sales-partner-commission-item.png)
 
 ### 3.3 التباين المستهدف لشريك المبيعات
 
 سيوفر لك هذا التقرير التباين بين الأداء المستهدف والفعلي لشريك المبيعات استنادًا إلى بيانات طلب المبيعات / فاتورة المبيعات / مذكرة التسليم. يمكن للمستخدم عرض فترة التقرير هذه مثل شهري أو ربع سنوي أو نصف سنوي أو سنوي.
 
-! [هدف شريك المبيعات] (https://docs.erpnext.com/files/Screenshot٪202021-09-09٪20at٪2012.02.19٪20PM.png)
+![هدف شريك المبيعات](https://docs.erpnext.com/files/Screenshot٪202021-09-09٪20at٪2012.02.19٪20PM.png)
 
-1. [تخصيص هدف مندوب المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-person-target-allocation)
-2. [كيف تسجل العمولة لشريك المبيعات في ERPNext؟] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/articles/how-to-give-commission-to-sales -شريك)
+1. [تخصيص هدف مندوب المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-person-target-allocation)
+2. [كيف تسجل العمولة لشريك المبيعات في ERPNext؟](https://docs.erpnext.com/docs/v13/user/manual/en/selling/articles/how-to-give-commission-to-sales -شريك)

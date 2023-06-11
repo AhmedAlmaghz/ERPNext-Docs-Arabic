@@ -1,6 +1,6 @@
-\n## حزمة
+## حزمة
 
-** تتيح لك ميزة الدُفعات في ERPNext تجميع وحدات متعددة من عنصر ما وتعيين قيمة / رقم / علامة فريدة لها تسمى Batch No. **
+**تتيح لك ميزة الدُفعات في ERPNext تجميع وحدات متعددة من عنصر ما وتعيين قيمة / رقم / علامة فريدة لها تسمى Batch No.**
 
 يتم ذلك بناءً على العنصر. إذا تم تجميع العنصر ، فيجب ذكر رقم الدُفعة في كل معاملة مخزون. يمكن الاحتفاظ بأرقام الدُفعات يدويًا أو تلقائيًا. هذه الميزة مفيدة لتعيين تاريخ انتهاء الصلاحية لعدة عناصر أو نقلها معًا إلى مستودعات مختلفة.
 
@@ -8,14 +8,14 @@
 
 > الصفحة الرئيسية> مخزون> الرقم التسلسلي والدُفعة> الدُفعة
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء الدفعة واستخدامها ، يُنصح بإنشاء ما يلي أولاً:
 
-* [عنصر] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
-* قم بتمكين "Has Batch No" في مدير السلعة! [Batch No Enabled] (https://docs.erpnext.com/files/batch-no-enabled.png)
+* [عنصر](https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
+* قم بتمكين "Has Batch No" في مدير السلعة![Batch No Enabled](https://docs.erpnext.com/files/batch-no-enabled.png)
 
-## 2 \. كيفية إنشاء دفعة جديدة
+## 2. كيفية إنشاء دفعة جديدة
 
 لتعيين العنصر كبند دفعة ، يجب التحقق من الحقل "لديه دفعة لا" في مدير السلعة. إذا لم تكن قد حددت "إنشاء دفعة جديدة تلقائيًا" عند إنشاء عنصر ، فسيتعين عليك عمل دفعات يدويًا أثناء تقدمك.
 
@@ -27,27 +27,27 @@
 4. إذا تم إجراء أي معاملة مع أحد الأصناف ، فلا يمكن تعيين الدُفعة أو إلغاء تعيينها.
 5. حفظ.
 
-عند تمكين الدُفعات لعنصر ما ، يصبح خيار [الاحتفاظ بعينة المخزون] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/retain-sample-stock) متاحًا أيضًا.
+عند تمكين الدُفعات لعنصر ما ، يصبح خيار [الاحتفاظ بعينة المخزون](https://docs.erpnext.com/docs/v13/user/manual/en/stock/retain-sample-stock) متاحًا أيضًا.
 
 ### 2.1 الإنشاء التلقائي للدفعات
 
 إذا كنت تريد إنشاء دفعة تلقائية في وقت إيصال الشراء ، يجب تحديد "إنشاء دفعة جديدة تلقائيًا" في مدير السلعة:
 
-! [إعداد العنصر للدفعات] (https://docs.erpnext.com/files/item_setup_for_batch.png)
+![إعداد العنصر للدفعات](https://docs.erpnext.com/files/item_setup_for_batch.png)
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 تقسيم وتحريك الدُفعات
 
 عندما تفتح دفعة ، سترى جميع الكميات التي تنتمي إلى تلك الدُفعة على الصفحة.
 
-! [عرض مجمّع] (https://docs.erpnext.com/files/batch_view.png)
+![عرض مجمّع](https://docs.erpnext.com/files/batch_view.png)
 
-* لنقل الدفعة من مستودع إلى آخر ، يمكنك النقر فوق الزر ** نقل **.
+* لنقل الدفعة من مستودع إلى آخر ، يمكنك النقر فوق الزر**نقل**.
     
-* يمكنك أيضًا تقسيم الدُفعة إلى مجموعة أصغر بالنقر فوق الزر ** تقسيم **. سيؤدي هذا إلى إنشاء دفعة جديدة بناءً على هذه الدُفعة وسيتم تقسيم الكميات بين الدفعات.
+* يمكنك أيضًا تقسيم الدُفعة إلى مجموعة أصغر بالنقر فوق الزر**تقسيم**. سيؤدي هذا إلى إنشاء دفعة جديدة بناءً على هذه الدُفعة وسيتم تقسيم الكميات بين الدفعات.
     
-    ! [Split Batch] (https://docs.erpnext.com/files/batch_split.png)
+    ![Split Batch](https://docs.erpnext.com/files/batch_split.png)
     
 * إذا قمت بتعيين تاريخ انتهاء الصلاحية ، فستظهر الدفعة "غير منتهية الصلاحية" حتى تاريخ انتهاء الصلاحية ، وبعد ذلك ستظهر "منتهية الصلاحية". إذا لم يتم تعيين التاريخ ، فستظهر الدُفعة "لم يتم التعيين".
     
@@ -60,6 +60,6 @@
 
 > ملاحظة: في حركات المخزون ، ستتم تصفية معرفات الدُفعات استنادًا إلى رمز الصنف والمستودع وتاريخ انتهاء الدُفعة (مقارنة بتاريخ ترحيل المعاملة) والكمية الفعلية في المستودع. أثناء البحث عن معرّف الدفعة بدون قيمة في حقل المستودع ، لن يتم تطبيق عامل تصفية الكمية الفعلية.
 
-1. [الرقم التسلسلي] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/serial-no)
-2. [فتح إدخال رصيد المخزون للعنصر المسلسل والدُفعي] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/opening-stock-balance-entry-for-serialized- و- دفعة-البند)
-3. [Managing Batch Wise Inventory] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/managing-batch-wise-inventory)
+1. [الرقم التسلسلي](https://docs.erpnext.com/docs/v13/user/manual/en/stock/serial-no)
+2. [فتح إدخال رصيد المخزون للعنصر المسلسل والدُفعي](https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/opening-stock-balance-entry-for-serialized- و- دفعة-البند)
+3. [Managing Batch Wise Inventory](https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/managing-batch-wise-inventory)

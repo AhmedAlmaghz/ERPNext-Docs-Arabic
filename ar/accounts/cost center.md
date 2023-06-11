@@ -1,6 +1,6 @@
-\n## مركز تقييم الكلفة، مركز التسعير، مركز التثمين
+## مركز تقييم الكلفة، مركز التسعير، مركز التثمين
 
-** مركز التكلفة هو جزء من مؤسسة حيث يمكن تحميل التكاليف أو الدخل. **
+**مركز التكلفة هو جزء من مؤسسة حيث يمكن تحميل التكاليف أو الدخل.**
 
 في ERPNext ، يمكنك استخدام مركز التكلفة كمركز ربح.
 
@@ -8,7 +8,7 @@
 
 تمتلك معظم الشركات أنشطة متعددة مثل خطوط الإنتاج المختلفة ، وقطاعات السوق ، ومجالات العمل ، وما إلى ذلك التي تشترك في بعض النفقات العامة المشتركة. يجب أن يكون لديهم بشكل مثالي هيكل خاص بهم للإبلاغ عما إذا كانوا مربحين أم لا. لهذا الغرض ، هناك هيكل بديل يسمى مخطط مراكز التكلفة.
 
-يعمل مركز التكلفة مثل [البعد المحاسبي] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions) والذي يساعدك على تتبع التكلفة بناءً على مناطق معينة.
+يعمل مركز التكلفة مثل [البعد المحاسبي](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions) والذي يساعدك على تتبع التكلفة بناءً على مناطق معينة.
 
 يمكن تعيين مركز التكلفة على هذه المستويات:
 
@@ -18,15 +18,15 @@
 
 يمكن ربط مركز التكلفة بالمعاملات التالية:
 
-1. [فاتورة المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
-2. [فاتورة الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
-3. [إدخال دفتر اليومية] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/journal-entry)
-4. [إدخال الدفع] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/payment-entry)
-5. [مذكرة التسليم] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note)
+1. [فاتورة المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
+2. [فاتورة الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
+3. [إدخال دفتر اليومية](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/journal-entry)
+4. [إدخال الدفع](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/payment-entry)
+5. [مذكرة التسليم](https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note)
 
-وغيرها من المعاملات التي يمكن استخدامها لوضع الميزانية. يمكنك أيضًا استخدام مركز التكلفة لـ [الميزانية] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting).
+وغيرها من المعاملات التي يمكن استخدامها لوضع الميزانية. يمكنك أيضًا استخدام مركز التكلفة لـ [الميزانية](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting).
 
-## 1 \. شجرة مركز التكلفة
+## 1. شجرة مركز التكلفة
 
 يمكنك إنشاء شجرة من مراكز التكلفة لتمثيل عملك بشكل أفضل. يتم أيضًا تمييز كل إدخال دخل / مصروف مقابل مركز التكلفة. إذا تم تحديد "السماح لمركز التكلفة بإدخال حساب الميزانية العمومية" ضمن إعدادات الحساب ، فسيسمح النظام للمستخدم بوضع علامة على الإدخال في حسابات الميزانية العمومية مقابل مركز التكلفة.
 
@@ -43,7 +43,7 @@
 
 > الصفحة الرئيسية> المحاسبة> مركز الميزانية والتكلفة> مخطط مراكز التكلفة
 
-## 2 \. كيفية إعداد مخطط مراكز التكلفة
+## 2. كيفية إعداد مخطط مراكز التكلفة
 
 1. اذهب إلى مخطط مراكز التكلفة.
 2. أضف عقدًا على مستوى المنطقة.
@@ -51,10 +51,10 @@
 
 سيؤدي تحديد شركة مختلفة إلى عرض مراكز التكلفة لتلك الشركة.
 
-! [مركز التكلفة] (https://docs.erpnext.com/files/chart-of-cost-center.png)
+![مركز التكلفة](https://docs.erpnext.com/files/chart-of-cost-center.png)
 
-! [مخطط مراكز التكلفة] (https://docs.erpnext.com/files/company-master.png)
+![مخطط مراكز التكلفة](https://docs.erpnext.com/files/company-master.png)
 
-1. [الميزانية] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting)
-2. [فاتورة المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
-3. [فاتورة الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
+1. [الميزانية](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting)
+2. [فاتورة المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
+3. [فاتورة الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)

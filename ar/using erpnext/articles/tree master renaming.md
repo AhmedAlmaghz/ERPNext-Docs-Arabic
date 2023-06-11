@@ -1,21 +1,21 @@
 ## إعادة تسمية الشجرة الرئيسية
 
-** هناك العديد من المستندات في ERPNext والتي يتم الاحتفاظ بها في هيكل شجرة. **
+**هناك العديد من المستندات في ERPNext والتي يتم الاحتفاظ بها في هيكل شجرة.**
 
-اقرأ عن [إدارة هياكل الشجرة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/articles/managing-tree-structure-masters.html) لمعرفة المزيد.
+اقرأ عن [إدارة هياكل الشجرة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/articles/managing-tree-structure-masters.html) لمعرفة المزيد.
 
 فيما يلي الخطوات التي يجب اتباعها لإعادة تسمية معرف رئيسي يتم الاحتفاظ به في هيكل شجرة. دعنا نعيد تسمية حساب على سبيل المثال.
 
-* ** الخطوة 1: ** اذهب إلى عرض الشجرة للوثيقة
+***الخطوة 1:**اذهب إلى عرض الشجرة للوثيقة
     
-* ** الخطوة 2: ** انتقل إلى عقدة المستند التي ترغب في إعادة تسميتها
+***الخطوة 2:**انتقل إلى عقدة المستند التي ترغب في إعادة تسميتها
     
     عند النقر فوق تلك العقدة ، سيكون لديك خيار "إعادة تسمية" المستند.
     
-    ! [إعادة تسمية Tree Master] (https://docs.erpnext.com/files/using-tree-renaming-1.png)
+    ![إعادة تسمية Tree Master](https://docs.erpnext.com/files/using-tree-renaming-1.png)
     
-* ** الخطوة 3: ** إعادة تسمية الحساب
+***الخطوة 3:**إعادة تسمية الحساب
     
     عند النقر فوق إعادة التسمية ، سيظهر مربع منبثق حيث يُسمح لك بإعادة تسمية المستند.
     
-    ! [إعادة تسمية Tree Master] (https://docs.erpnext.com/files/using-tree-renaming-2.gif)
+    ![إعادة تسمية Tree Master](https://docs.erpnext.com/files/using-tree-renaming-2.gif)

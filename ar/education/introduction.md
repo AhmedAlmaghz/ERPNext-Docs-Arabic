@@ -1,10 +1,10 @@
-\n## مقدمة
+## مقدمة
 
 تم تصميم مجال التعليم في ERPNext لتلبية متطلبات أي منظمة تنقل المعرفة وتؤمن بالقيام بذلك بطريقة منظمة. لقد تم استخدامه بالفعل في المدارس والكليات وحتى في الشركات الخاصة.
 
-يساعدك على إدارة الإدارة بفعالية ويسمح لك بالتركيز على ما هو أكثر أهمية لمؤسستك ، ** للتثقيف! **
+يساعدك على إدارة الإدارة بفعالية ويسمح لك بالتركيز على ما هو أكثر أهمية لمؤسستك ،**للتثقيف!**
 
-! [School Hero] (https://docs.erpnext.com/files/school-hero.png)
+![School Hero](https://docs.erpnext.com/files/school-hero.png)
 
 ## محتويات مجال التعليم ERPNext
 
@@ -20,9 +20,9 @@
 * تخطيط التقييم ونتائج التقييم
 * هيكل الرسوم واستلام الرسوم
 
-للحصول على عرض توضيحي عبر الإنترنت حول كل وظيفة من وظائف وحدة ERPNext Education ، [انقر هنا.] (https://www.youtube.com/watch؟v=f6foQOyGzdA&list=PL3lFfCEoMxvxyjnARY_C1zLoOE55LcMKB)
+للحصول على عرض توضيحي عبر الإنترنت حول كل وظيفة من وظائف وحدة ERPNext Education ، [انقر هنا.](https://www.youtube.com/watch؟v=f6foQOyGzdA&list=PL3lFfCEoMxvxyjnARY_C1zLoOE55LcMKB)
 
-! [قسم الرسوم] (https://docs.erpnext.com/files/assessment.png)
+![قسم الرسوم](https://docs.erpnext.com/files/assessment.png)
 
 ## من يستخدم ERPNext Education؟
 

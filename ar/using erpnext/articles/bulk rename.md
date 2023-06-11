@@ -27,4 +27,4 @@
 
 حدد DocType الذي تريد إعادة تسميته. هنا ، سيكون نوع DocType هو العنصر. ثم تصفح وتحميل ملف البيانات.
 
-! [تحميل البيانات] (https://docs.erpnext.com/files/using-bulk-rename-2.gif)
+![تحميل البيانات](https://docs.erpnext.com/files/using-bulk-rename-2.gif)

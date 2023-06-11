@@ -6,12 +6,12 @@
 
 يمكنك تحديد طريقة التقييم بناءً على قيمة العنصر التي سيتم حسابها. يمكن تعيين طريقة التقييم بشكل عام لجميع العناصر من إعدادات المخزون.
 
-! [تنزيل نسخة احتياطية] (https://docs.erpnext.com/files/item-valuation-1.png)
+![تنزيل نسخة احتياطية](https://docs.erpnext.com/files/item-valuation-1.png)
 
 يمكنك أيضًا تعيين طريقة التقييم في مدير الصنف ، خاصةً عندما تختلف طريقة التقييم لعنصر عن الطريقة الافتراضية كما هو موضح في لقطة الشاشة التالية.
 
-! [تنزيل نسخة احتياطية] (https://docs.erpnext.com/files/item-valuation-2.png)
+![تنزيل نسخة احتياطية](https://docs.erpnext.com/files/item-valuation-2.png)
 
 لاحظ أنه بمجرد إجراء إدخالات دفتر الأستاذ لأحد العناصر ، لن يكون هذا الخيار مرئيًا في نموذج العنصر.
 
-[انقر هنا للتعرف على طرق التقييم المتوفرة في ERPNext ، وكيف تعمل.] (https://frappe.io/blog/erpnext-features/inventory-valuation-method-fifo-vs-moving-average)
+[انقر هنا للتعرف على طرق التقييم المتوفرة في ERPNext ، وكيف تعمل.](https://frappe.io/blog/erpnext-features/inventory-valuation-method-fifo-vs-moving-average)

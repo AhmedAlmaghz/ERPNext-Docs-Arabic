@@ -1,6 +1,6 @@
 ## ملخص البريد الإلكتروني
 
-** تسمح لك ملخصات البريد الإلكتروني بالحصول على تحديثات منتظمة حول مبيعاتك ونفقاتك وأرقام مهمة أخرى مباشرة في صندوق البريد الإلكتروني الخاص بك. **
+**تسمح لك ملخصات البريد الإلكتروني بالحصول على تحديثات منتظمة حول مبيعاتك ونفقاتك وأرقام مهمة أخرى مباشرة في صندوق البريد الإلكتروني الخاص بك.**
 
 تعد ملخصات البريد الإلكتروني طريقة رائعة لكبار المديرين لتتبع الأرقام الكبيرة مثل "المبيعات المحجوزة" أو "المبلغ المحصل" أو "الفواتير المجمعة" وما إلى ذلك.
 
@@ -16,7 +16,7 @@
 
 مثال:
 
-! [Email Digest] (https://docs.erpnext.com/files/email-digest.png)
+![Email Digest](https://docs.erpnext.com/files/email-digest.png)
 
-1. [تقارير البريد الإلكتروني التلقائية] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/auto-email-reports)
-2. [إرسال بريد إلكتروني] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/sending-email)
+1. [تقارير البريد الإلكتروني التلقائية](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/auto-email-reports)
+2. [إرسال بريد إلكتروني](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/sending-email)

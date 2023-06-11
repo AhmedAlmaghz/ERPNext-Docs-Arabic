@@ -1,6 +1,6 @@
 ## خطأ مستوى بيرم
 
-أثناء تخصيص القواعد في [مدير الأذونات] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions) ، قد تتلقى رسالة خطأ تقول:
+أثناء تخصيص القواعد في [مدير الأذونات](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions) ، قد تتلقى رسالة خطأ تقول:
 
 > بالنسبة لمدير النظام _ (أو أي دور آخر) _ في المستوى 2 _ (أو مستوى آخر) _ في العميل _ (أو أي مستند آخر) _ في الصف 8: يجب تعيين الإذن على المستوى 0 قبل تعيين المستويات الأعلى.
 

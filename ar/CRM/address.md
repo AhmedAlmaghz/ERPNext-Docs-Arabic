@@ -1,4 +1,4 @@
-\n## عنوان
+## عنوان
 
 يمكنك تسجيل العناوين المرتبطة بعميل متوقع أو عميل أو مورد أو مساهم أو شريك مبيعات أو مستودع.
 
@@ -8,24 +8,24 @@
 
 > الرئيسية> CRM> العنوان
 
-## 1 \. كيفية إنشاء عنوان
+## 1. كيفية إنشاء عنوان
 
 1. اذهب إلى قائمة العناوين وانقر على جديد.
 2. حدد نوع العنوان.
 3. أدخل التفاصيل في سطر العنوان 1 ، سطر العنوان 2 ، المدينة / البلدة ، المقاطعة ، الولاية ، البلد.
 4. أدخل عنوان البريد الإلكتروني والهاتف والفاكس.
 5. أدخل Link DocType و Link Name لربط هذا العنوان بالعميل والمورد وما إلى ذلك.
-6. حفظ. ! [جهة اتصال] (https://docs.erpnext.com/files/address.png)
+6. حفظ. ![جهة اتصال](https://docs.erpnext.com/files/address.png)
 
 يمكنك أيضًا إضافة عنوان من سجل العميل أو المورد بالنقر فوق الزر "عنوان جديد" كما هو موضح أدناه.
 
-! [إضافة عنوان من العميل] (https://docs.erpnext.com/files/add-address-from-customer.png)
+![إضافة عنوان من العميل](https://docs.erpnext.com/files/add-address-from-customer.png)
 
-لاستيراد عناوين متعددة من جدول بيانات ، استخدم [أداة استيراد البيانات] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/data/data-import).
+لاستيراد عناوين متعددة من جدول بيانات ، استخدم [أداة استيراد البيانات](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/data/data-import).
 
 * * *
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 ربط عنوان بكيانات متعددة
 
@@ -33,7 +33,7 @@
 
 يمكن أيضًا ربط العنوان بالعملاء والموردين في نفس الوقت.
 
-! [ربط عنوان واحد بكيانات متعددة] (https://docs.erpnext.com/files/link-address-to-multiple-entities.png)
+![ربط عنوان واحد بكيانات متعددة](https://docs.erpnext.com/files/link-address-to-multiple-entities.png)
 
 ### 2.2 عنوان العنوان
 
@@ -41,7 +41,7 @@
 
 إذا كان العنوان مرتبطًا بكيان مثل عميل أو مورد ، فسيتم إنشاء العنوان تلقائيًا بتنسيق "اسم الكيان - نوع العنوان".
 
-! [عنوان العنوان] (https://docs.erpnext.com/files/address-title.png)
+![عنوان العنوان](https://docs.erpnext.com/files/address-title.png)
 
 ### 2.3 عنوان الفواتير المفضل وعنوان الشحن
 
@@ -51,18 +51,18 @@
 
 ### 2.4 توطين ضريبة السلع والخدمات للهند
 
-إذا قام العميل أو المورد بالتسجيل بموجب ضريبة السلع والخدمات ، فيمكنك إدخال رقم GSTIN وحالة ضريبة السلع والخدمات في العنوان. تأكد من إدخال رقم GSTIN بتنسيق صالح. ! [تفاصيل ضريبة السلع والخدمات في العنوان] (https://docs.erpnext.com/files/gst-details-in-address.png)
+إذا قام العميل أو المورد بالتسجيل بموجب ضريبة السلع والخدمات ، فيمكنك إدخال رقم GSTIN وحالة ضريبة السلع والخدمات في العنوان. تأكد من إدخال رقم GSTIN بتنسيق صالح. ![تفاصيل ضريبة السلع والخدمات في العنوان](https://docs.erpnext.com/files/gst-details-in-address.png)
 
 في معاملات المبيعات جنبًا إلى جنب مع العنوان ، يتم أيضًا جلب رقم GSTIN.
 
-! [تفاصيل ضريبة السلع والخدمات في طلب المبيعات] (https://docs.erpnext.com/files/gst-details-in-sales-order.png)
+![تفاصيل ضريبة السلع والخدمات في طلب المبيعات](https://docs.erpnext.com/files/gst-details-in-sales-order.png)
 
 يمكنك أيضًا إضافة عناوين لمرافق الشركة الخاصة بك. حدد "هو عنوان شركتك" ، وحدد الشركة في Link DocType ، واسم الشركة في Link Name لهذه العناوين ويمكنك تحديدها في فاتورة مبيعات GST لطباعة عنوانك الخاص.
 
-! [عنوان الشركة] (https://docs.erpnext.com/files/company-address.png)
+![عنوان الشركة](https://docs.erpnext.com/files/company-address.png)
 
 > يجب إضافة GSTIN في العنوان وليس في العميل / المورد ، حيث قد يكون لدى عميل / مورد واحد GSTIN متعدد (واحد لكل ولاية يدير فيها عمله).
 
-1. [العميل] (https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
-2. [المورد] (https://docs.erpnext.com/docs/v13/user/manual/en/buying)
-3. [شريك المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling)
+1. [العميل](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+2. [المورد](https://docs.erpnext.com/docs/v13/user/manual/en/buying)
+3. [شريك المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling)

@@ -1,6 +1,6 @@
-\n## تكامل Paytm
+## تكامل Paytm
 
-** يسمح تكامل Paytm بمعالجة المعاملات مع مزود بوابة الدفع Paytm. **
+**يسمح تكامل Paytm بمعالجة المعاملات مع مزود بوابة الدفع Paytm.**
 
 يسهل تكامل Paytm معالجة المدفوعات بين بوابة الدفع Paytm و ERPNext. يمكن لعملائك اختيار الدفع من أي بطاقة ائتمان / خصم أو UPI أو Netbanking أو Paytm Wallet.
 
@@ -15,19 +15,19 @@
 3. اختر خيار API Keys ، يجب أن يعرض نوعين من تفاصيل API (الاختبار / الإنتاج).
 4. التفاصيل المذكورة في تفاصيل واجهة برمجة التطبيقات للإنتاج هي بيانات الاعتماد التي من المفترض أن تستخدمها في إعدادات Paytm.
 
-! [إعدادات Razorpay] (https://docs.erpnext.com/files/paytm_credentials.png)
+![إعدادات Razorpay](https://docs.erpnext.com/files/paytm_credentials.png)
 
 ## 2. إعداد Paytm
 
-لتمكين خدمة الدفع Paytm ، تحتاج إلى تكوين جميع المعلمات الإلزامية التي تلقيتها من Paytm. إذا كنت ترغب في استخدام البيئة المرحلية للتكامل ، فيمكنك تحديد خيار التدريج واستخدام بيانات اعتماد مطور واجهة برمجة التطبيقات الاختبارية التي يوفرها Paytm. ! [إعدادات Razorpay] (https://docs.erpnext.com/files/paytm_settings.png)
+لتمكين خدمة الدفع Paytm ، تحتاج إلى تكوين جميع المعلمات الإلزامية التي تلقيتها من Paytm. إذا كنت ترغب في استخدام البيئة المرحلية للتكامل ، فيمكنك تحديد خيار التدريج واستخدام بيانات اعتماد مطور واجهة برمجة التطبيقات الاختبارية التي يوفرها Paytm. ![إعدادات Razorpay](https://docs.erpnext.com/files/paytm_settings.png)
 
 عند تمكين تكامل Paytm في ERPNext ، سيقوم النظام بإنشاء سجل بوابة الدفع ورئيس الحساب في مخطط الحساب مع نوع الحساب مثل البنك كما هو موضح في لقطة الشاشة التالية.
 
-! [Stripe COA] (https://docs.erpnext.com/files/paytm_coa.png)
+![Stripe COA](https://docs.erpnext.com/files/paytm_coa.png)
 
 أيضًا ، سيتم إنشاء إدخال حساب بوابة الدفع. حساب بوابة الدفع هو مركز التكوين حيث يمكنك تعيين رؤساء الحساب ونموذج البريد الإلكتروني الافتراضي لطلب الدفع لطلب المدفوعات من العملاء.
 
-! [حساب بوابة الدفع] (https://docs.erpnext.com/files/payment_gateway_account_paytm.png)
+![حساب بوابة الدفع](https://docs.erpnext.com/files/payment_gateway_account_paytm.png)
 
 بعد تكوين حساب Payment Gateway ، ستتمكن من قبول المدفوعات عبر الإنترنت عبر Paytm.
 

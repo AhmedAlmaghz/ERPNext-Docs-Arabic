@@ -12,31 +12,31 @@
 * وقت انتهاء صلاحية رمز الاستجابة السريعة على الخادم إذا تم تحديد تطبيق OTP
 * اسم جهة إصدار OTP.
 
-! [تمكين المصادقة الثنائية] (https://docs.erpnext.com/files/twofactor-1.png)
+![تمكين المصادقة الثنائية](https://docs.erpnext.com/files/twofactor-1.png)
 
 عند تفعيل المصادقة الثنائية من الإعداد ، يتم تنشيطها أيضًا للدور "الكل". بهذه الطريقة ، يتعين على جميع المستخدمين بما في ذلك المسؤول إجراء مصادقة من المستوى الثاني باستخدام رمز مميز. من خلال إلغاء تحديد مربع الاختيار "المصادقة الثنائية" في دور "الكل" وتمكينه في أدوار أخرى ، يمكن أن تقتصر الحاجة إلى تسجيل الدخول باستخدام رمز مميز على أدوار محددة. 2FA لا ينطبق على تسجيل الدخول من قبل مستخدمي الويب وتسجيل الدخول إلى واجهة برمجة التطبيقات
 
-! [الدور تمكين المصادقة الثنائية] (https://docs.erpnext.com/files/twofactor-2.png)
+![الدور تمكين المصادقة الثنائية](https://docs.erpnext.com/files/twofactor-2.png)
 
 إذا كنت تستخدم مصادقة SMS ، فيرجى التأكد من تحديث إعدادات الرسائل القصيرة الخاصة بك
 
-! [إعدادات SMS] (https://docs.erpnext.com/files/twofactor-3.png)
+![إعدادات SMS](https://docs.erpnext.com/files/twofactor-3.png)
 
 إذا كنت تستخدم البريد الإلكتروني ، فتأكد من تحديث إعدادات حساب البريد الإلكتروني الصادر
 
-! [إعدادات البريد الإلكتروني] (https://docs.erpnext.com/files/twofactor-4.png)
+![إعدادات البريد الإلكتروني](https://docs.erpnext.com/files/twofactor-4.png)
 
 عندما يحاول المستخدم الجديد تسجيل الدخول لأول مرة في نظام تم فيه تمكين المصادقة الثنائية ولديه خيار المصادقة مثل تطبيق OTP ، يتم إرسال بريد إلكتروني يحتوي على رابط إلى رمز الاستجابة السريعة.
 
-! [Email Notify Two Factor] (https://docs.erpnext.com/files/twofactor-5.png)! [صفحة كود QR] (https://docs.erpnext.com/files/twofactor-6.png )
+![Email Notify Two Factor](https://docs.erpnext.com/files/twofactor-5.png)![صفحة كود QR](https://docs.erpnext.com/files/twofactor-6.png )
 
 يقوم مسح رمز الاستجابة السريعة باستخدام تطبيق مصادقة مثل Google Authenticator بتسجيل وصول المستخدم ويبدأ تلقائيًا في إنشاء الرموز المميزة التي يمكن استخدامها لتسجيل الدخول
 
-! [تطبيق Two Factor Scan] (https://docs.erpnext.com/files/twofactor_app.jpeg)
+![تطبيق Two Factor Scan](https://docs.erpnext.com/files/twofactor_app.jpeg)
 
 إذا تم استخدام أي من البريد الإلكتروني / الرسائل القصيرة كطريقة مصادقة ، فستتلقى إشعارات أيضًا
 
-! [البريد الإلكتروني والرسائل القصيرة] (https://docs.erpnext.com/files/twofactor-8.png)
+![البريد الإلكتروني والرسائل القصيرة](https://docs.erpnext.com/files/twofactor-8.png)
 
 ### أسئلة وأجوبة (FAQ)
 

@@ -1,14 +1,14 @@
-\nفي ERPNext ، يتم الاحتفاظ بمدير مندوبي المبيعات في [بنية الشجرة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/articles/managing-tree-structure-masters.html) . يمكن تحديد مندوب المبيعات في جميع معاملات المبيعات.
+\nفي ERPNext ، يتم الاحتفاظ بمدير مندوبي المبيعات في [بنية الشجرة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/articles/managing-tree-structure-masters.html) . يمكن تحديد مندوب المبيعات في جميع معاملات المبيعات.
 
 يمكن تحديث مندوبي المبيعات في مدير العميل أيضًا. عند اختيار العميل في المعاملات ، سيحضر مندوبو المبيعات كما تم تحديثه في العميل في معاملة المبيعات.
 
-! [عميل مندوب المبيعات] (https://docs.erpnext.com/files/sales-person-in-customer.png)
+![عميل مندوب المبيعات](https://docs.erpnext.com/files/sales-person-in-customer.png)
 
 #### مساهمة مندوب المبيعات
 
 إذا كان هناك أكثر من مندوبي مبيعات يعملون معًا في أحد الطلبات ، فيجب تعيين مساهمة (٪) لكل مندوب مبيعات.
 
-! [طلب مندوب المبيعات] (https://docs.erpnext.com/files/sales-person-in-sales-order.png)
+![طلب مندوب المبيعات](https://docs.erpnext.com/files/sales-person-in-sales-order.png)
 
 عند توفير المعاملة ، بناءً على صافي الإجمالي والتضامن (٪) ، سيتم احتساب "المساهمة في صافي الإجمالي" لكل مندوب مبيعات.
 
@@ -22,7 +22,7 @@
 
 يمكن إنشاء هذا التقرير بناءً على أمر المبيعات ومذكرة التسليم وفاتورة المبيعات. سوف يمنحك المبلغ الإجمالي للبيع الذي قام به صاحب العمل.
 
-! [تقرير مندوب المبيعات] (https://docs.erpnext.com/files/sales-person-wise-transaction-summary-report.png)
+![تقرير مندوب المبيعات](https://docs.erpnext.com/files/sales-person-wise-transaction-summary-report.png)
 
 #### عمولة مندوب المبيعات
 

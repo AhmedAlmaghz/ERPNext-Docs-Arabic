@@ -4,16 +4,16 @@
 
 > الرئيسية> الموارد البشرية> الإجازات> تعيين سياسة الإجازة
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء تعيين سياسة الإجازة ، يُنصح بإنشاء ما يلي:
 
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
     
-* [سياسة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
+* [سياسة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy)
     
 
-## 2 \. كيفية إنشاء تعيين سياسة الإجازة
+## 2. كيفية إنشاء تعيين سياسة الإجازة
 
 1. انتقل إلى ترك تعيين السياسة ، وانقر فوق جديد.
     
@@ -30,13 +30,13 @@
 4. حفظ وإرسال.
     
 
-! [ترك تعيين السياسة] (https://docs.erpnext.com/files/leave-policy-assignment.png)
+![ترك تعيين السياسة](https://docs.erpnext.com/files/leave-policy-assignment.png)
 
-عند التقديم ، سيتم إنشاء مستندات تخصيص الإجازات تلقائيًا استنادًا إلى [سياسة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy) كما هو موضح أدناه.
+عند التقديم ، سيتم إنشاء مستندات تخصيص الإجازات تلقائيًا استنادًا إلى [سياسة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy) كما هو موضح أدناه.
 
-! [اترك التخصيصات] (https://docs.erpnext.com/files/granted-leaves.png)
+![اترك التخصيصات](https://docs.erpnext.com/files/granted-leaves.png)
 
-## 5 \. سمات
+## 5. سمات
 
 ### 5.1 تعيين سياسة الإجازة المجمّعة
 
@@ -51,4 +51,4 @@
 4. انقر فوق تعيين.
     
 
-! [تعيين سياسة الإجازة المجمعة] (https://docs.erpnext.com/files/bulk-leave-policy-assignment.png)
+![تعيين سياسة الإجازة المجمعة](https://docs.erpnext.com/files/bulk-leave-policy-assignment.png)

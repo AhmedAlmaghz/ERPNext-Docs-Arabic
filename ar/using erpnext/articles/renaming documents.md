@@ -1,22 +1,22 @@
 ## إعادة تسمية المستندات
 
-** باستخدام ميزة إعادة التسمية ، يمكنك تغيير اسم المستند الرئيسي. **
+**باستخدام ميزة إعادة التسمية ، يمكنك تغيير اسم المستند الرئيسي.**
 
 باستخدام هذه الميزة ، يمكنك أيضًا دمج مستندين رئيسيين في مستند واحد.
 
-تحقق من [قائمة المستندات القابلة للتجديد] (https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/articles/renaming-documents#list-of-renamable-documents) للحصول على قائمة جميع المستندات التي يمكن إعادة تسميتها في النظام.
+تحقق من [قائمة المستندات القابلة للتجديد](https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/articles/renaming-documents#list-of-renamable-documents) للحصول على قائمة جميع المستندات التي يمكن إعادة تسميتها في النظام.
 
 ### خطوات إعادة تسمية المستند
 
-** الخطوة 1 **: انتقل إلى المستند الذي ترغب في إعادة تسميته.
+**الخطوة 1**: انتقل إلى المستند الذي ترغب في إعادة تسميته.
 
-** الخطوة 2 **: من القائمة المنسدلة ، حدد خيار "إعادة تسمية".
+**الخطوة 2**: من القائمة المنسدلة ، حدد خيار "إعادة تسمية".
 
-! [إعادة تسمية المستند] (https://docs.erpnext.com/files/using-rename-documents-1.gif)
+![إعادة تسمية المستند](https://docs.erpnext.com/files/using-rename-documents-1.gif)
 
 بدلاً من ذلك ، يمكنك أيضًا النقر فوق عنوان المستند ، مما سينتج عنه نافذة منبثقة ، حيث ستتمكن من تغيير اسم المستند الذي ترغب في إعادة تسميته.
 
-! [إعادة تسمية المستند] (https://docs.erpnext.com/files/using-rename-documents-2.gif)
+![إعادة تسمية المستند](https://docs.erpnext.com/files/using-rename-documents-2.gif)
 
 ### تأثير إعادة التسمية
 
@@ -63,4 +63,4 @@
 
 ## أنظر أيضا
 
-1. [إعادة تسمية مجمعة] (https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/articles/bulk-rename)
+1. [إعادة تسمية مجمعة](https://docs.erpnext.com/docs/v13/user/manual/en/using-erpnext/articles/bulk-rename)

@@ -4,18 +4,18 @@
 
 2) قم بإنشاء إشعار جديد لأي نوع DocType. في هذه الحالة ، أخذنا مثالاً على إرسال إشعار بالبريد الإلكتروني عند إنشاء كل طلب مادة جديد كما هو موضح أدناه.
 
-! [] (https://docs.erpnext.com/files/6WPgqY6.png)
+![](https://docs.erpnext.com/files/6WPgqY6.png)
 
 3) لإرسال معرف المستند للسجل المرتبط كرابط ، انسخ المقتطف أدناه في رسالة البريد الإلكتروني:
 
-** <a href="{{frappe.utils.get\_url\_to\_form(doc.doctype، doc.name)}}"> {{doc.name}} </a> **
+**<a href="{{frappe.utils.get\_url\_to\_form(doc.doctype، doc.name)}}"> {{doc.name}} </a>**
 
-! [] (https://docs.erpnext.com/files/vHK6tDW.png)
+![](https://docs.erpnext.com/files/vHK6tDW.png)
 
 4) الآن عند إنشاء طلب مادة جديد ، سيتم استلام البريد الإلكتروني التالي بسبب الإشعار المحدد أعلاه.
 
-! [] (https://docs.erpnext.com/files/3WOeTEv.png)
+![](https://docs.erpnext.com/files/3WOeTEv.png)
 
 عند النقر على الرابط ، سيتم نقلك إلى طلب المواد الجديد.
 
-! [] (https://docs.erpnext.com/files/4hB36zh.png)
+![](https://docs.erpnext.com/files/4hB36zh.png)

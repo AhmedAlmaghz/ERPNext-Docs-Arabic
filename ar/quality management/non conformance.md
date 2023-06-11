@@ -1,4 +1,4 @@
-\n## غير مطابقة
+## غير مطابقة
 
 > مقدمة في الإصدار 13
 
@@ -8,17 +8,17 @@ _A غير المطابقة هي ملاحظة يمكن تقديمها من قبل
 
 في ERPNext ، يمكنك إنشاء عدم توافق عن طريق تحديد إجراء الجودة الذي تمت ملاحظته على أساسه ، والحفاظ على حالته وتسجيل الإجراءات التصحيحية والوقائية
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
-1. [إجراء الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)
+1. [إجراء الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)
 
-## 2 \. كيفية إنشاء عدم توافق
+## 2. كيفية إنشاء عدم توافق
 
 1. انتقل إلى الجودة> عدم المطابقة أو ابحث عن إجراء الجودة وانقر على + من لوحة القيادة.
 2. سجل ملاحظاتك
 3. سجل الإجراءات التصحيحية / الوقائية إن وجدت
 4. تحديث الحالة
 
-! [عدم التوافق] (https://docs.erpnext.com/files/non-conformance.png)
+![عدم التوافق](https://docs.erpnext.com/files/non-conformance.png)
 
-1. [إجراء الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)
+1. [إجراء الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)

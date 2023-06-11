@@ -1,30 +1,30 @@
-\n** يتم تقديم عرض العمل للمرشحين المختارين بعد المقابلة والاختيار الذي ينص على حزمة الراتب المقدمة ، والتعيين ، والدرجة ، والقسم ، وعدد الأيام التي يحق لها الحصول على إجازة من بين معلومات أخرى. **
+\n**يتم تقديم عرض العمل للمرشحين المختارين بعد المقابلة والاختيار الذي ينص على حزمة الراتب المقدمة ، والتعيين ، والدرجة ، والقسم ، وعدد الأيام التي يحق لها الحصول على إجازة من بين معلومات أخرى.**
 
 في Frappe HR ، يمكنك عمل سجل لعروض العمل التي يمكنك تقديمها للمرشحين. للوصول إلى عرض العمل ، انتقل إلى:
 
 \> الصفحة الرئيسية> الموارد البشرية> التوظيف> عرض الوظيفة
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء عرض عمل ، يُنصح بإنشاء ما يلي:
 
-* [خطة التوظيف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/staffing-plan)
-* [متقدم لوظيفة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-applicant)
-* [فتح وظيفة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-opening)
+* [خطة التوظيف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/staffing-plan)
+* [متقدم لوظيفة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-applicant)
+* [فتح وظيفة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-opening)
 
-## 2 \. كيفية إنشاء عرض عمل
+## 2. كيفية إنشاء عرض عمل
 
 1. اذهب إلى قائمة عرض العمل ، وانقر على جديد.
 2. حدد طالب الوظيفة وتاريخ العرض والتعيين.
 3. تعيين حالة عرض العمل (في انتظار الرد ، مقبول ، مرفوض).
 4. حفظ وإرسال.
     
-    ! [عرض عمل] (https://docs.erpnext.com/files/job-offer.png)
+    ![عرض عمل](https://docs.erpnext.com/files/job-offer.png)
     
 
-\> ** ملاحظة: ** يمكن تقديم عرض عمل فقط ضد [متقدم للوظيفة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-applicant)
+\>**ملاحظة:**يمكن تقديم عرض عمل فقط ضد [متقدم للوظيفة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-applicant)
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 شروط عرض العمل
 
@@ -38,4 +38,4 @@
 
 يمكنك إنشاء تنسيق طباعة مصمم مسبقًا لطباعة عرض العمل الخاص بك. للقيام بذلك ، حدد رأس الرسالة وعنوان الطباعة في قسم تفاصيل الطباعة.
 
-! [عرض عمل] (https://docs.erpnext.com/files/job-offer-print.png)
+![عرض عمل](https://docs.erpnext.com/files/job-offer-print.png)

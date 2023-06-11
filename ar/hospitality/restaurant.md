@@ -1,4 +1,4 @@
-\n## مطعم
+## مطعم
 
 يمثل سجل المطعم مطعمًا واحدًا في مؤسستك. لإنشاء مطعم جديد ، ما عليك سوى تعيين الاسم والشركة والعميل الافتراضي.
 
@@ -6,7 +6,7 @@
 
 إذا كان لديك نموذج افتراضي لضرائب ورسوم المبيعات ، فيمكنك إضافته بحيث يتم تطبيق نفس الرسوم + الضريبة على جميع الفواتير في المطعم.
 
-! [مطعم] (https://docs.erpnext.com/files/restaurant.png)
+![مطعم](https://docs.erpnext.com/files/restaurant.png)
 
 بعد إنشاء مطعمك ، يمكنك إضافة جداول وقوائم لهذا المطعم
 
@@ -14,4 +14,4 @@
 
 يمكنك إضافة Restaurant Table عن طريق إنشاء Restaurant Table جديد من لوحة القيادة.
 
-! [طاولة المطعم] (https://docs.erpnext.com/files/restaurant-table.png)
+![طاولة المطعم](https://docs.erpnext.com/files/restaurant-table.png)

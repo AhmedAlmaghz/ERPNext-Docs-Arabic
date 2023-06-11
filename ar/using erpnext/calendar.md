@@ -1,38 +1,38 @@
 ## تقويم
 
-** التقويم هو أداة تساعدك على إنشاء ومشاركة وتتبع الأحداث في حساب ERPNext الخاص بك. **
+**التقويم هو أداة تساعدك على إنشاء ومشاركة وتتبع الأحداث في حساب ERPNext الخاص بك.**
 
 يمكنك الحصول على عرض يوم أو أسبوع أو شهر في التقويم.
 
-! [التقويم] (https://docs.erpnext.com/files/using-calender-1.png)
+![التقويم](https://docs.erpnext.com/files/using-calender-1.png)
 
 للوصول إلى التقويم ، انتقل إلى:
 
 > الصفحة الرئيسية> أدوات> التقويم
 
-## 1 \. إنشاء الأحداث في التقويم
+## 1. إنشاء الأحداث في التقويم
 
 1. اذهب إلى التقويم وانقر على جديد.
 2. أدخل الموضوع وتاريخ بدء الحدث.
 3. حفظ.
 
-! [التقويم] (https://docs.erpnext.com/files/using-calender-2.gif)
+![التقويم](https://docs.erpnext.com/files/using-calender-2.gif)
 
 بدلاً من ذلك ، يمكنك أيضًا إنشاء حدث من "عرض اليوم" في التقويم. يتم تقسيم هذا المنظر إلى فتحات مختلفة على مدار اليوم. يمكنك تحديد الفتحة لبدء الحدث ، وإدخال موضوع الحدث وسحبه حتى وقت انتهاء الحدث.
 
-! [التقويم] (https://docs.erpnext.com/files/using-calender-3.gif)
+![التقويم](https://docs.erpnext.com/files/using-calender-3.gif)
 
 ### 1.1. حدث قائم على عميل محتمل
 
 في نموذج العميل المتوقع ، ستجد حقلاً يسمى الاتصال التالي بحلول وتاريخ جهة الاتصال التالية. بمجرد تحديد التاريخ والمستخدم في هذه الحقول ، سيتم إنشاء حدث تلقائيًا للمستخدم في التاريخ والوقت المحددين.
 
-! [التقويم] (https://docs.erpnext.com/files/using-calender-4.png)
+![التقويم](https://docs.erpnext.com/files/using-calender-4.png)
 
 ### 1.2. الحدث على أساس بطاقات العمل
 
 لكل بطاقة عمل يتم إنشاؤها لمستخدم في حساب ERPNext ، سيتم إنشاء حدث مطابق في التقويم.
 
-! [التقويم] (https://docs.erpnext.com/files/using-calender-job-card.png)
+![التقويم](https://docs.erpnext.com/files/using-calender-job-card.png)
 
 ### 1.3. حدث عيد ميلاد
 
@@ -46,7 +46,7 @@
 
 يمكنك أيضًا إدخال اليوم الأخير من التكرار في حقل "التكرار حتى". في حالة التكرار اللانهائي ، يمكنك اختيار ترك هذا الحقل فارغًا.
 
-! [التقويم] (https://docs.erpnext.com/files/using-calender-5.gif)
+![التقويم](https://docs.erpnext.com/files/using-calender-5.gif)
 
 ### 1.5. تذكير الحدث
 
@@ -56,7 +56,7 @@
     
     في الحدث الرئيسي ، سيؤدي تحديد "إرسال تذكير بالبريد الإلكتروني في الصباح" إلى إرسال إشعار بالبريد الإلكتروني إلى جميع المشاركين في هذا الحدث.
     
-    ! [التقويم] (https://docs.erpnext.com/files/using-calender-6.png)
+    ![التقويم](https://docs.erpnext.com/files/using-calender-6.png)
     
 2. إنشاء ملخص البريد الإلكتروني
     
@@ -66,4 +66,4 @@
     
     > الإعداد> البريد الإلكتروني> ملخص البريد الإلكتروني
     
-    ! [التقويم] (https://docs.erpnext.com/files/using-calender-7.png)
+    ![التقويم](https://docs.erpnext.com/files/using-calender-7.png)

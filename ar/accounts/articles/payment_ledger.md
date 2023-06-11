@@ -1,4 +1,4 @@
-\n## دفع دفتر الأستاذ
+## دفع دفتر الأستاذ
 
 دفتر أستاذ منفصل لتسجيل المعاملات على حسابات القبض والدائنين.
 
@@ -20,13 +20,13 @@
 
 ### مثال:
 
-ستبدو فاتورة المبيعات البالغة 1000 دولار أمريكي وإدخال الدفع مقابل هذه الفاتورة كما يلي. ! [لقطة شاشة 2022 05 18 الساعة 11.13.28 صباحًا] (https://docs.erpnext.com/files/Screenshot٪202022-05-18٪20at٪2011.13.28٪20AM.png)
+ستبدو فاتورة المبيعات البالغة 1000 دولار أمريكي وإدخال الدفع مقابل هذه الفاتورة كما يلي. ![لقطة شاشة 2022 05 18 الساعة 11.13.28 صباحًا](https://docs.erpnext.com/files/Screenshot٪202022-05-18٪20at٪2011.13.28٪20AM.png)
 
 ## مخطط انسيابي للتصميم القديم والجديد
 
-التصميم القديم! [Payment Ledger.001] (https://docs.erpnext.com/files/Payment٪20Ledger.001.jpeg)
+التصميم القديم![Payment Ledger.001](https://docs.erpnext.com/files/Payment٪20Ledger.001.jpeg)
 
-تصميم جديد! [Payment Ledger.002] (https://docs.erpnext.com/files/Payment٪20Ledger.002.jpeg)
+تصميم جديد![Payment Ledger.002](https://docs.erpnext.com/files/Payment٪20Ledger.002.jpeg)
 
 ## ميزة
 

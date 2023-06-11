@@ -1,4 +1,4 @@
-\n## تسمية الشركة الحكيمة
+## تسمية الشركة الحكيمة
 
 لنفترض أن لديك إعدادًا متعدد الشركات ، وتحتاج إلى إنشاء سلسلة تسمية مختلفة للمستندات التي تنتمي إلى شركات مختلفة. على سبيل المثال ، لديك ثلاث شركات:
 
@@ -12,20 +12,20 @@
 
 2) بعد ذلك ، أسفل حقل الشركة ، أضف حقلاً آخر وقم بتسميته "Abbr". أضف "company.abbr" في إدخالها "الجلب من".
 
-! [] (https://docs.erpnext.com/files/3mLkrQs.png)
+![](https://docs.erpnext.com/files/3mLkrQs.png)
 
 أيضًا ، احتفظ بهذا الحقل مخفيًا (إذا لزم الأمر).
 
-! [] (https://docs.erpnext.com/files/w6DS7FY.png)
+![](https://docs.erpnext.com/files/w6DS7FY.png)
 
 3) الآن ، في نموذج التخصيص نفسه ، انتقل إلى صف سلسلة التسمية وقم بتوسيعه. في المربع "خيارات" ، أضف إدخالاً آخر في السطر الجديد (مع أخذ فاتورة المبيعات كمثال) `SINV-.abbr .-. ####` وقم بتعيين هذا كإعداد افتراضي.
 
-! [] (https://docs.erpnext.com/files/WAE0FQA.png)
+![](https://docs.erpnext.com/files/WAE0FQA.png)
 
-! [] (https://docs.erpnext.com/files/2GJ5YLM.png)
+![](https://docs.erpnext.com/files/2GJ5YLM.png)
 
 بمجرد الانتهاء من ذلك ، انقر فوق تحديث.
 
 الآن ، انتقل إلى فاتورة المبيعات وقم بإنشاء واحدة. حدد الشركة وسيتم تحديث سلسلة التسمية تلقائيًا بناءً على اختصار الشركة.
 
-! [] (https://docs.erpnext.com/files/PrEgDa7.png)
+![](https://docs.erpnext.com/files/PrEgDa7.png)

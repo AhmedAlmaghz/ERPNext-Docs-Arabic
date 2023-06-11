@@ -1,18 +1,18 @@
-\n## مقدمة
+## مقدمة
 
 تحتاج شركة الخدمات إلى ميزات أكثر بكثير من وحدة المشروع لتعمل بكامل إمكاناتها. يحتوي ERPNext على كل هذه الميزات المضمنة.
 
-* يمكنك تتبع دفاتر حساباتك باستخدام [وحدة الحسابات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts.html).
-* إدارة كشوف المرتبات والإجازات والمطالبات لموظفي الدعم في [وحدة الموارد البشرية] (https://docs.erpnext.com/docs/v13/user/manual/en/human-resources.html).
-* ألقِ نظرة أفضل على استفسارات دعم العملاء من خلال وحدة [الدعم] (https://docs.erpnext.com/docs/v13/user/manual/en/support.html) في ERPNext.
+* يمكنك تتبع دفاتر حساباتك باستخدام [وحدة الحسابات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts.html).
+* إدارة كشوف المرتبات والإجازات والمطالبات لموظفي الدعم في [وحدة الموارد البشرية](https://docs.erpnext.com/docs/v13/user/manual/en/human-resources.html).
+* ألقِ نظرة أفضل على استفسارات دعم العملاء من خلال وحدة [الدعم](https://docs.erpnext.com/docs/v13/user/manual/en/support.html) في ERPNext.
 
-! [جانت] (https://docs.erpnext.com/files/services-hero.png)
+![جانت](https://docs.erpnext.com/files/services-hero.png)
 
 ## إدارة المشاريع في ERPNext
 
 يساعدك ERPNext على إدارة مشاريعك عن طريق تقسيمها إلى مهام وتخصيصها لأشخاص مختلفين.
 
-! [مشروع] (https://docs.erpnext.com/files/projects.png)
+![مشروع](https://docs.erpnext.com/files/projects.png)
 
 يمكن استخدام المشاريع لإدارة المشاريع الداخلية أو وظائف التصنيع أو وظائف الخدمات. بالنسبة للوظائف الخدمية ، يمكن أيضًا إنشاء جداول زمنية يمكن استخدامها لفوترة العملاء إذا تمت الفوترة على أساس الوقت والمال.
 
@@ -20,7 +20,7 @@
 
 يمكن أيضًا تتبع الشراء والبيع مقابل المشاريع ويمكن أن يساعد ذلك الشركة في الاحتفاظ بعلامات تبويب بشأن ميزانيتها وتسليمها وربحيتها للمشروع.
 
-! [غير ربحي] (https://docs.erpnext.com/files/support.png)
+![غير ربحي](https://docs.erpnext.com/files/support.png)
 
 ### عرض توضيحي على ERPNext للأعمال الخدمية
 

@@ -1,6 +1,6 @@
-\n## محطة العمل
+## محطة العمل
 
-** تخزن محطة العمل المعلومات المتعلقة بالمكان الذي يتم فيه تنفيذ عمليات محطة العمل. **
+**تخزن محطة العمل المعلومات المتعلقة بالمكان الذي يتم فيه تنفيذ عمليات محطة العمل.**
 
 يمكن تخزين البيانات المتعلقة بتكلفة التشغيل والإيجار والكهرباء هنا.
 
@@ -12,7 +12,7 @@
 
 > الصفحة الرئيسية> التصنيع> قائمة المواد> محطة العمل
 
-## 1 \. كيفية إنشاء محطة عمل
+## 1. كيفية إنشاء محطة عمل
 
 1. اذهب إلى قائمة محطة العمل ، وانقر على جديد.
 2. أدخل اسمًا لمحطة العمل.
@@ -25,34 +25,34 @@
 
 اختياريًا ، يمكنك إدخال وصف لمحطة العمل.
 
-! [محطة العمل] (https://docs.erpnext.com/files/workstation.png)
+![محطة العمل](https://docs.erpnext.com/files/workstation.png)
 
-يمكن إضافة الساعات التي ستكون فيها محطة العمل جاهزة. عند إضافة قائمة عطلة ، لن يتم احتساب الأيام المدرجة كعطلات على أنها أيام عمل لمحطة العمل. ! [ساعات العمل] (https://docs.erpnext.com/files/workstation-hours.png)
+يمكن إضافة الساعات التي ستكون فيها محطة العمل جاهزة. عند إضافة قائمة عطلة ، لن يتم احتساب الأيام المدرجة كعطلات على أنها أيام عمل لمحطة العمل. ![ساعات العمل](https://docs.erpnext.com/files/workstation-hours.png)
 
-بعد حفظ محطة العمل ، يمكن تنفيذ الإجراءات التالية مقابلها:! [Workstation submit] (https://docs.erpnext.com/files/workstation-submit.png)
+بعد حفظ محطة العمل ، يمكن تنفيذ الإجراءات التالية مقابلها:![Workstation submit](https://docs.erpnext.com/files/workstation-submit.png)
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 الطاقة الإنتاجية
 
 السعة الإنتاجية هي العدد الإجمالي للوظائف التي يمكن تنفيذها في نفس الوقت في محطة العمل المعنية.
 
-! [أمر العمل] (https://docs.erpnext.com/files/work_station_capacity.png)
+![أمر العمل](https://docs.erpnext.com/files/work_station_capacity.png)
 
 ### 2.2 ساعات العمل
 
-ضمن جدول ساعات العمل ، يمكنك إضافة أوقات البدء والانتهاء لمحطة العمل. على سبيل المثال ، قد تكون محطة العمل نشطة من 9 صباحًا إلى 1 مساءً ، ثم 2 مساءً إلى 5 مساءً. يمكنك أيضًا تحديد ساعات العمل بناءً على الورديات. أثناء جدولة [أمر عمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order) ، سيتحقق النظام من توفر محطة العمل بناءً على ساعات العمل محدد.
+ضمن جدول ساعات العمل ، يمكنك إضافة أوقات البدء والانتهاء لمحطة العمل. على سبيل المثال ، قد تكون محطة العمل نشطة من 9 صباحًا إلى 1 مساءً ، ثم 2 مساءً إلى 5 مساءً. يمكنك أيضًا تحديد ساعات العمل بناءً على الورديات. أثناء جدولة [أمر عمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order) ، سيتحقق النظام من توفر محطة العمل بناءً على ساعات العمل محدد.
 
 ### 2.3 قائمة الأعياد
 
-1. يمكن إضافة [قائمة العطلات] (https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/holiday-list) لاستبعاد حساب هذه الأيام لمحطة العمل.
+1. يمكن إضافة [قائمة العطلات](https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/holiday-list) لاستبعاد حساب هذه الأيام لمحطة العمل.
 
-> ملاحظة: يمكنك تمكين العمل الإضافي لمحطة عمل في [إعدادات التصنيع] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/manufacturing-settings)
+> ملاحظة: يمكنك تمكين العمل الإضافي لمحطة عمل في [إعدادات التصنيع](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/manufacturing-settings)
 
-## 3 \. فيديو
+## 3. فيديو
 
-1. [فاتورة المواد] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/bill-of-materials)
-2. [عملية] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/operation)
-3. [التوجيه] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/routing)
-4. [أمر العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order)
-5. [بطاقة العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/job-card)
+1. [فاتورة المواد](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/bill-of-materials)
+2. [عملية](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/operation)
+3. [التوجيه](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/routing)
+4. [أمر العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order)
+5. [بطاقة العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/job-card)

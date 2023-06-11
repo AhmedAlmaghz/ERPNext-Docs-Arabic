@@ -6,6 +6,6 @@
 * قم بتعيين حقلي تاريخ البدء وتاريخ الانتهاء. على سبيل المثال: تاريخ التسليم.
 * احفظ التغييرات الخاصة بك.
 
-! [] (https://frappe.erpnext.com/files/A2YkNIX.gif)
+![](https://frappe.erpnext.com/files/A2YkNIX.gif)
 
-! [] (https://docs.erpnext.com/files/zrv75bC.png)
+![](https://docs.erpnext.com/files/zrv75bC.png)

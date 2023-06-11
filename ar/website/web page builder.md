@@ -1,46 +1,46 @@
-\n## منشئ صفحات الويب
+## منشئ صفحات الويب
 
 > مقدمة في الإصدار 13
 
-** يتيح لك Page Builder إنشاء صفحات ويب بسرعة من قوالب ويب معدة مسبقًا. **
+**يتيح لك Page Builder إنشاء صفحات ويب بسرعة من قوالب ويب معدة مسبقًا.**
 
-## 1 \. كيفية إنشاء صفحة باستخدام Page Builder
+## 1. كيفية إنشاء صفحة باستخدام Page Builder
 
-1. اتبع الخطوات [لإنشاء صفحة ويب] (https://docs.erpnext.com/docs/v13/user/manual/en/website/web-page).
+1. اتبع الخطوات [لإنشاء صفحة ويب](https://docs.erpnext.com/docs/v13/user/manual/en/website/web-page).
 2. قم بتمكين العرض الكامل من خلال تحديد مربع الاختيار "العرض الكامل".
-3. حدد نوع المحتوى كـ ** Page Builder **.
+3. حدد نوع المحتوى كـ**Page Builder**.
 4. انقر فوق إضافة صف في جدول قوالب إنشاء الصفحة.
 5. حدد قالب ويب.
-6. انقر فوق الزر ** تحرير القيم **.
+6. انقر فوق الزر**تحرير القيم**.
 7. أدخل القيم في مربع الحوار وانقر فوق إرسال.
 8. انقر فوق حفظ.
-9. سيتم نشر صفحة الويب فقط عند وضع علامة ** تم النشر **.
+9. سيتم نشر صفحة الويب فقط عند وضع علامة**تم النشر**.
 
-! [صفحة ويب جديدة باستخدام أداة إنشاء الصفحات] (https://docs.erpnext.com/files/new-web-page-with-page-builder.png) _ صفحة ويب جديدة باستخدام Page Builder_
+![صفحة ويب جديدة باستخدام أداة إنشاء الصفحات](https://docs.erpnext.com/files/new-web-page-with-page-builder.png) _ صفحة ويب جديدة باستخدام Page Builder_
 
-! [مربع حوار تحرير القيم في أداة إنشاء الصفحات] (https://docs.erpnext.com/files/page-builder-edit-values-dialog.png) _ Page Builder Edit Values ​​Dialog_
+![مربع حوار تحرير القيم في أداة إنشاء الصفحات](https://docs.erpnext.com/files/page-builder-edit-values-dialog.png) _ Page Builder Edit Values ​​Dialog_
 
-اعرض صفحة الويب الخاصة بك من خلال النقر على ** See on Website ** في الشريط الجانبي.
+اعرض صفحة الويب الخاصة بك من خلال النقر على**See on Website**في الشريط الجانبي.
 
-! [صفحة ويب] (https://docs.erpnext.com/files/web-page-with-page-builder-preview.png) _ صفحة ويب باستخدام أداة إنشاء الصفحات
+![صفحة ويب](https://docs.erpnext.com/files/web-page-with-page-builder-preview.png) _ صفحة ويب باستخدام أداة إنشاء الصفحات
 
 ### 1.1 إضافة أقسام
 
 يمكنك إضافة المزيد من الأقسام إلى صفحتك عن طريق إضافة المزيد من الصفوف في جدول Page Building Blocks. يأتي إطار العمل مع مجموعة رائعة من قوالب الويب لتتمكن من إنشاء جميع أنواع الصفحات.
 
-! [المزيد من الأقسام] (https://docs.erpnext.com/files/web-page-with-more-sections.png) _ صفحة ويب بها قسم آخر_
+![المزيد من الأقسام](https://docs.erpnext.com/files/web-page-with-more-sections.png) _ صفحة ويب بها قسم آخر_
 
-! [المزيد من الأقسام - معاينة] (https://docs.erpnext.com/files/web-page-with-more-sections-preview.png) _ صفحة ويب بها قسم آخر - معاينة_
+![المزيد من الأقسام - معاينة](https://docs.erpnext.com/files/web-page-with-more-sections-preview.png) _ صفحة ويب بها قسم آخر - معاينة_
 
 ### 1.2 خيارات القسم
 
 إذا نقرت لتوسيع صف في جدول Page Building Blocks ، فلديك الخيارات الإضافية التالية:
 
-* ** إضافة حاوية **: إذا تم تحديده ، فسيتم عرض قالب الويب في مربع مقيد في المنتصف.
-* ** Add Space on Top **: إذا تم تحديده ، فسيضيف مساحة مناسبة أعلى القسم.
-* ** إضافة مساحة في الأسفل **: إذا تم تحديده ، فسيضيف مساحة مناسبة أسفل القسم.
-* ** إضافة خلفية رمادية **: إذا تم تحديده ، فسيتم إضافة خلفية رمادية إلى القسم.
-* ** Hide Block **: إذا تم تحديده ، فسيخفي كتلة القسم.
-* ** فئة CSS **: أضف أي فئة CSS وصممها في حقل CSS في قسم النمط.
+***إضافة حاوية**: إذا تم تحديده ، فسيتم عرض قالب الويب في مربع مقيد في المنتصف.
+***Add Space on Top**: إذا تم تحديده ، فسيضيف مساحة مناسبة أعلى القسم.
+***إضافة مساحة في الأسفل**: إذا تم تحديده ، فسيضيف مساحة مناسبة أسفل القسم.
+***إضافة خلفية رمادية**: إذا تم تحديده ، فسيتم إضافة خلفية رمادية إلى القسم.
+***Hide Block**: إذا تم تحديده ، فسيخفي كتلة القسم.
+***فئة CSS**: أضف أي فئة CSS وصممها في حقل CSS في قسم النمط.
 
-! [خيارات القسم] (https://docs.erpnext.com/files/page-builder-section-options.png) _Section Options_
+![خيارات القسم](https://docs.erpnext.com/files/page-builder-section-options.png) _Section Options_

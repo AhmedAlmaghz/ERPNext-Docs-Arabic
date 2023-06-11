@@ -1,4 +1,4 @@
-\n** الراتب الإضافي هو الشيء الذي يتقاضاه الموظف من الشركة التي يعمل بها ، بخلاف راتبه المعتاد. **
+\n**الراتب الإضافي هو الشيء الذي يتقاضاه الموظف من الشركة التي يعمل بها ، بخلاف راتبه المعتاد.**
 
 تقدم لك Frappe HR ميزة تسمى الراتب الإضافي لإضافة أو خصم الراتب المخصص لموظف معين أثناء معالجة كشوف المرتبات. بعض الأمثلة على الراتب الإضافي يمكن أن تكون مكافأة الأداء ، أو بدل الإيفاد ، أو المتأخرات ، أو الحوافز ، أو تعديلات أخرى.
 
@@ -6,14 +6,14 @@
 
 \> الرئيسية> الموارد البشرية> كشوف المرتبات> الراتب الإضافي
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء راتب إضافي ، يُنصح بإنشاء ما يلي:
 
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
-* [مكون الراتب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/salary-component)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [مكون الراتب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/salary-component)
 
-## 2 \. كيفية إنشاء راتب إضافي
+## 2. كيفية إنشاء راتب إضافي
 
 1. اذهب إلى قائمة الراتب الإضافي ، وانقر على جديد.
 2. حدد الموظف.
@@ -24,7 +24,7 @@
 
 حدد مربع الاختيار "الكتابة فوق مبلغ هيكل الراتب" للكتابة فوق مكون الراتب الإضافي في مبلغ هيكل الرواتب. بالإضافة إلى ذلك ، يمكن تحديد مربع الاختيار "خصم الضريبة الكاملة في تاريخ كشوف المرتبات المحدد" إذا كانت هناك حاجة إلى خصم الضريبة الكاملة على مكون الراتب الإضافي لتاريخ كشوف المرتبات المحدد.
 
-! [راتب إضافي] (https://docs.erpnext.com/files/additional-salary.png)
+![راتب إضافي](https://docs.erpnext.com/files/additional-salary.png)
 
 ## 3. الميزات
 
@@ -32,9 +32,9 @@
 
 تتيح هذه الميزة للمستخدمين إنشاء راتب إضافي لفترة زمنية ثابتة. عند تحديد "متكرر" ، يلزمك ملء "إلى التاريخ" و "من التاريخ". سيؤدي هذا إلى إضافة أو خصم مبلغ الراتب الإضافي لهذا الموظف ضمن النطاق الزمني المحدد وسوف ينعكس في قسيمة الراتب للموظف. سيتم تكرار الراتب الإضافي كل شهر بين الفاصل الزمني "من تاريخ" و "حتى تاريخ".
 
-1. [مكافأة الاحتفاظ] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/retention-bonus)
-2. [حافز الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-incentive)
-3. [هيكل الرواتب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/salary-structure)
-4. [تعيين هيكل الراتب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/salary-structure-assignment)
-5. [إدخال كشوف المرتبات] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/payroll-entry)
-6. [فترة الرواتب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/payroll-period)
+1. [مكافأة الاحتفاظ](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/retention-bonus)
+2. [حافز الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-incentive)
+3. [هيكل الرواتب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/salary-structure)
+4. [تعيين هيكل الراتب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/salary-structure-assignment)
+5. [إدخال كشوف المرتبات](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/payroll-entry)
+6. [فترة الرواتب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/payroll-period)

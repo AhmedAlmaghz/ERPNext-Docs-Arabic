@@ -1,6 +1,6 @@
 ## إعدادات الطباعة
 
-** في إعدادات الطباعة ، يمكنك تعيين تفضيلات الطباعة مثل حجم الورق ، وحجم النص الافتراضي ، سواء كنت تريد الإخراج بتنسيق PDF أو HTML ، وما إلى ذلك. **
+**في إعدادات الطباعة ، يمكنك تعيين تفضيلات الطباعة مثل حجم الورق ، وحجم النص الافتراضي ، سواء كنت تريد الإخراج بتنسيق PDF أو HTML ، وما إلى ذلك.**
 
 نظرًا لأن ERPNext هو تطبيق قائم على المستعرض ، يتم تنفيذ أمر الطباعة الفعلي بواسطة المتصفح الذي تستخدمه.
 
@@ -8,11 +8,11 @@
 
 > الصفحة الرئيسية> الإعدادات> إعدادات الطباعة
 
-! [إعدادات الطباعة] (https://docs.erpnext.com/files/print-settings.png)
+![إعدادات الطباعة](https://docs.erpnext.com/files/print-settings.png)
 
 هناك العديد من التكوينات المتوفرة في Print Settings (إعدادات الطباعة). دعونا نتعلم عنهم.
 
-## 1 \. إعدادات PDF
+## 1. إعدادات PDF
 
 ### 1.1 PDF أو HTML
 
@@ -24,9 +24,9 @@
 
 ### 1.3 حجم صفحة PDF
 
-الحجم الافتراضي لطباعة صفحات PDF هو A4 ، ويمكنك اختيار أي حجم من الخيارات المحددة [هنا] (https://doc.qt.io/archives/qt-4.8/qprinter.html#PaperSize-enum) ، بما في ذلك الأبعاد المخصصة المحددة بالمليمترات.
+الحجم الافتراضي لطباعة صفحات PDF هو A4 ، ويمكنك اختيار أي حجم من الخيارات المحددة [هنا](https://doc.qt.io/archives/qt-4.8/qprinter.html#PaperSize-enum) ، بما في ذلك الأبعاد المخصصة المحددة بالمليمترات.
 
-## 2 \. إعدادات الصفحة
+## 2. إعدادات الصفحة
 
 ### 2.1 طباعة مع ورقة ذات رأسية
 
@@ -40,9 +40,9 @@
 
 قيم الأعمدة الأخرى (مثل الاسم والوصف والصورة والأرقام التسلسلية وما إلى ذلك) متسلسلة في عمود الوصف.
 
-عندما لا يتم تحديد مربع الاختيار ، يبدو تنسيق الطباعة كما يلي:! [Incompact Print Format Settings] (https://docs.erpnext.com/files/incompact-print.png)
+عندما لا يتم تحديد مربع الاختيار ، يبدو تنسيق الطباعة كما يلي:![Incompact Print Format Settings](https://docs.erpnext.com/files/incompact-print.png)
 
-هذا ما يبدو عليه تنسيق الطباعة المضغوطة:! [إعدادات تنسيق الطباعة المضغوطة] (https://docs.erpnext.com/files/compact-print.png)
+هذا ما يبدو عليه تنسيق الطباعة المضغوطة:![إعدادات تنسيق الطباعة المضغوطة](https://docs.erpnext.com/files/compact-print.png)
 
 ### 2.3 السماح بطباعة المسودة
 
@@ -64,7 +64,7 @@
 
 في معاملات البيع والشراء ، يمكنك إضافة تطبيق ضرائب متعددة على الصنف. بشكل افتراضي ، في تنسيق الطباعة ، تظهر فقط الضرائب التي تم حساب بعض المبالغ فيها. إذا كنت ترغب أيضًا في طباعة الضريبة التي لم يتم تطبيقها والتي لا تحتوي على مبلغ ضريبي ، فقم بتمكين هذا الإعداد.
 
-## 3 \. طابعة الشبكة / خادم الطباعة
+## 3. طابعة الشبكة / خادم الطباعة
 
 يمكنك تمكين خادم الطباعة عن طريق ملء عنوان IP الخاص بخادم الطباعة والمنفذ. ثم اختر الطابعة الافتراضية.
 
@@ -86,11 +86,11 @@
 
 يتم تنفيذ ذلك من دليل "frappe-bench".
 
-## 4 \. طباعة خام
+## 4. طباعة خام
 
-يمكنك تمكين الطباعة الأولية والطباعة للعديد من الطابعات الحرارية المدعومة. اقرأ [الطباعة الأولية] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/raw-printing) لمعرفة المزيد.
+يمكنك تمكين الطباعة الأولية والطباعة للعديد من الطابعات الحرارية المدعومة. اقرأ [الطباعة الأولية](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/raw-printing) لمعرفة المزيد.
 
-1. [تنسيق الطباعة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format)
-2. [نمط الطباعة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-style)
-3. [عناوين الطباعة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-headings)
-4. [ترجمات مخصصة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/custom-translations)
+1. [تنسيق الطباعة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format)
+2. [نمط الطباعة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-style)
+3. [عناوين الطباعة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-headings)
+4. [ترجمات مخصصة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/custom-translations)

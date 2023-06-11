@@ -12,37 +12,37 @@
 
 > الصفحة الرئيسية> البدء> مخطط مستورد الحسابات
 
-## 1 \. كيفية استيراد مخطط الحسابات
+## 1. كيفية استيراد مخطط الحسابات
 
 1. حدد الشركة التي تريد استيراد مخطط الحسابات لها.
     
 2. انقر فوق الزر "تنزيل النموذج" لتنزيل النموذج. حدد نوع الملف الذي تريد تنزيل القالب به. حدد نوع النموذج وانقر على "تنزيل". يحتوي "نموذج النموذج" على بيانات نموذجية مملوءة مسبقًا حتى تحصل على فكرة عن كيفية ملء النموذج. يمكنك تحرير البيانات في "نموذج نموذج" نفسه أو تنزيل "نموذج فارغ" لنموذج جديد.
     
-    ! [استيراد COA] (https://docs.erpnext.com/files/coa-template-download.png)
+    ![استيراد COA](https://docs.erpnext.com/files/coa-template-download.png)
     
-    ! [استيراد COA] (https://docs.erpnext.com/files/coa-blank-template.png)
+    ![استيراد COA](https://docs.erpnext.com/files/coa-blank-template.png)
     
 3. بمجرد تنزيل النموذج ، قم بملء التفاصيل في النموذج كما هو موضح في النموذج أدناه. يرجى التأكد من عمل حسابات لأنواع الحسابات "تكلفة البضائع المباعة" ، "الإهلاك" ، "الأصول الثابتة" ، "المستحق الدفع" ، "المستحق" ، "تسوية المخزون". يجب أن تكون أنواع الجذر لهذه الحسابات أحد الأصول ، والمسؤولية ، والدخل ، والمصروفات ، وحقوق الملكية.
     
-    لمعرفة المزيد حول "أنواع الحسابات" و "أنواع الجذر" ، انقر هنا [انقر هنا] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/chart-of-accounts)
+    لمعرفة المزيد حول "أنواع الحسابات" و "أنواع الجذر" ، انقر هنا [انقر هنا](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/chart-of-accounts)
     
-    ! [استيراد COA] (https://docs.erpnext.com/files/coa-sample-template.png)
+    ![استيراد COA](https://docs.erpnext.com/files/coa-sample-template.png)
     
 4. انقر فوق "إرفاق" لتحميل النموذج.
     
-    ! [استيراد COA] (https://docs.erpnext.com/files/coa-attach.png)
+    ![استيراد COA](https://docs.erpnext.com/files/coa-attach.png)
     
 5. بمجرد تحميل النموذج ، ستتمكن من رؤية معاينة مخطط الحسابات في قسم معاينة المخطط.
     
-    ! [استيراد COA] (https://docs.erpnext.com/files/coa-preview.png)
+    ![استيراد COA](https://docs.erpnext.com/files/coa-preview.png)
     
 6. إذا كان كل شيء يبدو صحيحًا في المعاينة ، فانقر فوق "استيراد" في الزاوية اليمنى العليا وسيتم إنشاء الحسابات.
     
-    ! [استيراد COA] (https://docs.erpnext.com/files/coa-start-import.png)
+    ![استيراد COA](https://docs.erpnext.com/files/coa-start-import.png)
     
 7. للتحقق من الحسابات التي تم إنشاؤها ، يمكنك الانتقال إلى مخطط الحسابات والاطلاع على الحسابات التي تم إنشاؤها حديثًا لتلك الشركة.
     
-    ! [استيراد COA] (https://docs.erpnext.com/files/coa-import.png)
+    ![استيراد COA](https://docs.erpnext.com/files/coa-import.png)
     
 
-1. [مخطط الحسابات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/chart-of-accounts)
+1. [مخطط الحسابات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/chart-of-accounts)

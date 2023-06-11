@@ -1,6 +1,6 @@
-\n## جدول الصيانة
+## جدول الصيانة
 
-** يعرض جدول الصيانة جميع زيارات الصيانة القادمة. **
+**يعرض جدول الصيانة جميع زيارات الصيانة القادمة.**
 
 تتطلب جميع الآلات صيانة دورية ، خاصة تلك التي تحتوي على الكثير من الأجزاء المتحركة ، لذلك إذا كنت تعمل في مجال صيانة تلك الأجهزة أو لديك بعضًا منها في مكانك الخاص ، فهذه أداة مفيدة لتخطيط تقويم للأنشطة الخاصة بصيانتها .
 
@@ -10,14 +10,14 @@
 
 يتم عادةً إنشاء جدول الصيانة من أمر مبيعات من نوع "صيانة".
 
-! [جدول صيانة SO] (https://docs.erpnext.com/files/so-maintenance-schedule.png)
+![جدول صيانة SO](https://docs.erpnext.com/files/so-maintenance-schedule.png)
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
-* [العميل] (https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
-* [عنصر] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
+* [العميل](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+* [عنصر](https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
 
-## 2 \. كيفية إنشاء جدول الصيانة
+## 2. كيفية إنشاء جدول الصيانة
 
 1. اذهب إلى جدول الصيانة ، وانقر على جديد.
 2. حدد العميل والعناصر التي يجب إجراء الصيانة لها.
@@ -26,17 +26,17 @@
 5. سيتم تعيين عدد الزيارات حسب الدورية المحددة. على سبيل المثال: إذا حددت أسبوعيًا وقمت بتعيين الشهر بأكمله بين تاريخ البدء والتاريخ ، فإن 4 زيارات مثالية.
 6. حدد مندوب المبيعات الذي يقوم بالزيارات.
 7. حفظ.
-8. بعد الحفظ ، انقر فوق الزر ** إنشاء جدول ** لإنشاء جدول الصيانة.
+8. بعد الحفظ ، انقر فوق الزر**إنشاء جدول**لإنشاء جدول الصيانة.
 9. إرسال.
     
-    ! [جدول الصيانة] (https://docs.erpnext.com/files/maintenance-schedule-1.png)
+    ![جدول الصيانة](https://docs.erpnext.com/files/maintenance-schedule-1.png)
     
 
-سينشئ الزر ** إنشاء الجدول ** صفًا منفصلاً لكل نشاط صيانة. يتم تخصيص كل عنصر في جدول الصيانة لمندوب المبيعات.
+سينشئ الزر**إنشاء الجدول**صفًا منفصلاً لكل نشاط صيانة. يتم تخصيص كل عنصر في جدول الصيانة لمندوب المبيعات.
 
 عندما يتم إرسال المستند ، يتم إنشاء أحداث التقويم لمستخدم مندوب المبيعات لكل صيانة.
 
-1. [الرقم التسلسلي] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/serial-no)
-2. [مطالبة الضمان] (https://docs.erpnext.com/docs/v13/user/manual/en/support/warranty-claim)
-3. [زيارة الصيانة] (https://docs.erpnext.com/docs/v13/user/manual/en/support/maintenance-visit)
-4. [أمر المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
+1. [الرقم التسلسلي](https://docs.erpnext.com/docs/v13/user/manual/en/stock/serial-no)
+2. [مطالبة الضمان](https://docs.erpnext.com/docs/v13/user/manual/en/support/warranty-claim)
+3. [زيارة الصيانة](https://docs.erpnext.com/docs/v13/user/manual/en/support/maintenance-visit)
+4. [أمر المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)

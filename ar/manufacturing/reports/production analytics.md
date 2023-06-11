@@ -1,9 +1,9 @@
-\n## تحليلات الإنتاج
+## تحليلات الإنتاج
 
 للوصول إلى تحليلات الإنتاج ، انتقل إلى:
 
 > الرئيسية> التصنيع> التقارير> تحليلات الإنتاج
 
-! [مهمة] (https://docs.erpnext.com/files/production-analytics.png)
+![مهمة](https://docs.erpnext.com/files/production-analytics.png)
 
 يعرض هذا التقرير التحليلات العامة لجميع أوامر العمل.

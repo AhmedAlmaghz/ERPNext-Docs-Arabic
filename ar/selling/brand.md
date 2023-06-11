@@ -1,8 +1,8 @@
-\n## ماركة
+## ماركة
 
-** تحدد العلامة التجارية العناصر التي تحمل اسمًا محددًا. **
+**تحدد العلامة التجارية العناصر التي تحمل اسمًا محددًا.**
 
-عادةً ما تكون العلامة التجارية هي الشركة المصنعة أو المعبئ لمنتج معين. على سبيل المثال ، Apple هي علامة تجارية تصنع أجهزة الكمبيوتر المحمولة. العلامة التجارية ليست بالضرورة [الشركة المصنعة] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/manufacturer) للسلعة ، إنها فقط الاسم الذي يتم بيع المنتج بموجبه. على سبيل المثال ، إذا كنت تصنع أكوابًا بلاستيكية ، فيجوز لك ترخيصها لعلامة تجارية كبيرة حتى تبيعها تحت علامتها التجارية.
+عادةً ما تكون العلامة التجارية هي الشركة المصنعة أو المعبئ لمنتج معين. على سبيل المثال ، Apple هي علامة تجارية تصنع أجهزة الكمبيوتر المحمولة. العلامة التجارية ليست بالضرورة [الشركة المصنعة](https://docs.erpnext.com/docs/v13/user/manual/en/stock/manufacturer) للسلعة ، إنها فقط الاسم الذي يتم بيع المنتج بموجبه. على سبيل المثال ، إذا كنت تصنع أكوابًا بلاستيكية ، فيجوز لك ترخيصها لعلامة تجارية كبيرة حتى تبيعها تحت علامتها التجارية.
 
 في ERPNext ، يمكن تعيين العلامات التجارية إلى العناصر لتحديد وتعيين بعض الإعدادات الافتراضية.
 
@@ -10,29 +10,29 @@
 
 > الصفحة الرئيسية> بيع> مبيعات> علامة تجارية
 
-## 1 \. كيف تصنع علامة تجارية
+## 1. كيف تصنع علامة تجارية
 
 1. اذهب إلى قائمة العلامات التجارية وانقر على جديد.
 2. أدخل اسم علامة تجارية وأدخل وصفًا إذا لزم الأمر.
 3. حفظ.
     
-    ! [الماركة] (https://docs.erpnext.com/files/brand.png)
+    ![الماركة](https://docs.erpnext.com/files/brand.png)
     
 
 الآن يمكن ربط هذه العلامة التجارية بعناصر مختلفة.
 
-! [العلامة التجارية في العنصر] (https://docs.erpnext.com/files/brand-in-item.png)
+![العلامة التجارية في العنصر](https://docs.erpnext.com/files/brand-in-item.png)
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 تعيين الإعدادات الافتراضية لعناصر هذه العلامة التجارية
 
-! [الإعدادات الافتراضية للعلامة التجارية] (https://docs.erpnext.com/files/brand-defaults.png)
+![الإعدادات الافتراضية للعلامة التجارية](https://docs.erpnext.com/files/brand-defaults.png)
 
 يمكن تعيين الإعدادات الافتراضية التالية للعلامة التجارية. عند تعيين هذه العلامة التجارية لأحد العناصر ، سيتم جلب الإعدادات الافتراضية المحددة عند إجراء معاملات البيع / الشراء مع عنصر من هذه العلامة التجارية.
 
-* ** المستودع الافتراضي **: المستودع الذي سيتم من خلاله الحصول على العنصر / تخزينه اعتمادًا على المعاملة.
-* ** قائمة الأسعار الافتراضية **: سيتم جلب قائمة الأسعار المحددة هنا في معاملات الشراء / البيع.
+***المستودع الافتراضي**: المستودع الذي سيتم من خلاله الحصول على العنصر / تخزينه اعتمادًا على المعاملة.
+***قائمة الأسعار الافتراضية**: سيتم جلب قائمة الأسعار المحددة هنا في معاملات الشراء / البيع.
 
 #### افتراضيات الشراء
 
@@ -49,9 +49,9 @@
 * مركز تكلفة البيع الافتراضي
 * حساب الدخل الافتراضي
 
-1. [أمر الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/buying/purchase-order)
-2. [أمر المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
-3. [إيصال الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/purchase-receipt)
-4. [مذكرة التسليم] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note)
-5. [فاتورة المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
-6. [فاتورة الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
+1. [أمر الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/buying/purchase-order)
+2. [أمر المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
+3. [إيصال الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/stock/purchase-receipt)
+4. [مذكرة التسليم](https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note)
+5. [فاتورة المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice)
+6. [فاتورة الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)

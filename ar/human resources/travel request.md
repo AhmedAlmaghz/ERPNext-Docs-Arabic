@@ -2,8 +2,8 @@
 
 > الموارد البشرية> مطالبة السفر والنفقات> طلب السفر> طلب سفر جديد
 
-! [] (https://docs.erpnext.com/files/VW8kpGD.png)
+![](https://docs.erpnext.com/files/VW8kpGD.png)
 
 يمكنك أيضًا ذكر خط سير الرحلة بالإضافة إلى التكاليف المتضمنة للرحلة. يمكن للموظفين أيضًا التحقق من "السفر مطلوب مقدمًا" إذا كانوا يرغبون في تلقي أي دفعة مقدمة من الشركة.
 
-! [مسار طلب السفر] (https://docs.erpnext.com/files/travel-request-itinerary.png)
+![مسار طلب السفر](https://docs.erpnext.com/files/travel-request-itinerary.png)

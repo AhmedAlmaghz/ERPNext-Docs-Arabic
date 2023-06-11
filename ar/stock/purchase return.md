@@ -1,50 +1,50 @@
-\n## عودة شراء
+## عودة شراء
 
-** تُعرف السلعة المشتراة التي يتم إرجاعها باسم إرجاع الشراء. **
+**تُعرف السلعة المشتراة التي يتم إرجاعها باسم إرجاع الشراء.**
 
 باستخدام ميزة إرجاع الشراء ، يمكنك إرجاع المنتجات إلى المورد. قد يكون هذا بسبب عدد من الأسباب مثل العيوب في البضائع ، والجودة غير المطابقة ، والمشتري لا يحتاج إلى المخزون ، وما إلى ذلك.
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء واستخدام مرتجعات الشراء ، يُنصح بإنشاء ما يلي أولاً:
 
-* [عنصر] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
-* [فاتورة الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
+* [عنصر](https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
+* [فاتورة الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/purchase-invoice)
     
     أو
     
-    [إيصال الشراء] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/purchase-receipt)
+    [إيصال الشراء](https://docs.erpnext.com/docs/v13/user/manual/en/stock/purchase-receipt)
     
 
-## 2 \. كيفية إنشاء عائد شراء
+## 2. كيفية إنشاء عائد شراء
 
 1. قم أولاً بفتح إيصال الشراء الأصلي ، والذي قام المورد بتسليم العناصر مقابله.
     
-    ! [إيصال الشراء الأصلي] (https://docs.erpnext.com/files/purchase-return-original-purchase-receipt.png)
+    ![إيصال الشراء الأصلي](https://docs.erpnext.com/files/purchase-return-original-purchase-receipt.png)
     
 2. انقر فوق "إنشاء> إرجاع" ، سيتم فتح إيصال شراء جديد مع تحديد "يتم إرجاع". العناصر والسعر والضرائب ستكون أرقامًا سالبة.
     
-    ! [الإرجاع مقابل إيصال الشراء] (https://docs.erpnext.com/files/purchase-return-against-purchase-receipt.png)
+    ![الإرجاع مقابل إيصال الشراء](https://docs.erpnext.com/files/purchase-return-against-purchase-receipt.png)
     
 3. عند تقديم مرتجعات الشراء ، سيقوم النظام بتقليل كمية الصنف من المستودع المذكور. للحفاظ على التقييم الصحيح للمخزون ، سيرتفع رصيد المخزون أيضًا وفقًا لمعدل الشراء الأصلي للعناصر المرتجعة.
     
-    ! [إرجاع دفتر الأستاذ] (https://docs.erpnext.com/files/purchase-return-stock-ledger.png)
+    ![إرجاع دفتر الأستاذ](https://docs.erpnext.com/files/purchase-return-stock-ledger.png)
     
 4. في دفتر الأستاذ المحاسبي ، سيتم إضافة رصيد إلى حساب المخزون المتوفر وسيتم خصم المخزون المستلم ولكن لم تتم فوترته.
     
-    ! [إرجاع دفتر الأستاذ] (https://docs.erpnext.com/files/purchase-return-general-ledger.png)
+    ![إرجاع دفتر الأستاذ](https://docs.erpnext.com/files/purchase-return-general-ledger.png)
     
 
 إذا تم تمكين الجرد الدائم ، فسيقوم النظام أيضًا بترحيل الإدخال المحاسبي مقابل حساب المستودع لمزامنة رصيد حساب المستودع مع رصيد المخزون وفقًا لدفتر الأستاذ.
 
-## 3 \. التأثير على إرجاع المخزون من خلال إيصال الشراء
+## 3. التأثير على إرجاع المخزون من خلال إيصال الشراء
 
 عند إنشاء عائد شراء مقابل إيصال شراء:
 
-* يتم تحديث ** الكمية المعادة ** في إيصال الشراء الأصلي مع أي طلب شراء مرتبط به.
+* يتم تحديث**الكمية المعادة**في إيصال الشراء الأصلي مع أي طلب شراء مرتبط به.
     
-* تم تغيير حالة إيصال الشراء الأصلي إلى ** تم إصدار الإرجاع ** إذا تم إرجاع 100٪:! [تم إصدار الإرجاع] (https://docs.erpnext.com/files/purchase-return-issue.png)
+* تم تغيير حالة إيصال الشراء الأصلي إلى**تم إصدار الإرجاع**إذا تم إرجاع 100٪:![تم إصدار الإرجاع](https://docs.erpnext.com/files/purchase-return-issue.png)
     
 
-1. [إرجاع المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/sales-return)
-2. [الجرد الدائم] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/perpetual-inventory)
+1. [إرجاع المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/stock/sales-return)
+2. [الجرد الدائم](https://docs.erpnext.com/docs/v13/user/manual/en/stock/perpetual-inventory)

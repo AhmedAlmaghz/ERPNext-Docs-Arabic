@@ -1,4 +1,4 @@
-\n## تكامل RazorPay
+## تكامل RazorPay
 
 بوابة الدفع هي خدمة موفر خدمة تطبيقات التجارة الإلكترونية التي تسمح بدفع مدفوعات بطاقات الائتمان للأعمال التجارية الإلكترونية ، أو تجار التجزئة عبر الإنترنت ، أو الطوب والنقرات ، أو الطوب التقليدي.
 
@@ -8,21 +8,21 @@
 
 "استكشف> عمليات التكامل> إعدادات RazorPay"
 
-! [إعدادات Razorpay] (https://docs.erpnext.com/files/razorpay-api.gif)
+![إعدادات Razorpay](https://docs.erpnext.com/files/razorpay-api.gif)
 
 #### إعداد RazorPay
 
 لتمكين خدمة الدفع RazorPay ، تحتاج إلى تكوين معلمات مثل API Key و API Secret
 
-! [إعدادات Razorpay] (https://docs.erpnext.com/files/razorpay_settings.png)
+![إعدادات Razorpay](https://docs.erpnext.com/files/razorpay_settings.png)
 
 عند تمكين الخدمة ، سيقوم النظام بإنشاء سجل بوابة الدفع ورئيس الحساب في مخطط الحساب بنوع الحساب على أنه بنك.
 
-! [Razorpay COA] (https://docs.erpnext.com/files/razorpay_coa.png)
+![Razorpay COA](https://docs.erpnext.com/files/razorpay_coa.png)
 
 أيضًا ، سيتم إنشاء إدخال حساب بوابة الدفع. حساب بوابة الدفع هو مركز التكوين من هذا يمكنك تعيين رئيس الحساب من COA الموجودة ، قالب نص البريد الإلكتروني الافتراضي لطلب الدفع.
 
-! [حساب بوابة الدفع] (https://docs.erpnext.com/files/payment_gateway_account_razorpay.png)
+![حساب بوابة الدفع](https://docs.erpnext.com/files/payment_gateway_account_razorpay.png)
 
 بعد تمكين الخدمة وتكوين حساب Payment Gateway ، يستطيع نظامك قبول المدفوعات عبر الإنترنت.
 

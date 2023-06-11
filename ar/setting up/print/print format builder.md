@@ -1,6 +1,6 @@
 ## منشئ تنسيق الطباعة
 
-** تساعدك أداة إنشاء تنسيق الطباعة على إنشاء تنسيق طباعة مخصص وبسيط عن طريق سحب وإفلات حقول البيانات وإضافة نص مخصص أو HTML. **
+**تساعدك أداة إنشاء تنسيق الطباعة على إنشاء تنسيق طباعة مخصص وبسيط عن طريق سحب وإفلات حقول البيانات وإضافة نص مخصص أو HTML.**
 
 يتم إنشاء تنسيق الطباعة "القياسي" افتراضيًا ، ولا يمكن تحريره.
 
@@ -10,14 +10,14 @@
 
 أو عبر مستند.
 
-## 1 \. استخدام منشئ تنسيق الطباعة
+## 1. استخدام منشئ تنسيق الطباعة
 
 1. انتقل إلى Print Format Builder.
 2. يمكنك هنا تعديل تنسيق طباعة موجود أو إنشاء تنسيق طباعة جديد لنوع مستند مثل العنصر ، والاقتباس ، وما إلى ذلك.
 3. دعونا نرى كيفية تحرير تنسيق طباعة موجود في هذا القسم. لمعرفة كيفية إنشاء تنسيق طباعة جديد ، راجع القسم التالي.
-4. حدد تنسيق الطباعة لتحريره. ! [حدد نوع المستند لتحرير تنسيق الطباعة] (https://docs.erpnext.com/files/print-format-builder-edit.png)
+4. حدد تنسيق الطباعة لتحريره. ![حدد نوع المستند لتحرير تنسيق الطباعة](https://docs.erpnext.com/files/print-format-builder-edit.png)
     
-5. انقر فوق الزر "تحرير" ، سيتم نقلك إلى واجهة مستخدم Print Format Builder. ! [شاشة أداة إنشاء تنسيق الطباعة] (https://docs.erpnext.com/files/print-format-builder-screen.png)
+5. انقر فوق الزر "تحرير" ، سيتم نقلك إلى واجهة مستخدم Print Format Builder. ![شاشة أداة إنشاء تنسيق الطباعة](https://docs.erpnext.com/files/print-format-builder-screen.png)
     
 6. يمكنك هنا سحب الحقول وإفلاتها من الشريط الجانبي إلى الصفحة والعكس صحيح.
     
@@ -27,7 +27,7 @@
 
 1. افتح المستند الذي تريد عمل تنسيق طباعة له. انقر فوق رمز الطابعة ، أو انتقل إلى القائمة> طباعة وانقر فوق الزر "تخصيص ...". ملاحظة: يجب أن يكون لديك إذن مدير النظام للقيام بذلك.
     
-    ! [إرسال بريد إلكتروني] (https://docs.erpnext.com/files/print-format-builder-1.gif)
+    ![إرسال بريد إلكتروني](https://docs.erpnext.com/files/print-format-builder-1.gif)
     
 2. لإضافة حقل ، ما عليك سوى سحبه من الشريط الجانبي الأيسر وإضافته في التخطيط الخاص بك. يمكنك تعديل التخطيطات في أقسام أو حقول فردية من خلال النقر على أيقونة الإعدادات.
     
@@ -36,13 +36,13 @@
 4. حفظ.
     
 
-يمكنك إضافة نص مخصص ، HTML بتنسيق الطباعة الخاص بك ، ما عليك سوى سحب وإفلات حقل ** Custom HTML ** (باللون الداكن) وإضافته إلى المكان الذي تريد إضافة محتوى HTML المخصص إليه.
+يمكنك إضافة نص مخصص ، HTML بتنسيق الطباعة الخاص بك ، ما عليك سوى سحب وإفلات حقل**Custom HTML**(باللون الداكن) وإضافته إلى المكان الذي تريد إضافة محتوى HTML المخصص إليه.
 
-ثم انقر فوق ** تحرير HTML ** لتعديل المحتوى الخاص بك.
+ثم انقر فوق**تحرير HTML**لتعديل المحتوى الخاص بك.
 
-## 2 \. فيديو
+## 2. فيديو
 
-1. [نمط الطباعة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-style)
-2. [عناوين الطباعة] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-headings)
-3. [Letter Head] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/letter-head)
-4. [نموذج طباعة الشيك] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/cheque-print-template)
+1. [نمط الطباعة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-style)
+2. [عناوين الطباعة](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-headings)
+3. [Letter Head](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/letter-head)
+4. [نموذج طباعة الشيك](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/cheque-print-template)

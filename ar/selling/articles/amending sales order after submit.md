@@ -1,10 +1,10 @@
 \nيمكن الآن تعديل السعر والكمية في طلب المبيعات بعد الإرسال باستخدام الزر "تحديث العناصر".
 
-! [تحديث العناصر] (https://docs.erpnext.com/files/so-update-items.png)
+![تحديث العناصر](https://docs.erpnext.com/files/so-update-items.png)
 
 لتحديث السعر والكمية في طلب المبيعات المقدم ، انقر فوق الزر "تحديث العناصر". سيظهر مربع حوار للسماح لك بإجراء التغيير.
 
-! [تحديث العناصر] (https://docs.erpnext.com/files/so-update-items-rate-and-qty.gif)
+![تحديث العناصر](https://docs.erpnext.com/files/so-update-items-rate-and-qty.gif)
 
 يرجى ملاحظة عمليات التحقق من الصحة وحالات الاستخدام التالية:
 

@@ -1,4 +1,4 @@
-\n** يمكن تصنيف القروض إلى أنواع مختلفة بناءً على خصائصها المحددة. **
+\n**يمكن تصنيف القروض إلى أنواع مختلفة بناءً على خصائصها المحددة.**
 
 في Frappe HR ، يمكنك تحديد أنواع القروض المختلفة ومعدل الفائدة الخاصة بها والمعلومات الأخرى ذات الصلة في نوع مستند نوع القرض.
 
@@ -6,7 +6,7 @@
 
 \> الموارد البشرية> القروض> نوع القرض
 
-## 1 \. كيفية إنشاء نوع القرض
+## 1. كيفية إنشاء نوع القرض
 
 1. اذهب إلى: نوع القرض.
 2. أدخل اسم القرض.
@@ -14,8 +14,8 @@
 4. اختياريًا ، يمكنك أيضًا إدخال الحد الأقصى لمبلغ القرض ووصف نوع القرض.
 5. حفظ.
     
-    ! [نوع القرض] (https://docs.erpnext.com/files/loan-type.png)
+    ![نوع القرض](https://docs.erpnext.com/files/loan-type.png)
     
 
-1. [طلب قرض] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-application)
-2. [قرض] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan)
+1. [طلب قرض](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan-application)
+2. [قرض](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/loan)

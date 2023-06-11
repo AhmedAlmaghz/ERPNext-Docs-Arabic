@@ -11,20 +11,20 @@
 
 في حالتنا ، لدى مدير السلعة مربع اختيار يسمى "معطل". لقد قمنا بتعيين القيمة الافتراضية على 1 في نموذج التخصيص الخاص بنوع مستند العنصر كما هو موضح أدناه.
 
-! [] (https://docs.erpnext.com/files/ubLZfPq.png)
+![](https://docs.erpnext.com/files/ubLZfPq.png)
 
 هذا يعني أنه في كل مرة يتم فيها إنشاء عنصر جديد ، سيتم تعطيله افتراضيًا ، ما لم تتم الموافقة عليه (كما هو موضح في لقطة الشاشة أدناه).
 
-! [] (https://docs.erpnext.com/files/yPOQ2fT.png)
+![](https://docs.erpnext.com/files/yPOQ2fT.png)
 
 2) بعد ذلك ، اضبط سير العمل.
 
 في جدول الولايات ، عند الموافقة ، تأكد من تحديث مربع الاختيار "معطل" (أو ممكّن) إلى 0 (أو 1 في حالة التمكين) كما هو موضح أدناه.
 
-! [] (https://docs.erpnext.com/files/Qf3QXyo.png)
+![](https://docs.erpnext.com/files/Qf3QXyo.png)
 
 سيضمن ذلك أنه كلما تمت الموافقة على العنصر ، سيتم تمكين العنصر تلقائيًا وستكون قادرًا على استخدامه في المعاملات.
 
 تحقق من ملف GIF أدناه لفهم سير العمل بالتفصيل:
 
-! [] (https://docs.erpnext.com/files/olzpAk2.gif)
+![](https://docs.erpnext.com/files/olzpAk2.gif)

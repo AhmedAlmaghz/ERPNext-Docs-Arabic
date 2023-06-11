@@ -1,10 +1,10 @@
-\n## تعديل المبلغ المقتطع
+## تعديل المبلغ المقتطع
 
 لنفترض أن المبلغ المستحق مقابل فاتورة المبيعات هو 20000. عندما يقوم العميل بالدفع ، سيدفع فقط 19600. يحتاج الباقي 400 للحجز تحت حساب الضريبة المقتطعة. يمكنك إدارة هذا السيناريو كما هو موضح أدناه.
 
 ## الخطوة 1: إعداد الحساب المقتطع
 
-[إنشاء حساب مقتطع] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/chart-of-accounts#1-how-to-createedit-accounts) في مخطط الحسابات الخاص بك .
+[إنشاء حساب مقتطع](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/chart-of-accounts#1-how-to-createedit-accounts) في مخطط الحسابات الخاص بك .
 
 ## الخطوة 2: إدخال الدفع
 
@@ -14,7 +14,7 @@
 
 أدخل مبلغ الدفع كـ 19،600.
 
-! [المبلغ المدفوع في إدخال الدفع] (https://docs.erpnext.com/files/paid-amount-in-payment-entry.png)
+![المبلغ المدفوع في إدخال الدفع](https://docs.erpnext.com/files/paid-amount-in-payment-entry.png)
 
 ### الخطوة 2.2: التخصيص مقابل فاتورة المبيعات
 
@@ -24,6 +24,6 @@
 
 يمكنك ملاحظة أن هناك فرقًا قدره 400 في مبلغ الدفع والمبلغ المخصص مقابل فاتورة المبيعات. يمكنك حجز هذا الحساب المختلف تحت الحساب المقتطع.
 
-! [تعديل الضريبة المقتطعة في إدخال الدفع] (https://docs.erpnext.com/files/tax-withheld-adjustment-in-payment-entry.gif)
+![تعديل الضريبة المقتطعة في إدخال الدفع](https://docs.erpnext.com/files/tax-withheld-adjustment-in-payment-entry.gif)
 
 باتباع نفس الخطوات ، يمكنك أيضًا إدارة الفرق المتوفر بسبب مكاسب / خسارة صرف العملات.

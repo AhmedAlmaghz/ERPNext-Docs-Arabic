@@ -1,6 +1,6 @@
-\n\n## موظف
+## موظف
 
-** الشخص الذي يعمل بدوام جزئي أو بدوام كامل بموجب عقد عمل ولديه حقوق وواجبات معترف بها لشركتك هو موظفك. **
+**الشخص الذي يعمل بدوام جزئي أو بدوام كامل بموجب عقد عمل ولديه حقوق وواجبات معترف بها لشركتك هو موظفك.**
 
 في Frappe HR ، يمكنك إدارة مدير الموظف. إنه يلتقط التفاصيل الديموغرافية والشخصية والمهنية وتفاصيل الانضمام والمغادرة وما إلى ذلك للموظف.
 
@@ -8,16 +8,16 @@
 
 > الرئيسية> الموارد البشرية> الموظف
 
-! [] (https://docs.erpnext.com/files/RtArfPD.gif)
+![](https://docs.erpnext.com/files/RtArfPD.gif)
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء موظف ، يُنصح بإنشاء ما يلي:
 
-* [الشركة] (https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/company-setup#1-how-to-create-a-new-company)
+* [الشركة](https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/company-setup#1-how-to-create-a-new-company)
     
 
-## 2 \. كيفية إنشاء موظف
+## 2. كيفية إنشاء موظف
 
 1. اذهب إلى قائمة الموظف ، وانقر على جديد.
     
@@ -28,21 +28,21 @@
 
 كما هو موضح أدناه ، تم تمييز جميع الحقول الإلزامية بعلامات نجمية حمراء.
 
-! [] (https://docs.erpnext.com/files/rqUdH4m.png)
+![](https://docs.erpnext.com/files/rqUdH4m.png)
 
-## 3 \. سمات
+## 3. سمات
 
 بصرف النظر عن التفاصيل الإلزامية المذكورة أعلاه ، فإن بعض التفاصيل الإضافية التي يمكن التقاطها في مدير الموظف هي كما يلي:
 
 ### 3.1 نوع التوظيف
 
-يمكنك تعيين [نوع التوظيف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employment-type) مثل متدرب ، عقد ، بدوام كامل ، بدوام جزئي ، الاختبار ، وما إلى ذلك للموظف.
+يمكنك تعيين [نوع التوظيف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employment-type) مثل متدرب ، عقد ، بدوام كامل ، بدوام جزئي ، الاختبار ، وما إلى ذلك للموظف.
 
 ### 3.2 إنشاء مستخدم
 
 يمكن ربط معرف المستخدم بالموظف. في حالة عدم إنشاء معرف المستخدم ، يمكنك النقر فوق "إنشاء مستخدم جديد" في القائمة المنسدلة لإنشاء واحد.
 
-بالنقر فوق مربع الاختيار "إنشاء إذن المستخدم" ، يمكن تقييد وصول الموظف إلى السجلات الأخرى. تحقق من [إضافة مستخدمين] (https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/users-and-permissions/adding-users) لمعرفة كيفية إنشاء المستخدمين وإضافة الأذونات.
+بالنقر فوق مربع الاختيار "إنشاء إذن المستخدم" ، يمكن تقييد وصول الموظف إلى السجلات الأخرى. تحقق من [إضافة مستخدمين](https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/users-and-permissions/adding-users) لمعرفة كيفية إنشاء المستخدمين وإضافة الأذونات.
 
 ### 3.3 تفاصيل الانضمام
 
@@ -50,13 +50,13 @@
 
 ### 3.4 القسم والدرجة
 
-في الشركة ، يتم عادةً تجميع الموظفين على أساس [القسم] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department) ، [الدرجة] (https: //docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade) ، [التعيين] (https://docs.erpnext.com/docs/v14/user/manual/en / human-resources / designation) و [Branch] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/branch).
+في الشركة ، يتم عادةً تجميع الموظفين على أساس [القسم](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department) ، [الدرجة](https: //docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-grade) ، [التعيين](https://docs.erpnext.com/docs/v14/user/manual/en / human-resources / designation) و [Branch](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/branch).
 
 في قسم القسم والدرجة ، يمكن حفظ هذه التفاصيل الخاصة بالموظف. في حقل "التقارير إلى" ، يمكن القبض على الشخص الذي يتعين على الموظف إبلاغه بواجباته.
 
 ### 3.5 تفاصيل الإجازة
 
-في تفاصيل الإجازة ، يمكنك حفظ [سياسة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy) و [قائمة العطلات] (https: / /docs.erpnext.com/docs/v14/user/manual/en/human-resources/holiday-list) التفاصيل. تحدد سياسة الإجازة نوع وعدد الإجازات التي يحق للموظف الحصول عليها ، وقائمة العطلات هي قائمة تحتوي على تواريخ الإجازات والإجازات الأسبوعية.
+في تفاصيل الإجازة ، يمكنك حفظ [سياسة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-policy) و [قائمة العطلات](https: / /docs.erpnext.com/docs/v14/user/manual/en/human-resources/holiday-list) التفاصيل. تحدد سياسة الإجازة نوع وعدد الإجازات التي يحق للموظف الحصول عليها ، وقائمة العطلات هي قائمة تحتوي على تواريخ الإجازات والإجازات الأسبوعية.
 
 ### 3.6 تفاصيل الراتب
 
@@ -74,7 +74,7 @@
 
 هنا ، يمكن حفظ التفاصيل التعليمية مثل المدرسة / الجامعة ، والمؤهلات ، ومستوى وسنة النجاح للموظف كما هو موضح أدناه:
 
-! [] (https://docs.erpnext.com/files/education-qualification.png)
+![](https://docs.erpnext.com/files/education-qualification.png)
 
 بالإضافة إلى ذلك ، يمكن أيضًا حفظ تفاصيل مثل الفصل / النسبة المئوية والموضوعات بالنقر فوق السهم المتجه لأسفل في جدول التعليم.
 
@@ -82,15 +82,15 @@
 
 تمامًا مثل التأهيل التعليمي ، يمكن أيضًا تسجيل خبرة العمل السابقة للموظف في جدول سجل العمل الخارجي كما هو موضح أدناه:
 
-! [خبرة العمل السابقة] (https://docs.erpnext.com/files/previous-work-experience.png)
+![خبرة العمل السابقة](https://docs.erpnext.com/files/previous-work-experience.png)
 
 بالإضافة إلى ذلك ، يمكن أيضًا حفظ تفاصيل مثل جهة اتصال الشركة السابقة وإجمالي الخبرة في السنوات في جدول سجل العمل الخارجي.
 
 ### 3.11 خروج
 
-تفاصيل إنهاء الموظف (إن وجدت) مثل الاستقالة ومقابلة الخروج و [صرف الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-encashment) التفاصيل يمكن حفظها. عندما يتم تعيين حالة الموظف على "يسار" ، فمن الضروري ملء تاريخ الإعفاء.
+تفاصيل إنهاء الموظف (إن وجدت) مثل الاستقالة ومقابلة الخروج و [صرف الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-encashment) التفاصيل يمكن حفظها. عندما يتم تعيين حالة الموظف على "يسار" ، فمن الضروري ملء تاريخ الإعفاء.
 
-> ** ملاحظة: ** بمجرد تعيين حالة الموظف على "يسار" ، لن يمكن الوصول إلى سيد الموظف المحدد في معاملات أخرى.
+>**ملاحظة:**بمجرد تعيين حالة الموظف على "يسار" ، لن يمكن الوصول إلى سيد الموظف المحدد في معاملات أخرى.
 
 ### 3.12 ميزات إضافية
 
@@ -105,11 +105,11 @@
 * التاريخ في الشركة
     
 
-## 3 \. مواضيع ذات صلة
+## 3. مواضيع ذات صلة
 
-1. [إدارة الإجازة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-management-intro)
+1. [إدارة الإجازة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/leave-management-intro)
     
-2. [إدارة كشوف المرتبات] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/payroll-intro)
+2. [إدارة كشوف المرتبات](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/payroll-intro)
     
 
 * * *

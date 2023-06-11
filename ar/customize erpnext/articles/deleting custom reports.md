@@ -1,6 +1,6 @@
-\n## حذف التقارير المخصصة
+## حذف التقارير المخصصة
 
-يحتوي ERPNext على عدة [أنواع من التقارير] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/making-custom-reports) والتي يمكن تخصيصها وفقًا للمستخدمين متطلبات.
+يحتوي ERPNext على عدة [أنواع من التقارير](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/making-custom-reports) والتي يمكن تخصيصها وفقًا للمستخدمين متطلبات.
 
 إذا كان هناك تقرير مخصص يلزم حذفه ، فيمكن تحقيقه باتباع الخطوات التالية. يرجى ملاحظة أن هذا ينطبق فقط على التقارير المخصصة ، وليس على التقارير القياسية.
 
@@ -8,14 +8,14 @@
 
 في شريط Awesome ، اكتب وحدد "قائمة التقارير" لأحد الخيارات.
 
-! [تقرير البحث] (https://docs.erpnext.com/files/customize-deleting-reports-1.png)
+![تقرير البحث](https://docs.erpnext.com/files/customize-deleting-reports-1.png)
 
 #### الخطوة 2: احذف التقرير من القائمة
 
 ستحتوي قائمة التقارير على جميع التقارير القياسية والمخصصة لحسابك. يمكنك تحديد تقرير مخصص ليتم حذفه من القائمة نفسها ، والنقر على أيقونة حذف في قائمة الإجراءات.
 
-! [قائمة التقارير] (https://docs.erpnext.com/files/customize-deleting-reports.png)
+![قائمة التقارير](https://docs.erpnext.com/files/customize-deleting-reports.png)
 
 أو يمكنك فتح هذا التقرير وحذفه من قائمة "ملف".
 
-! [تقرير حذف] (https://docs.erpnext.com/files/customize-deleting-reports-2.png)
+![تقرير حذف](https://docs.erpnext.com/files/customize-deleting-reports-2.png)

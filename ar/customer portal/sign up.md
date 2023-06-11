@@ -1,4 +1,4 @@
-\n## اشتراك
+## اشتراك
 
 يمكن لعميلك ومورديك الاشتراك في حساب ERPNext الخاص بك باتباع خيار التسجيل في صفحة تسجيل الدخول.
 
@@ -6,10 +6,10 @@
 
 في صفحة تسجيل الدخول ، ستجد خيار التسجيل.
 
-! [اشتراك مستخدم موقع الويب] (https://docs.erpnext.com/files/website-login.png)
+![اشتراك مستخدم موقع الويب](https://docs.erpnext.com/files/website-login.png)
 
 #### الخطوة 2: أدخل اسم ومعرف العميل
 
-! [تسجيل مستخدم موقع الويب] (https://docs.erpnext.com/files/website-signup-details.png)
+![تسجيل مستخدم موقع الويب](https://docs.erpnext.com/files/website-signup-details.png)
 
 بعد عملية التسجيل ، سيتم إرسال بريد إلكتروني إلى عنوان البريد الإلكتروني للعملاء مع تفاصيل كلمة المرور.

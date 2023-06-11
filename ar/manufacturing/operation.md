@@ -1,6 +1,6 @@
-\n## عملية
+## عملية
 
-** تشير العملية إلى أي عملية تصنيع يتم إجراؤها على المواد الخام لمعالجتها بشكل أكبر في مسار التصنيع. **
+**تشير العملية إلى أي عملية تصنيع يتم إجراؤها على المواد الخام لمعالجتها بشكل أكبر في مسار التصنيع.**
 
 يخزن مدير العملية عملية تصنيع واحدة ووصفها ومحطة العمل الافتراضية للعملية.
 
@@ -8,13 +8,13 @@
 
 > الصفحة الرئيسية> التصنيع> فاتورة المواد> التشغيل
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء عملية واستخدامها ، يُنصح بإنشاء ما يلي أولاً:
 
-* [محطة العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/workstation)
+* [محطة العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/workstation)
 
-## 2 \. كيفية إنشاء عملية
+## 2. كيفية إنشاء عملية
 
 1. اذهب إلى قائمة العمليات ، وانقر على جديد.
 2. أدخل اسمًا للعملية ، على سبيل المثال ، القطع.
@@ -23,9 +23,9 @@
 5. اختياريًا ، أضف وصفًا لوصف ما تتضمنه العملية.
 6. حفظ.
 
-بمجرد الحفظ ، يمكن إنشاء ما يلي مقابل عملية:! [العملية] (https://docs.erpnext.com/files/operation.png)
+بمجرد الحفظ ، يمكن إنشاء ما يلي مقابل عملية:![العملية](https://docs.erpnext.com/files/operation.png)
 
-## 3 \. فيديو
+## 3. فيديو
 
-1. [التوجيه] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/routing)
-2. [بطاقة العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/job-card)
+1. [التوجيه](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/routing)
+2. [بطاقة العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/job-card)

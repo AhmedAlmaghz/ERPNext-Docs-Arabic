@@ -1,4 +1,4 @@
-\n** المتقدم للوظيفة هو الشخص الذي يتقدم لوظيفة في شركتك مقابل فرصة عمل معينة. **
+\n**المتقدم للوظيفة هو الشخص الذي يتقدم لوظيفة في شركتك مقابل فرصة عمل معينة.**
 
 في Frappe HR ، يمكنك الاحتفاظ بقائمة بالأشخاص الذين تقدموا بطلبات ضد [فتح عمل] معين (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-opening) .
 
@@ -6,26 +6,26 @@
 
 \> الصفحة الرئيسية> الموارد البشرية> التوظيف> طالب الوظيفة
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء المتقدم للوظيفة ، يُنصح بإنشاء ما يلي:
 
-* [خطة التوظيف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/staffing-plan)
-* [القسم] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
-* [فتح وظيفة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-opening)
+* [خطة التوظيف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/staffing-plan)
+* [القسم](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
+* [فتح وظيفة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-opening)
 
-## 2 \. كيفية إنشاء متقدم للوظيفة
+## 2. كيفية إنشاء متقدم للوظيفة
 
 1. اذهب إلى قائمة المتقدمين للوظيفة ، وانقر على جديد.
 2. أدخل اسم مقدم الطلب وعنوان البريد الإلكتروني.
 3. حدد فتح الوظيفة.
 4. حدد المصدر (الحملة ، إحالة الموظف ، الدخول ، قائمة مواقع الويب).
 
-\> ** ملاحظة: ** إذا حددت المصدر كإحالة موظف ، فسيتعين عليك تحديد اسم الموظف في حقل اسم المصدر.
+\>**ملاحظة:**إذا حددت المصدر كإحالة موظف ، فسيتعين عليك تحديد اسم الموظف في حقل اسم المصدر.
 
-! [متقدم لوظيفة] (https://docs.erpnext.com/files/job-applicant.png)
+![متقدم لوظيفة](https://docs.erpnext.com/files/job-applicant.png)
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 الربط بحساب بريد إلكتروني
 
@@ -40,7 +40,7 @@
 * في "إلحاق بـ" حدد "متقدم لوظيفة"
     
 
-! [حساب البريد الإلكتروني] (https://docs.erpnext.com/files/email-account.png)
+![حساب البريد الإلكتروني](https://docs.erpnext.com/files/email-account.png)
 
-1. [عرض عمل] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-offer)
-2. [الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+1. [عرض عمل](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/job-offer)
+2. [الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)

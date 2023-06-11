@@ -1,4 +1,4 @@
-\n## إعداد نظام Fairlogin
+## إعداد نظام Fairlogin
 
 Fairlogin هو مزود oAuth مدرك للائحة العامة لحماية البيانات من fairkom.eu.
 
@@ -12,9 +12,9 @@ Fairlogin هو مزود oAuth مدرك للائحة العامة لحماية ا
 
 هناك تقوم بإضافة عميل جديد ، وتحديد معرف مفتوح كبروتوكول عميل وإدخال عنوان مثيل ERPnext الخاص بك باعتباره عنوان URL الجذر وإعادة التوجيه والقاعدة.
 
-إضافة خدمة ERNext كعميل يتم [تقديمها كخدمة من Fairkom] (https://erp.fairkom.net/cloud/fairlogin-client).
+إضافة خدمة ERNext كعميل يتم [تقديمها كخدمة من Fairkom](https://erp.fairkom.net/cloud/fairlogin-client).
 
-! [إعدادات keycloak ERPnext] (https://docs.erpnext.com/files/fairloginKeycloakERPnext.png)
+![إعدادات keycloak ERPnext](https://docs.erpnext.com/files/fairloginKeycloakERPnext.png)
 
 ## إعداد Fairlogin
 
@@ -26,7 +26,7 @@ Fairlogin هو مزود oAuth مدرك للائحة العامة لحماية ا
 * الوصول إلى عنوان URL لرمز الدخول https://id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/token
 * نقطة نهاية واجهة برمجة التطبيقات https://id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/userinfo
 
-! [إعدادات fairlogin ERPnext] (https://docs.erpnext.com/files/fairloginERPnextSettings.png)
+![إعدادات fairlogin ERPnext](https://docs.erpnext.com/files/fairloginERPnextSettings.png)
 
 عند تمكين الخدمة ، سيسمح النظام بتسجيل الدخول بأي حساب في Fairlogin.
 

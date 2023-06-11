@@ -1,26 +1,26 @@
-\n## ضمان القرض
+## ضمان القرض
 
 > مقدمة في الإصدار 13
 
-** ضمان القرض هو الضمان الفعلي الذي سيتم رهنه مقابل قرض. **
+**ضمان القرض هو الضمان الفعلي الذي سيتم رهنه مقابل قرض.**
 
 أثناء عملية القرض ، إذا كان القرض الذي يتقدم العميل للحصول عليه هو قرض مضمون ، فيجب التعهد ببعض الضمان مقابل هذا القرض. يحدد ضمان القرض الضمان الفعلي الذي سيتم رهنه مقابل القرض.
 
-! [Make Loan Security] (https://docs.erpnext.com/files/loan-security-flow.png)
+![Make Loan Security](https://docs.erpnext.com/files/loan-security-flow.png)
 
 للوصول إلى قائمة Loan Security ، انتقل إلى:
 
 > الصفحة الرئيسية> إدارة القروض> ضمان القرض> ضمان القرض
 
-! [Loan Security] (https://docs.erpnext.com/files/loan-security.png)
+![Loan Security](https://docs.erpnext.com/files/loan-security.png)
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء ضمان القرض واستخدامه ، يُنصح بإنشاء ما يلي أولاً:
 
-* [نوع ضمان القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
+* [نوع ضمان القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
 
-## 2 \. كيفية إنشاء ضمان القرض
+## 2. كيفية إنشاء ضمان القرض
 
 1. انتقل إلى قائمة Loan Security ، وانقر فوق New.
 2. حدد نوع ضمان القرض.

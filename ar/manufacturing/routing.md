@@ -1,6 +1,6 @@
-\n## التوجيه
+## التوجيه
 
-** التوجيه هو نموذج عمليات BOM. **
+**التوجيه هو نموذج عمليات BOM.**
 
 يخزن التوجيه جميع العمليات بالإضافة إلى الوصف ، والسعر بالساعة ، ووقت العملية ، وحجم الدُفعة ، وما إلى ذلك. يعد إنشاء توجيه لعمليات قائمة مكونات الصنف الخاص بك مفيدًا عند استخدام عمليات مماثلة لتصنيع عناصر مختلفة.
 
@@ -8,12 +8,12 @@
 
 > الصفحة الرئيسية> التصنيع> فاتورة المواد> التوجيه
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
-* [عملية] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/operation)
-* [محطة العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/workstation)
+* [عملية](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/operation)
+* [محطة العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/workstation)
 
-## 2 \. كيفية إنشاء التوجيه
+## 2. كيفية إنشاء التوجيه
 
 1. اذهب إلى قائمة التوجيه ، وانقر على جديد.
 2. أدخل اسمًا للتوجيه.
@@ -26,14 +26,14 @@
     6. سيتم احتساب تكلفة التشغيل على أساس معدل الساعة ووقت التشغيل.
 4. حفظ.
     
-    ! [التوجيه] (https://docs.erpnext.com/files/routing.png)
+    ![التوجيه](https://docs.erpnext.com/files/routing.png)
     
 
-بمجرد الإنشاء ، يمكن تحديد التوجيه في قائمة مكونات الصنف لجلب العمليات المخزنة في التوجيه. ! [Routing BOM] (https://docs.erpnext.com/files/routing-bom.png)
+بمجرد الإنشاء ، يمكن تحديد التوجيه في قائمة مكونات الصنف لجلب العمليات المخزنة في التوجيه. ![Routing BOM](https://docs.erpnext.com/files/routing-bom.png)
 
-## 3 \. معرف التسلسل في التوجيه
+## 3. معرف التسلسل في التوجيه
 
-! [معرّف تسلسل التوجيه] (https://docs.erpnext.com/files/sequence-id-routing.png) يفرض معرّف التسلسل على المستخدمين إكمال العمليات بالتسلسل عبر بطاقة العمل. في حالة محاولة المستخدم إكمال عملية ما قبل إكمال أي من عملياتها السابقة وفقًا لمعرف التسلسل ، يقوم النظام بإلقاء خطأ في التحقق من الصحة.
+![معرّف تسلسل التوجيه](https://docs.erpnext.com/files/sequence-id-routing.png) يفرض معرّف التسلسل على المستخدمين إكمال العمليات بالتسلسل عبر بطاقة العمل. في حالة محاولة المستخدم إكمال عملية ما قبل إكمال أي من عملياتها السابقة وفقًا لمعرف التسلسل ، يقوم النظام بإلقاء خطأ في التحقق من الصحة.
 
-1. [أمر العمل] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order)
-2. [قائمة المواد] (https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/bill-of-materials)
+1. [أمر العمل](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order)
+2. [قائمة المواد](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/bill-of-materials)

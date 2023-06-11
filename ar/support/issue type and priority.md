@@ -1,6 +1,6 @@
-\n## نوع القضية
+## نوع القضية
 
-** نوع المشكلة مفيد في وضع علامات على المشكلات وتصنيفها. **
+**نوع المشكلة مفيد في وضع علامات على المشكلات وتصنيفها.**
 
 يساعد تصنيف المشكلات في تعيين أعضاء الفريق المعنيين لقضايا محددة. يمكن أن تكون أمثلة أنواع المشكلات: "وظيفية" ، "تقنية" ، "أجهزة" ، إلخ. لذا يمكن تعيين المهندسين في المشكلات الفنية أو المتعلقة بالأجهزة وسيتم تعيين مستشارين لمعالجة المشكلات الوظيفية.
 
@@ -10,13 +10,13 @@
 
 لإنشاء نوع إصدار ، انقر فوق جديد وأدخل اسمًا للنوع. يمكن إضافة وصف.
 
-! [] (https://docs.erpnext.com/files/zDMkpfe.png)
+![](https://docs.erpnext.com/files/zDMkpfe.png)
 
 ## أولوية الإصدار
 
-** أولوية المشكلة تشير إلى ضرورة حل مشكلة **
+**أولوية المشكلة تشير إلى ضرورة حل مشكلة**
 
-يمكن للمستخدم إنشاء أولويات مثل "منخفضة" و "متوسطة" و "عالية" و "حرجة" وما إلى ذلك. سيتم استخدام أولوية المشكلة أثناء إنشاء [اتفاقية مستوى الخدمة] (https://docs.erpnext.com/docs/v13 / user / manual / en / support / service-level-Agreement).
+يمكن للمستخدم إنشاء أولويات مثل "منخفضة" و "متوسطة" و "عالية" و "حرجة" وما إلى ذلك. سيتم استخدام أولوية المشكلة أثناء إنشاء [اتفاقية مستوى الخدمة](https://docs.erpnext.com/docs/v13 / user / manual / en / support / service-level-Agreement).
 
 للوصول إلى قائمة أولوية المشكلة ، انتقل إلى:
 
@@ -24,11 +24,11 @@
 
 لإنشاء أولوية إصدار ، انقر فوق جديد وأدخل اسمًا للنوع. يمكن إضافة وصف.
 
-! [أولوية المشكلة] (https://docs.erpnext.com/files/issue-priority.png)
+![أولوية المشكلة](https://docs.erpnext.com/files/issue-priority.png)
 
-** قائمة أولوية المشكلة **
+**قائمة أولوية المشكلة**
 
-! [قائمة أولوية المشكلة] (https://docs.erpnext.com/files/issue-priority-list.png)
+![قائمة أولوية المشكلة](https://docs.erpnext.com/files/issue-priority-list.png)
 
-1. [المشكلة] (https://docs.erpnext.com/docs/v13/user/manual/en/support/issue)
-2. [اتفاقية مستوى الخدمة] (https://docs.erpnext.com/docs/v13/user/manual/en/support/service-level-agreement)
+1. [المشكلة](https://docs.erpnext.com/docs/v13/user/manual/en/support/issue)
+2. [اتفاقية مستوى الخدمة](https://docs.erpnext.com/docs/v13/user/manual/en/support/service-level-agreement)

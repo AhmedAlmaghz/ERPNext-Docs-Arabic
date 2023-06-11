@@ -1,4 +1,4 @@
-\n** بعد الانتهاء من التدريب ، يمكن تخزين نتائج التدريب حسب تقييم الموظف بناءً على التقييم الذي أجراه المدرب. **
+\n**بعد الانتهاء من التدريب ، يمكن تخزين نتائج التدريب حسب تقييم الموظف بناءً على التقييم الذي أجراه المدرب.**
 
 يتيح لك Frappe HR إنشاء نتائج التدريب ومشاركتها مع الموظفين باستخدام نموذج مستند نتيجة التدريب.
 
@@ -6,26 +6,26 @@
 
 \> الرئيسية> الموارد البشرية> التدريب> نتيجة التدريب
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء نتيجة تدريب ، يُنصح بإنشاء المستندات التالية:
 
-* [برنامج تدريبي] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-program)
-* [حدث تدريب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-event)
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [برنامج تدريبي](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-program)
+* [حدث تدريب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-event)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
 
-## 2 \. كيفية إنشاء نتيجة تدريب
+## 2. كيفية إنشاء نتيجة تدريب
 
 1. اذهب إلى قائمة نتيجة التدريب ، وانقر على جديد.
 2. حدد حدث تدريب.
 3. أدخل الساعات والدرجة والتعليقات مقابل اسم الموظف.
 4. حفظ وإرسال
     
-    ! [الموظف] (https://docs.erpnext.com/files/training-result.png)
+    ![الموظف](https://docs.erpnext.com/files/training-result.png)
     
 
-عند إرسال نتيجة التدريب ، سيتلقى جميع الموظفين رسالة بريد إلكتروني لإعلامهم بوجوب مشاركة تعليقاتهم عبر [ملاحظات التدريب] (https://docs.erpnext.com/docs/v14/user/manual/en/human- الموارد / التدريب-التغذية الراجعة). تتم إدارة هذا أيضًا عبر تنبيه البريد الإلكتروني ، بحيث يمكنك تخصيص هذا التنبيه أيضًا.
+عند إرسال نتيجة التدريب ، سيتلقى جميع الموظفين رسالة بريد إلكتروني لإعلامهم بوجوب مشاركة تعليقاتهم عبر [ملاحظات التدريب](https://docs.erpnext.com/docs/v14/user/manual/en/human- الموارد / التدريب-التغذية الراجعة). تتم إدارة هذا أيضًا عبر تنبيه البريد الإلكتروني ، بحيث يمكنك تخصيص هذا التنبيه أيضًا.
 
-\> ** ملاحظة: ** يمكنك أيضًا الوصول إلى "نتيجة التدريب" مباشرةً من لوحة معلومات "حدث التدريب".
+\>**ملاحظة:**يمكنك أيضًا الوصول إلى "نتيجة التدريب" مباشرةً من لوحة معلومات "حدث التدريب".
 
-1. [ملاحظات التدريب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-feedback)
+1. [ملاحظات التدريب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-feedback)

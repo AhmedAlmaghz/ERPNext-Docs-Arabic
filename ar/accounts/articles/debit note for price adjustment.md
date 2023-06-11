@@ -8,12 +8,12 @@
 
 فاتورة الشراء الأصلية
 
-! [] (https://docs.erpnext.com/files/Kh6hmYQ.png)
+![](https://docs.erpnext.com/files/Kh6hmYQ.png)
 
 تم إنشاء مذكرة الخصم لتغير السعر
 
-! [] (https://docs.erpnext.com/files/hozZAXO.png)
+![](https://docs.erpnext.com/files/hozZAXO.png)
 
 عند تقديم مذكرة الخصم ، سيتم تخفيض فاتورة الشراء الأصلية المعلقة بمقدار إشعار الخصم.
 
-! [] (https://docs.erpnext.com/files/qzJIBno.png)
+![](https://docs.erpnext.com/files/qzJIBno.png)

@@ -1,4 +1,4 @@
-\n** نقل الموظف هو شكل من أشكال التنقل الداخلي ، حيث يتم نقل الموظف من وظيفة إلى أخرى عادةً في موقع أو قسم أو وحدة مختلفة. **
+\n**نقل الموظف هو شكل من أشكال التنقل الداخلي ، حيث يتم نقل الموظف من وظيفة إلى أخرى عادةً في موقع أو قسم أو وحدة مختلفة.**
 
 في Frappe HR ، يمكنك تسجيل تحويلات الموظفين إلى شركة أو قسم مختلف باستخدام مستند نقل الموظفين.
 
@@ -6,12 +6,12 @@
 
 \> الموارد البشرية> دورة حياة الموظف> نقل الموظف
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
-* [القسم] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [القسم](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/department)
 
-## 2 \. كيفية إنشاء نقل موظف
+## 2. كيفية إنشاء نقل موظف
 
 1. حدد الموظف.
 2. حدد تاريخ التحويل.
@@ -21,10 +21,10 @@
 
 \> ملاحظة: إذا تم تحديد إنشاء معرف موظف جديد ، فسيتم إنشاء موظف جديد مع تغييرات الخاصية في جدول تفاصيل النقل وسيتم وضع علامة على الموظف القديم على أنه مرتاح. يجب إنشاء مخصصات الإجازات للموظف الجديد يدويًا من فترة الإجازة.
 
-! [نقل موظف] (https://docs.erpnext.com/files/employee-transfer.png)
+![نقل موظف](https://docs.erpnext.com/files/employee-transfer.png)
 
 \> ملاحظة: يمكن تقديم مستند التحويل في أو بعد تاريخ التحويل. بمجرد إرسال جميع التغييرات المضافة إلى جدول تفاصيل النقل سيتم تطبيقها على الموظف.
 
-1. [الموظف على متن الطائرة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-onboarding)
-2. [فصل الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-separation)
-3. [ترقية الموظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee_transfer)
+1. [الموظف على متن الطائرة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-onboarding)
+2. [فصل الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee-separation)
+3. [ترقية الموظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee_transfer)

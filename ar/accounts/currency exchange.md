@@ -1,4 +1,4 @@
-\n## تحويل العملات
+## تحويل العملات
 
 يخزن نموذج صرف العملات في ERPNext أسعار الصرف المخزنة يدويًا بواسطة المستخدم. افتراضيًا ، يقوم ERPNext تلقائيًا بجلب أسعار الصرف الحالية للعملات وفقًا للسوق. ومع ذلك ، يمكنك تخزين أسعار الصرف الثابتة واستخدامها. تحتاج إلى تمكين "السماح بأسعار الصرف القديمة" في إعدادات الحسابات لاستخدام أسعار الصرف المخزنة في نموذج صرف العملات.
 
@@ -6,7 +6,7 @@
 
 > الرئيسية> المحاسبة> العملات المتعددة> صرف العملات
 
-## 1 \. كيفية إنشاء صرف عملات
+## 1. كيفية إنشاء صرف عملات
 
 1. اذهب إلى قائمة صرف العملات وانقر على جديد.
 2. أدخل التاريخ الذي سيكون سعر الصرف فيه صالحًا. سيتم استخدام نماذج صرف العملات الجديدة المحفوظة بتواريخ أحدث في المعاملات.
@@ -15,8 +15,8 @@
 5. حدد ما إذا كان سعر الصرف ينطبق على البيع أو الشراء أو كليهما.
 6. حفظ.
     
-    ! [صرف العملات] (https://docs.erpnext.com/files/currency-exchange.png)
+    ![صرف العملات](https://docs.erpnext.com/files/currency-exchange.png)
     
 
-1. [إعادة تقييم سعر الصرف] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/exchange-rate-revaluation)
-2. [محاسبة العملات المتعددة] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/multi-currency-accounting)
+1. [إعادة تقييم سعر الصرف](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/exchange-rate-revaluation)
+2. [محاسبة العملات المتعددة](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/multi-currency-accounting)

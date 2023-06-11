@@ -1,11 +1,11 @@
-\n## المشروع وإدارة المصروفات
+## المشروع وإدارة المصروفات
 
-يتحمل الموظفون العاملون في مشروع نفقات مختلفة ، أحيانًا من جيوبهم ثم يمكنهم المطالبة بهذه النفقات باستخدام [مطالبة المصاريف] (https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/expense) -مطالبة).
+يتحمل الموظفون العاملون في مشروع نفقات مختلفة ، أحيانًا من جيوبهم ثم يمكنهم المطالبة بهذه النفقات باستخدام [مطالبة المصاريف](https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/expense) -مطالبة).
 
 أثناء ملء المطالبة ، يمكنهم تحديد المشروع الذي قاموا بصرف حسابه.
 
-! [مشروع - مطالبة مصاريف الارتباط] (https://docs.erpnext.com/files/projects-expense-claim.png)
+![مشروع - مطالبة مصاريف الارتباط](https://docs.erpnext.com/files/projects-expense-claim.png)
 
 استنادًا إلى مطالبات المصروفات المقدمة لمشروع معين ، يتم تحديث إجمالي مبلغ المطالبة بالمصروفات في مدير المشروع ، ضمن قسم تكلفة المشروع.
 
-! [المشروع - إجمالي مطالبة النفقات] (https://docs.erpnext.com/files/projects-expense-claim-in-project.png)
+![المشروع - إجمالي مطالبة النفقات](https://docs.erpnext.com/files/projects-expense-claim-in-project.png)

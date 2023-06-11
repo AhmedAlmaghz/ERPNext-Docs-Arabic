@@ -1,4 +1,4 @@
-\n## ربحية المشروع
+## ربحية المشروع
 
 ينشط المشروع والأنشطة ذات الصلة بشكل عام لفترات أطول. بينما تستمر التطورات في المشروع ، يتم إجراء معاملات مختلفة مقابل كل مشروع. بينما تستمر التطورات الجديدة في المشروع ، فقد يؤدي ذلك إلى مزيد من الاستثمار من حيث الوقت والمال والمواد. ومن ثم ، يصبح من المهم تتبع ربحية المشروع للتأكد من أنك لا تفرط في الإنفاق.
 
@@ -10,7 +10,7 @@
 
 في حركات المبيعات ، يتوفر حقل المشروع بشكل عام في قسم "مزيد من المعلومات".
 
-! [مشروع في المبيعات] (https://docs.erpnext.com/files/projects-sales-order.png)
+![مشروع في المبيعات](https://docs.erpnext.com/files/projects-sales-order.png)
 
 #### مشروع في معاملات الشراء
 
@@ -18,13 +18,13 @@
 
 في معاملات الشراء ، يتوفر خيار ربط مشروع في جدول الصنف. هذا لأنه يمكنك شراء مواد لمشاريع متعددة من إدخال الشراء نفسه.
 
-! [مشروع في المشتريات] (https://docs.erpnext.com/files/projects-purchase-order.png)
+![مشروع في المشتريات](https://docs.erpnext.com/files/projects-purchase-order.png)
 
 ### الميزانية مقابل المشروع
 
-يمكنك إنشاء [ميزانية] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting) لمشروع أيضًا. سيتم التحقق من صحة حد المصروفات المحدد في الميزانية في معاملات المصاريف.
+يمكنك إنشاء [ميزانية](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting) لمشروع أيضًا. سيتم التحقق من صحة حد المصروفات المحدد في الميزانية في معاملات المصاريف.
 
-! [ميزانية المشروع] (https://docs.erpnext.com/files/project-budgeting.png)
+![ميزانية المشروع](https://docs.erpnext.com/files/project-budgeting.png)
 
 ### ربحية المشروع
 
@@ -34,4 +34,4 @@
 
 يمكنك تصفية التقرير حسب المشروع للتحقق من ربحية المشروع.
 
-! [ربحية المشروع] (https://docs.erpnext.com/files/projects-profitability.png)
+![ربحية المشروع](https://docs.erpnext.com/files/projects-profitability.png)

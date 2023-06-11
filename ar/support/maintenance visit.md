@@ -1,19 +1,19 @@
-\n## زيارة الصيانة
+## زيارة الصيانة
 
-** زيارة الصيانة هي زيارة يقوم بها مهندس إلى مقر العميل لأعمال صيانة أحد العناصر. **
+**زيارة الصيانة هي زيارة يقوم بها مهندس إلى مقر العميل لأعمال صيانة أحد العناصر.**
 
 للوصول إلى قائمة زيارات الصيانة ، انتقل إلى:
 
 > الصفحة الرئيسية> الدعم> الصيانة> زيارة الصيانة
 
-عادة ما يتم إنشاء زيارة الصيانة من أمر مبيعات من نوع "صيانة". ! [زيارة صيانة SO] (https://docs.erpnext.com/files/so-maintenance-visit.png)
+عادة ما يتم إنشاء زيارة الصيانة من أمر مبيعات من نوع "صيانة". ![زيارة صيانة SO](https://docs.erpnext.com/files/so-maintenance-visit.png)
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
-* [العميل] (https://docs.erpnext.com/docs/user/manual/en/CRM/customer)
-* [عنصر] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
+* [العميل](https://docs.erpnext.com/docs/user/manual/en/CRM/customer)
+* [عنصر](https://docs.erpnext.com/docs/v13/user/manual/en/stock/item)
 
-## 2 \. كيفية إنشاء زيارة صيانة
+## 2. كيفية إنشاء زيارة صيانة
 
 1. اذهب إلى قائمة زيارة الصيانة ، وانقر على جديد.
 2. سيتم تسجيل التاريخ والوقت الحاليين ، ويمكن تعديل ذلك. س
@@ -24,18 +24,18 @@
 7. أدخل وصفًا للصيانة ، وحدد مندوب المبيعات الذي يقوم بإجراء الصيانة ، وأدخل العمل المنجز.
 8. حفظ.
     
-    ! [زيارة الصيانة] (https://docs.erpnext.com/files/maintenance-visit.png)
+    ![زيارة الصيانة](https://docs.erpnext.com/files/maintenance-visit.png)
     
 
 ### 2.1 خيارات إضافية عند إنشاء زيارة الصيانة
 
-* ** ملاحظات العملاء **: يمكنك تسجيل أي ملاحظات يقدمها العميل بخصوص زيارة الصيانة هذه.
-* سيتم جلب الحقول التالية من نموذج [العميل] (https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer):
+***ملاحظات العملاء**: يمكنك تسجيل أي ملاحظات يقدمها العميل بخصوص زيارة الصيانة هذه.
+* سيتم جلب الحقول التالية من نموذج [العميل](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer):
     * عنوان العميل
     *   الشخص الذي يمكن الاتصال به
     *   إِقلِيم
     *   مجموعة العملاء
 
-1. [مطالبة الضمان] (https://docs.erpnext.com/docs/v13/user/manual/en/support/warranty-claim)
-2. [جدول الصيانة] (https://docs.erpnext.com/docs/v13/user/manual/en/support/maintenance-schedule)
-3. [أمر المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
+1. [مطالبة الضمان](https://docs.erpnext.com/docs/v13/user/manual/en/support/warranty-claim)
+2. [جدول الصيانة](https://docs.erpnext.com/docs/v13/user/manual/en/support/maintenance-schedule)
+3. [أمر المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)

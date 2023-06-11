@@ -1,4 +1,4 @@
-\n\n## إعدادات الموقع
+## إعدادات الموقع
 
 يمكن هنا تكوين الإعدادات المتعلقة بالموقع مثل الصفحة المقصودة وموضوع الموقع الواسع.
 
@@ -6,67 +6,67 @@
 
 > الصفحة الرئيسية> موقع الويب> الإعداد> إعدادات موقع الويب
 
-## 1 \. الصفحة المقصودة
+## 1. الصفحة المقصودة
 
-قم بتكوين الصفحة المقصودة الافتراضية لموقعك على الويب عن طريق تعيين حقل ** الصفحة الرئيسية ** على مسار تلك الصفحة. يمكنك وضع أي مسار هنا بما في ذلك المسارات القياسية مثل "المنزل" و "حول" و "جهة الاتصال" و "تسجيل الدخول" و "جميع المنتجات" و "المدونة".
+قم بتكوين الصفحة المقصودة الافتراضية لموقعك على الويب عن طريق تعيين حقل**الصفحة الرئيسية**على مسار تلك الصفحة. يمكنك وضع أي مسار هنا بما في ذلك المسارات القياسية مثل "المنزل" و "حول" و "جهة الاتصال" و "تسجيل الدخول" و "جميع المنتجات" و "المدونة".
 
-يمكنك أيضًا تعيين [صفحة ويب] (https://docs.erpnext.com/docs/v13/user/manual/en/website/web-page) كصفحة مقصودة.
+يمكنك أيضًا تعيين [صفحة ويب](https://docs.erpnext.com/docs/v13/user/manual/en/website/web-page) كصفحة مقصودة.
 
-إذا كنت تريد استخدام ERPNext [الصفحة الرئيسية] (https://docs.erpnext.com/docs/v13/user/manual/en/website/homepage) ، فيجب عليك تعيينها كـ "home".
+إذا كنت تريد استخدام ERPNext [الصفحة الرئيسية](https://docs.erpnext.com/docs/v13/user/manual/en/website/homepage) ، فيجب عليك تعيينها كـ "home".
 
-! [إعدادات موقع الويب - الصفحة المقصودة] (https://docs.erpnext.com/files/website-settings-landing-page.png) _ إعدادات موقع الويب - الصفحة المقصودة_
+![إعدادات موقع الويب - الصفحة المقصودة](https://docs.erpnext.com/files/website-settings-landing-page.png) _ إعدادات موقع الويب - الصفحة المقصودة_
 
-يمكنك أيضًا تعيين ** بادئة العنوان ** هنا. سيتم إلحاقه بعنوان المتصفح في كل صفحة. يمكنك وضع اسم شركتك هنا.
+يمكنك أيضًا تعيين**بادئة العنوان**هنا. سيتم إلحاقه بعنوان المتصفح في كل صفحة. يمكنك وضع اسم شركتك هنا.
 
-## 2 \. موضوع الموقع
+## 2. موضوع الموقع
 
-قم بإنشاء سمة مخصصة لموقع الويب الخاص بك وقم بتعيينها هنا. تعرف على المزيد حول تكوين سمة موقع الويب [هنا] (https://docs.erpnext.com/docs/v13/user/manual/en/website/website-theme).
+قم بإنشاء سمة مخصصة لموقع الويب الخاص بك وقم بتعيينها هنا. تعرف على المزيد حول تكوين سمة موقع الويب [هنا](https://docs.erpnext.com/docs/v13/user/manual/en/website/website-theme).
 
-## 3 \. ماركة
+## 3. ماركة
 
 ### 3.1 شعار العلامة التجارية
 
 يمكنك وضع شعار العلامة التجارية لموقع الويب الخاص بك في هذا القسم. قم بتحميل صورة العلامة التجارية أولاً ثم انقر فوق الزر "تعيين شعار من الصورة". سيُنشئ شعار HTML مع شعارك الذي تم تحميله.
 
-! [إعدادات موقع الويب - صورة البانر] (https://docs.erpnext.com/files/website-settings-banner-image.png) _ إعدادات موقع الويب - صورة البانر_
+![إعدادات موقع الويب - صورة البانر](https://docs.erpnext.com/files/website-settings-banner-image.png) _ إعدادات موقع الويب - صورة البانر_
 
 ### 3.2 الأيقونة المفضلة
 
 يمكنك أيضًا تعيين الرمز المفضل لموقع الويب الخاص بك في هذا القسم. يظهر على الجانب الأيسر من علامة تبويب المتصفح.
 
-! [إعدادات موقع الويب - الرمز المفضل] (https://docs.erpnext.com/files/website-settings-favicon.png) _ إعدادات موقع الويب - Favicon_
+![إعدادات موقع الويب - الرمز المفضل](https://docs.erpnext.com/files/website-settings-favicon.png) _ إعدادات موقع الويب - Favicon_
 
-قم بعرض موقع الويب الخاص بك عن طريق النقر فوق ** عرض الموقع الإلكتروني ** في شريط الإجراءات في أعلى اليمين.
+قم بعرض موقع الويب الخاص بك عن طريق النقر فوق**عرض الموقع الإلكتروني**في شريط الإجراءات في أعلى اليمين.
 
-! [موقع ويب به علامة تجارية ورمز مفضل] (https://docs.erpnext.com/files/website-brand-and-favicon.png) _ موقع ويب به علامة تجارية ورمز مفضل_
+![موقع ويب به علامة تجارية ورمز مفضل](https://docs.erpnext.com/files/website-brand-and-favicon.png) _ موقع ويب به علامة تجارية ورمز مفضل_
 
-## 4 \. الشريط العلوى
+## 4. الشريط العلوى
 
-يمكنك تخصيص عناصر القائمة في شريط التنقل في موقع الويب الخاص بك من قسم ** الشريط العلوي **.
+يمكنك تخصيص عناصر القائمة في شريط التنقل في موقع الويب الخاص بك من قسم**الشريط العلوي**.
 
-! [إعداد موقع الويب - الشريط العلوي] (https://docs.erpnext.com/files/website-settings-top-bar.png) _إعداد موقع الويب - الشريط العلوي_
+![إعداد موقع الويب - الشريط العلوي](https://docs.erpnext.com/files/website-settings-top-bar.png) _إعداد موقع الويب - الشريط العلوي_
 
-! [عناصر التنقل في موقع الويب] (https://docs.erpnext.com/files/website-navbar-items.png) _Website Navbar Items_
+![عناصر التنقل في موقع الويب](https://docs.erpnext.com/files/website-navbar-items.png) _Website Navbar Items_
 
 يمكنك إضافة لافتة ثابتة إلى موقع الويب الخاص بك والتي ستظهر أعلى شريط التنقل في جميع صفحات الويب. يمكنك كتابة أي ترميز Bootstrap 4 صالح هنا.
 
-! [إعدادات موقع الويب - بانر] (https://docs.erpnext.com/files/website-settings-banner.png) _ إعدادات موقع الويب - بانر_
+![إعدادات موقع الويب - بانر](https://docs.erpnext.com/files/website-settings-banner.png) _ إعدادات موقع الويب - بانر_
 
-! [شعار موقع الويب] (https://docs.erpnext.com/files/website-banner.png) _ لافتة موقع الويب_
+![شعار موقع الويب](https://docs.erpnext.com/files/website-banner.png) _ لافتة موقع الويب_
 
-يمكنك إضافة معلومات العنوان والروابط المصنفة إلى التذييل الخاص بك في قسم ** التذييل **.
+يمكنك إضافة معلومات العنوان والروابط المصنفة إلى التذييل الخاص بك في قسم**التذييل**.
 
-! [إعدادات موقع الويب - عنوان التذييل] (https://docs.erpnext.com/files/website-settings-footer-address.png) _ إعدادات موقع الويب - عنوان التذييل_
+![إعدادات موقع الويب - عنوان التذييل](https://docs.erpnext.com/files/website-settings-footer-address.png) _ إعدادات موقع الويب - عنوان التذييل_
 
-! [إعدادات موقع الويب - روابط التذييل] (https://docs.erpnext.com/files/website-settings-footer-links.png) _ إعدادات موقع الويب - روابط التذييل_
+![إعدادات موقع الويب - روابط التذييل](https://docs.erpnext.com/files/website-settings-footer-links.png) _ إعدادات موقع الويب - روابط التذييل_
 
-! [تذييل موقع الويب] (https://docs.erpnext.com/files/website-footer.png) _تذييل موقع الويب_
+![تذييل موقع الويب](https://docs.erpnext.com/files/website-footer.png) _تذييل موقع الويب_
 
 #### تكوين قسم "مدعوم من"
 
 يمكنك تكوين "مدعوم من قبل قسم" عن طريق تحرير "تذييل مدعوم من قبل"
 
-## 7 \. تكاملات جوجل
+## 7. تكاملات جوجل
 
 ### 7.1 فهرسة Google
 
@@ -74,47 +74,47 @@
 
 للسماح لـ ERPNext بطلب برامج زحف Google لفهرسة صفحة ويب ، تحتاج إلى تفويض ERPNext لإرسال طلب كلما طلب المستخدم البيانات. تم إعداد Google Drive Integration من خلال الخطوات التالية:
 
-* أنشئ بيانات اعتماد OAuth 2.0 عبر [إعدادات Google] (https://docs.erpnext.com/docs/v13/user/manual/en/erpnext_integration/google_settings)
+* أنشئ بيانات اعتماد OAuth 2.0 عبر [إعدادات Google](https://docs.erpnext.com/docs/v13/user/manual/en/erpnext_integration/google_settings)
     
 * تمكين الفهرسة في إعدادات موقع الويب
     
-* انقر الآن على ** تخويل الوصول إلى فهرسة API ** لتفويض ERPNext لإرسال طلب نشر.
+* انقر الآن على**تخويل الوصول إلى فهرسة API**لتفويض ERPNext لإرسال طلب نشر.
     
 * بمجرد الإذن ، يتم إرسال طلب الفهرسة تلقائيًا عند إنشاء / تحديث / مهملات أي منشور مدونة جديد أو صفحات ويب تم إنشاؤها عن طريق المستخدم.
     
 
-! [Google Integrations] (https://docs.erpnext.com/files/website-settings-integrations.png) _Google Integrations_
+![Google Integrations](https://docs.erpnext.com/files/website-settings-integrations.png) _Google Integrations_
 
 ### 7.2 برنامج Google Analytics
 
-يمكنك تمكين Google Analytics على موقع الويب الخاص بك. ما عليك سوى الحصول على [معرف Google Analytics] (https://support.google.com/analytics/answer/1008080؟hl=ar) من وحدة تحكم Google وتعيينه هنا.
+يمكنك تمكين Google Analytics على موقع الويب الخاص بك. ما عليك سوى الحصول على [معرف Google Analytics](https://support.google.com/analytics/answer/1008080؟hl=ar) من وحدة تحكم Google وتعيينه هنا.
 
-بشكل افتراضي ، سيقوم Google Analytics بجمع عنوان IP الكامل لزوار موقع الويب الخاص بك. من خلال تحديد "Google Analytics Anonymize IP" ، سيوجه ERPNext Google Analytics لإخفاء هوية عنوان IP قبل إرساله إلى خوادم Google. يمكنك معرفة المزيد حول تأثير هذا الإعداد في [وثائق Google] (https://support.google.com/analytics/answer/2763052).
+بشكل افتراضي ، سيقوم Google Analytics بجمع عنوان IP الكامل لزوار موقع الويب الخاص بك. من خلال تحديد "Google Analytics Anonymize IP" ، سيوجه ERPNext Google Analytics لإخفاء هوية عنوان IP قبل إرساله إلى خوادم Google. يمكنك معرفة المزيد حول تأثير هذا الإعداد في [وثائق Google](https://support.google.com/analytics/answer/2763052).
 
 يمكنك استخدام هذا القسم لتعيين العلامات الوصفية عبر جميع صفحات الويب الخاصة بك. حالة الاستخدام الشائعة هي إضافة علامات التحقق من موقع Google.
 
-! [إعدادات موقع الويب - رأس الصفحة] (https://docs.erpnext.com/files/website-settings-header.png) _ إعدادات موقع الويب - Header_
+![إعدادات موقع الويب - رأس الصفحة](https://docs.erpnext.com/files/website-settings-header.png) _ إعدادات موقع الويب - Header_
 
-## 9 \. الروبوتات
+## 9. الروبوتات
 
 يمكنك تحديد قواعد "robots.txt" في هذا القسم. يتم استخدام هذه المعلومات بواسطة برامج زحف الويب لتحديد الصفحات التي سيتم فهرستها والصفحات التي يجب تخطيها.
 
-! [إعدادات موقع الويب - برامج الروبوت] (https://docs.erpnext.com/files/website-settings-robots-txt.png) _ إعدادات موقع الويب - برامج الروبوت_
+![إعدادات موقع الويب - برامج الروبوت](https://docs.erpnext.com/files/website-settings-robots-txt.png) _ إعدادات موقع الويب - برامج الروبوت_
 
-> تعرف على المزيد حول `robots.txt` على [Moz - Robots.txt] (https://moz.com/learn/seo/robotstxt)
+> تعرف على المزيد حول `robots.txt` على [Moz - Robots.txt](https://moz.com/learn/seo/robotstxt)
 
-## 10 \. عمليات إعادة التوجيه
+## 10. عمليات إعادة التوجيه
 
 يمكنك تحديد تعيين عمليات إعادة التوجيه هنا. تتأكد التعيينات الموجودة في لقطة الشاشة التالية من أنه إذا قام المستخدم بزيارة `https: // apple.erpnext.com / iphone` ، فسيتم إعادة توجيهه إلى` https: // apple.erpnext.com / products / iphone`.
 
 سيرفع ERPNext استجابة "إعادة التوجيه الدائم 301" لهذه المسارات.
 
-! [إعدادات موقع الويب - عمليات إعادة التوجيه] (https://docs.erpnext.com/files/website-settings-route-redirects.png) _ إعدادات موقع الويب - عمليات إعادة توجيه المسارات_
+![إعدادات موقع الويب - عمليات إعادة التوجيه](https://docs.erpnext.com/files/website-settings-route-redirects.png) _ إعدادات موقع الويب - عمليات إعادة توجيه المسارات_
 
 > إذا كنت تقوم بترحيل موقع الويب الحالي الخاص بك إلى موقع ويب ERPNext ، فيمكنك تعيين مساراتك القديمة لطرق جديدة هنا وستلتقط Google عمليات إعادة التوجيه هذه وستساعدك في الحفاظ على تصنيفات تحسين محركات البحث (SEO) الخاصة بك.
 
-## 11 \. محادثة
+## 11. محادثة
 
-يمكنك تمكين دردشة زوار الموقع على موقع الويب الخاص بك في قسم الدردشة. ستظهر أداة الدردشة بين ** من ** الوقت و ** إلى ** الوقت. يمكنك أيضًا تعيين ** مشغلي الدردشة ** (المستخدمون) الذين سيتم إعلامهم عندما يرسل الزائر رسالة.
+يمكنك تمكين دردشة زوار الموقع على موقع الويب الخاص بك في قسم الدردشة. ستظهر أداة الدردشة بين**من**الوقت و**إلى**الوقت. يمكنك أيضًا تعيين**مشغلي الدردشة**(المستخدمون) الذين سيتم إعلامهم عندما يرسل الزائر رسالة.
 
 > الدردشة هي ميزة تجريبية.

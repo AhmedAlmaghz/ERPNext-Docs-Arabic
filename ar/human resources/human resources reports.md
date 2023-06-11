@@ -1,22 +1,22 @@
-\n## 1 \. رصيد إجازة الموظف
+## 1. رصيد إجازة الموظف
 
-! [رصيد إجازة الموظف] (https://docs.erpnext.com/files/employee-leave-balance.png)
+![رصيد إجازة الموظف](https://docs.erpnext.com/files/employee-leave-balance.png)
 
-## 2 \. سجل الراتب
+## 2. سجل الراتب
 
 يُظهر سجل الرواتب صافي الأجر ومكوناته للموظفين (الموظفين) في لمحة.
 
-! [سجل الراتب الشهري] (https://docs.erpnext.com/files/monthly-salary-register.png)
+![سجل الراتب الشهري](https://docs.erpnext.com/files/monthly-salary-register.png)
 
-## 3 \. كشف الحضور الشهري
+## 3. كشف الحضور الشهري
 
 توضح لك صحيفة الحضور الشهرية حالة الحضور من حيث الموظف. إذا قمت بتعيين ورديات للموظفين ، فستظهر لك هذه الورقة أيضًا الحضور الحكيم لكل موظف.
 
-! [كشف الحضور الشهري] (https://docs.erpnext.com/files/monthly-attendance-sheet.png)
+![كشف الحضور الشهري](https://docs.erpnext.com/files/monthly-attendance-sheet.png)
 
 إذا كنت لا ترغب في رؤية الحضور اليومي ، والحصول على عرض موجز لأيام الغياب الكلي ، والحاضر ، والمغادرة ، وما إلى ذلك ، يمكنك التبديل إلى العرض الملخص:
 
-! [كشف الحضور الشهري] (https://docs.erpnext.com/files/monthly-attendance-summarized.png)
+![كشف الحضور الشهري](https://docs.erpnext.com/files/monthly-attendance-summarized.png)
 
 سيظهر لك هذا:
 
@@ -31,13 +31,13 @@
 
 يمكنك أيضًا عرض التقرير مجمّعًا حسب القسم أو الفرع أو التعيين أو درجة الموظف.
 
-## 4 \. تقرير مصاريف المركبة
+## 4. تقرير مصاريف المركبة
 
 لتتبع ومراقبة نفقات السيارة ، يمكنك استخدام تقرير مصاريف السيارة. يقدم هذا التقرير عرضًا شاملاً لجميع نفقات سيارتك على أساس شهري.
 
-! [سجل السيارة] (https://docs.erpnext.com/files/vehicle-expenses-report.png)
+![سجل السيارة](https://docs.erpnext.com/files/vehicle-expenses-report.png)
 
-## 5 \. خروج الموظف
+## 5. خروج الموظف
 
 \> مقدمة في الإصدار 14
 
@@ -57,26 +57,26 @@
 
 يمكن للمستخدمين إعداد تقارير البريد الإلكتروني التلقائية على عوامل التصفية أعلاه لتسهيل تتبع الخروج المعلق.
 
-! [سجل الراتب الشهري] (https://docs.erpnext.com/files/employee-exits.png)
+![سجل الراتب الشهري](https://docs.erpnext.com/files/employee-exits.png)
 
-## 6 \. عيد ميلاد الموظف
+## 6. عيد ميلاد الموظف
 
 يُظهر تقرير عيد ميلاد الموظف أعياد الميلاد الشهرية لموظفيك.
 
-! [عيد ميلاد الموظف] (https://docs.erpnext.com/files/employee-birthday.png)
+![عيد ميلاد الموظف](https://docs.erpnext.com/files/employee-birthday.png)
 
-## 7 \. موظف يعمل في عطلة
+## 7. موظف يعمل في عطلة
 
 يُظهر حضور الموظف في عطلة قائمة الموظفين الذين حضروا في أيام الإجازات.
 
-! [الموظف يعمل في عطلة] (https://docs.erpnext.com/files/employees-working-on-a-holiday.png)
+![الموظف يعمل في عطلة](https://docs.erpnext.com/files/employees-working-on-a-holiday.png)
 
-## 8 \. تقرير التحويل المصرفي
+## 8. تقرير التحويل المصرفي
 
 يساعدك هذا التقرير على تتبع المعاملات المصرفية لإدخالات كشوف المرتبات بين الشركة (الشركات) والموظفين. يظهر المعاملة بين الحسابات المصرفية للشركة والموظف مع تاريخ الدفع.
 
-! [سجل الراتب الشهري] (https://docs.erpnext.com/files/bank_remittance_report.png)
+![سجل الراتب الشهري](https://docs.erpnext.com/files/bank_remittance_report.png)
 
-## 9 \. تقرير سداد القرض
+## 9. تقرير سداد القرض
 
 يسمح لك تقرير سداد القرض بتتبع القروض من خلال إظهار مبلغ القرض والفائدة والمبلغ المستحق الدفع و EMI. كما يظهر المبلغ المدفوع والمستحق.

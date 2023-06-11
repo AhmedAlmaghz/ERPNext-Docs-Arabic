@@ -1,4 +1,4 @@
-\n## أبعاد المخزون
+## أبعاد المخزون
 
 > مقدمة في الإصدار 14
 
@@ -10,7 +10,7 @@
 
 ## إنشاء بعد المخزون
 
-! [مكوّن مخزون جديد] (https://docs.erpnext.com/files/new-inventory-dimension.png)
+![مكوّن مخزون جديد](https://docs.erpnext.com/files/new-inventory-dimension.png)
 
 * قم بإنشاء سجل جديد وحدد المستند المرجعي الذي تريد استخدامه كبُعد مخصص للمخزون.
 * يمكنك تحديد أي مستند غير فرعي في المستند المرجعي.
@@ -20,14 +20,14 @@
 
 ### تنطبق على جميع مستندات الجرد
 
-! [يسري بُعد المخزون على جميع مستندات المستودع] (https://docs.erpnext.com/files/inventory-dimension-applicable-for-all-inventory-documents.png)
+![يسري بُعد المخزون على جميع مستندات المستودع](https://docs.erpnext.com/files/inventory-dimension-applicable-for-all-inventory-documents.png)
 
 * سيتم استخدامه لتحديد البعد المخصص في المستندات المتعلقة بالمخزون.
 * على سبيل المثال ، أنشأ المستخدم أبعاد الجرد باسم "الرف" ومكّن "تطبيق على جميع أنواع مستندات المخزون". ثم سيقوم النظام بإنشاء حقل الارتباط المخصص بالاسم "Shelf" في مستندات المخزون حيث يوجد حقلا Batch No و Serial No.
 
 ### تنطبق على وثيقة محددة
 
-! [يسري بُعد المستودع على] (https://docs.erpnext.com/files/inventory-dimension-applicable-for.png)
+![يسري بُعد المستودع على](https://docs.erpnext.com/files/inventory-dimension-applicable-for.png)
 
 * إذا أراد المستخدم إضافة بُعد المخزون إلى مستند معين ، فعليه تعطيل مربع الاختيار "تطبيق على جميع أنواع مستندات المخزون" وتحديد المستند المعني في حقل "ينطبق على المستند".
 * أيضًا إذا كنت تريد إضافة بُعد المخزون لشرط معين مثل نوع إدخال المخزون ، فأنت تريد بُعدًا منفصلاً مثل "من الجرف" ونوع إدخال المخزون "استلام المواد" ، فأنت تريد بُعدًا منفصلاً مثل "إلى الرف" ، فيمكن أن يكون ذلك ممكنًا باستخدام " حالة قابلة للتطبيق "
@@ -36,7 +36,7 @@
 
 ## استخدام أبعاد المخزون
 
-! [مكوّن المخزون في المعاملة] (https://docs.erpnext.com/files/inventory-dimension-on-transaction.png)
+![مكوّن المخزون في المعاملة](https://docs.erpnext.com/files/inventory-dimension-on-transaction.png)
 
 * بمجرد إنشاء بُعد المخزون ، سيقوم النظام بإنشاء الحقل المخصص في المستندات المعنية
 * يحصل المستخدم على خيار تحديد بُعد المخزون في المعاملة المعنية.
@@ -49,8 +49,8 @@
 
 ### تقرير رصيد المخزون
 
-! [رصيد مخزون بُعد المخزون] (https://docs.erpnext.com/files/inventory-dimension-stock-balance.png)
+![رصيد مخزون بُعد المخزون](https://docs.erpnext.com/files/inventory-dimension-stock-balance.png)
 
 ### تقرير دفتر الأستاذ
 
-! [دفتر الأستاذ لبُعد المخزون] (https://docs.erpnext.com/files/inventory-dimension-stock-ledger.png)
+![دفتر الأستاذ لبُعد المخزون](https://docs.erpnext.com/files/inventory-dimension-stock-ledger.png)

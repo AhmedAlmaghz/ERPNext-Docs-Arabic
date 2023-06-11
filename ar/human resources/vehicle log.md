@@ -1,40 +1,40 @@
-\n** يُستخدم سجل السيارة لإدخال قراءات عداد المسافات ، ونفقات الوقود وتفاصيل مصاريف الخدمة. **
+\n**يُستخدم سجل السيارة لإدخال قراءات عداد المسافات ، ونفقات الوقود وتفاصيل مصاريف الخدمة.**
 
 للوصول إلى سجل السيارة ، انتقل إلى:
 
 \> الموارد البشرية> إدارة الأسطول> سجل المركبات
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء سجل السيارة ، من الضروري إنشاء المستندات التالية:
 
-* [مركبة] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/vehicle)
+* [مركبة](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/vehicle)
 
-## 2 \. كيفية إنشاء سجل السيارة
+## 2. كيفية إنشاء سجل السيارة
 
 1. اذهب إلى قائمة سجل السيارة ، وانقر على جديد.
 2. حدد لوحة الترخيص والموظف.
 3. أدخل معلومات قراءة عداد المسافات مثل التاريخ وعداد المسافات (قراءة).
 4. أدخل تفاصيل التزود بالوقود \ [اختياري \] مثل كمية الوقود وسعر الوقود والمورد ومرجع الفاتورة.
     
-    ! [سجل السيارة] (https://docs.erpnext.com/files/vehicle-log1.png)
+    ![سجل السيارة](https://docs.erpnext.com/files/vehicle-log1.png)
     
 5. بالإضافة إلى ذلك ، يمكن أيضًا إضافة تفاصيل خدمة السيارة كما هو موضح (اختياري).
     
-    ! [سجل السيارة] (https://docs.erpnext.com/files/vehicle-log2.png)
+    ![سجل السيارة](https://docs.erpnext.com/files/vehicle-log2.png)
     
 6. حفظ. بمجرد حفظ المعلومات ، سيتم جلب قيم النموذج والإنشاء تلقائيًا.
     
 
-## 3 \. سمات
+## 3. سمات
 
-تتيح لك إدارة الأسطول في Frappe HR إنشاء [مطالبة مصاريف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/expense-claim) مقابل نفقات سيارتك.
+تتيح لك إدارة الأسطول في Frappe HR إنشاء [مطالبة مصاريف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/expense-claim) مقابل نفقات سيارتك.
 
 ### 3.1 تقديم مطالبة بالنفقات مقابل نفقات السيارة
 
 انقر فوق الزر "تقديم مطالبة بالمصروفات". يظهر هذا الزر فقط في حالة تقديم سجلات المركبات.
 
-! [زر مطالبة المصاريف] (https://docs.erpnext.com/files/vehicle-log-expense-claim-button.png)
+![زر مطالبة المصاريف](https://docs.erpnext.com/files/vehicle-log-expense-claim-button.png)
 
 عند النقر فوق "تقديم مطالبة بالنفقات" ،
 
@@ -42,7 +42,7 @@
 2. يتم حساب مجموع مصاريف الوقود ونفقات الخدمة وإحضارها إلى مبلغ مطالبة المصاريف.
 3. يمكن للموظف تقديم مطالبة المصروفات لمزيد من المعالجة.
     
-    ! [سجل السيارة] (https://docs.erpnext.com/files/vehicle-log-expense-claim.png)
+    ![سجل السيارة](https://docs.erpnext.com/files/vehicle-log-expense-claim.png)
     
 
-1. [مطالبة المصاريف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/expense-claim)
+1. [مطالبة المصاريف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/expense-claim)

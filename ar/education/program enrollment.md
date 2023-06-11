@@ -1,29 +1,29 @@
-\n## التسجيل في البرنامج
+## التسجيل في البرنامج
 
-** التسجيل في البرنامج هو سجل تسجيل الطالب في برنامج معين والدورات المختارة لفترة أكاديمية معينة. **
+**التسجيل في البرنامج هو سجل تسجيل الطالب في برنامج معين والدورات المختارة لفترة أكاديمية معينة.**
 
 لضمان ارتباط الطلاب ببرنامج معين في النظام ، يجب إنشاء تسجيلهم في البرنامج. يتم ملء الدورة التدريبية الإلزامية في هذا البرنامج تلقائيًا في جدول الدورات المسجلة بينما يمكن تحديد الدورات الاختيارية أو الاختيارية يدويًا.
 
-إذا تقدم الطالب عبر الإنترنت للقبول في ** برنامج ** معين وتمت الموافقة على الطلب ، فيمكن عندئذٍ إنشاء التسجيل في البرنامج من داخل سجل الطالب المتقدم من خلال النقر على زر ** التسجيل **. تحقق من [الطالب المتقدم] (https://docs.erpnext.com/docs/v13/user/manual/en/education/student-applicant) لمزيد من المعلومات حول هذا.
+إذا تقدم الطالب عبر الإنترنت للقبول في**برنامج**معين وتمت الموافقة على الطلب ، فيمكن عندئذٍ إنشاء التسجيل في البرنامج من داخل سجل الطالب المتقدم من خلال النقر على زر**التسجيل**. تحقق من [الطالب المتقدم](https://docs.erpnext.com/docs/v13/user/manual/en/education/student-applicant) لمزيد من المعلومات حول هذا.
 
 للوصول إلى برنامج التسجيل ، انتقل إلى:
 
 > الصفحة الرئيسية> التعليم> القبول> التسجيل في البرنامج
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء التسجيل في البرنامج ، يُنصح بإنشاء ما يلي أولاً:
 
-1. [الطالب] (https://docs.erpnext.com/docs/v13/user/manual/en/education/student)
-2. [البرنامج] (https://docs.erpnext.com/docs/v13/user/manual/en/education/program)
-3. [فئة الطالب] (https://docs.erpnext.com/docs/v13/user/manual/en/education/student-category)
-4. [دفعة الطالب] (https://docs.erpnext.com/docs/v13/user/manual/en/education/student-batch-name)
-5. [العام الدراسي] (https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-year)
-6. [مصطلح أكاديمي] (https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-term)
-7. [دورة تدريبية] (https://docs.erpnext.com/docs/v13/user/manual/en/education/course)
-8. [هيكل الرسوم] (https://docs.erpnext.com/docs/v13/user/manual/en/education/fee-structure)
+1. [الطالب](https://docs.erpnext.com/docs/v13/user/manual/en/education/student)
+2. [البرنامج](https://docs.erpnext.com/docs/v13/user/manual/en/education/program)
+3. [فئة الطالب](https://docs.erpnext.com/docs/v13/user/manual/en/education/student-category)
+4. [دفعة الطالب](https://docs.erpnext.com/docs/v13/user/manual/en/education/student-batch-name)
+5. [العام الدراسي](https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-year)
+6. [مصطلح أكاديمي](https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-term)
+7. [دورة تدريبية](https://docs.erpnext.com/docs/v13/user/manual/en/education/course)
+8. [هيكل الرسوم](https://docs.erpnext.com/docs/v13/user/manual/en/education/fee-structure)
 
-## 2 \. كيفية إنشاء برنامج التسجيل
+## 2. كيفية إنشاء برنامج التسجيل
 
 1. اذهب إلى قائمة التسجيل في البرنامج وانقر على جديد.
 2. حدد الطالب الذي ستسجله في البرنامج.
@@ -32,21 +32,21 @@
 5. يتم تعيين تاريخ التسجيل للنموذج افتراضيًا في التاريخ الحالي ، ومع ذلك ، يمكن تغييره إذا لزم الأمر.
 6. حفظ وتقديم.
     
-    ! [تسجيل البرنامج] (https://docs.erpnext.com/files/education-program-enrollment-1.gif)
+    ![تسجيل البرنامج](https://docs.erpnext.com/files/education-program-enrollment-1.gif)
     
 
 ### 2.1. خيارات إضافية أثناء إنشاء التسجيل في البرنامج
 
-1. ** فئة الطالب **: حدد الفئة إذا كان الطالب ينتمي إلى فئة طلابية معينة.
-2. ** الفصل الدراسي **: حدد الفصل الدراسي.
-3. ** دفعة الطالب **: حدد الدفعة إذا كان الطالب ينتمي إلى مجموعة طلابية معينة.
-4. ** Student House **: حدد المنزل إذا كان الطالب ينتمي إلى منزل طلاب معين.
-5. ** طالب مقيم **: حدد هذا إذا كان الطالب مقيمًا في نزل المعهد. في هذه الحالة ، سيتم تحديث هيكل الرسوم وفقًا لذلك.
+1.**فئة الطالب**: حدد الفئة إذا كان الطالب ينتمي إلى فئة طلابية معينة.
+2.**الفصل الدراسي**: حدد الفصل الدراسي.
+3.**دفعة الطالب**: حدد الدفعة إذا كان الطالب ينتمي إلى مجموعة طلابية معينة.
+4.**Student House**: حدد المنزل إذا كان الطالب ينتمي إلى منزل طلاب معين.
+5.**طالب مقيم**: حدد هذا إذا كان الطالب مقيمًا في نزل المعهد. في هذه الحالة ، سيتم تحديث هيكل الرسوم وفقًا لذلك.
     
-    ! [تسجيل البرنامج] (https://docs.erpnext.com/files/education-program-enrollment-2.gif)
+    ![تسجيل البرنامج](https://docs.erpnext.com/files/education-program-enrollment-2.gif)
     
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1. مواصلات
 
@@ -56,12 +56,12 @@
 
 حدد وأضف الدورات التي اختار الطالب دراستها أثناء البرنامج.
 
-! [تسجيل البرنامج] (https://docs.erpnext.com/files/education-program-enrollment-3.png)
+![تسجيل البرنامج](https://docs.erpnext.com/files/education-program-enrollment-3.png)
 
 ### 3.3. مصاريف
 
 حدد وأضف الفصل الدراسي وهيكل الرسوم وفئة الطالب وتاريخ استحقاق الرسوم ومبلغ الرسوم الذي سيدفعه الطالب للتسجيل في الدورة.
 
-! [تسجيل البرنامج] (https://docs.erpnext.com/files/education-program-enrollment-4.gif)
+![تسجيل البرنامج](https://docs.erpnext.com/files/education-program-enrollment-4.gif)
 
-## 4 \. فيديو
+## 4. فيديو

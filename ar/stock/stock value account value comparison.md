@@ -4,4 +4,4 @@
 
 > الصفحة الرئيسية> مخزون> تقارير أخرى> مقارنة قيمة المخزون والحساب
 
-! [تقرير الأسهم] (https://docs.erpnext.com/files/stock-value-account-value-comparison.png)
+![تقرير الأسهم](https://docs.erpnext.com/files/stock-value-account-value-comparison.png)

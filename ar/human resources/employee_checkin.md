@@ -1,22 +1,22 @@
-\n\n## تسجيل وصول الموظف
+## تسجيل وصول الموظف
 
 يتم استخدام تسجيل وصول الموظف للاحتفاظ بسجل لجميع عمليات تسجيل الوصول والمغادرة الخاصة بالموظف في المؤسسة. تستخدم معظم المؤسسات هذا في حسابات الحضور وإدارة المناوبات وساعات العمل.
 
-### 1 \. المتطلبات الأساسية
+### 1. المتطلبات الأساسية
 
 لإنشاء تسجيل وصول موظف ، عليك أولاً إنشاء:
 
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
     
 
 إذا كنت تريد تحديد ورديات في إجازات الموظفين وتريد معالجة الحضور التلقائي ، فأنت بحاجة إلى إنشاء المستندات التالية أيضًا:
 
-* [نوع التحول] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_type)
+* [نوع التحول](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_type)
     
-* [Shift Assignment] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_assignment) أو عيّن وردية افتراضية في مدير الموظف.
+* [Shift Assignment](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_assignment) أو عيّن وردية افتراضية في مدير الموظف.
     
 
-### 2 \. كيفية إنشاء تسجيل وصول الموظف
+### 2. كيفية إنشاء تسجيل وصول الموظف
 
 #### 2.1 إنشاء السجلات يدويًا
 
@@ -41,33 +41,33 @@
 8. يمكنك أيضًا التقاط الموقع من حيث قام الموظف بتسجيل الوصول أو معرّف جهاز المقاييس الحيوية.
     
 
-! [تسجيل وصول الموظف] (https://docs.erpnext.com/files/employee-checkin.png)
+![تسجيل وصول الموظف](https://docs.erpnext.com/files/employee-checkin.png)
 
 إذا تم تمكين الحضور التلقائي ، فسيتم ربط سجل الحضور المحدد لمجموعة من عمليات الوصول بالمستند لاحقًا.
 
 #### 2.2 دمج Frappe HR مع الأجهزة البيومترية
 
-إذا كنت تستخدم جهاز المقاييس الحيوية لتسجيل تسجيلات وصول الموظفين ومغادرتهم ، يمكنك استخدامه لإنشاء سجلات في Frappe HR. يمكنك قراءة المزيد حول هذا [هنا] (https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/articles/integrating-erpnext-with-biometric-attendance-devices).
+إذا كنت تستخدم جهاز المقاييس الحيوية لتسجيل تسجيلات وصول الموظفين ومغادرتهم ، يمكنك استخدامه لإنشاء سجلات في Frappe HR. يمكنك قراءة المزيد حول هذا [هنا](https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/articles/integrating-erpnext-with-biometric-attendance-devices).
 
 ## تسجيل وصول الموظف
 
 يتم استخدام تسجيل وصول الموظف للاحتفاظ بسجل لجميع عمليات تسجيل الوصول والمغادرة الخاصة بالموظف في المؤسسة. تستخدم معظم المؤسسات هذا في حسابات الحضور وإدارة المناوبات وساعات العمل.
 
-### 1 \. المتطلبات الأساسية
+### 1. المتطلبات الأساسية
 
 لإنشاء تسجيل وصول موظف ، عليك أولاً إنشاء:
 
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
     
 
 إذا كنت تريد تحديد ورديات في إجازات الموظفين وتريد معالجة الحضور التلقائي ، فأنت بحاجة إلى إنشاء المستندات التالية أيضًا:
 
-* [نوع التحول] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_type)
+* [نوع التحول](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_type)
     
-* [Shift Assignment] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_assignment) أو عيّن وردية افتراضية في مدير الموظف.
+* [Shift Assignment](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/shift_assignment) أو عيّن وردية افتراضية في مدير الموظف.
     
 
-### 2 \. كيفية إنشاء تسجيل وصول الموظف
+### 2. كيفية إنشاء تسجيل وصول الموظف
 
 #### 2.1 إنشاء السجلات يدويًا
 
@@ -92,10 +92,10 @@
 8. يمكنك أيضًا التقاط الموقع من حيث قام الموظف بتسجيل الوصول أو معرّف جهاز المقاييس الحيوية.
     
 
-! [تسجيل وصول الموظف] (https://docs.erpnext.com/files/employee-checkin.png)
+![تسجيل وصول الموظف](https://docs.erpnext.com/files/employee-checkin.png)
 
 إذا تم تمكين الحضور التلقائي ، فسيتم ربط سجل الحضور المحدد لمجموعة من عمليات الوصول بالمستند لاحقًا.
 
 #### 2.2 دمج Frappe HR مع الأجهزة البيومترية
 
-إذا كنت تستخدم جهاز المقاييس الحيوية لتسجيل تسجيلات وصول الموظفين ومغادرتهم ، يمكنك استخدامه لإنشاء سجلات في Frappe HR. يمكنك قراءة المزيد حول هذا [هنا] (https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/articles/integrating-erpnext-with-biometric-attendance-devices).
+إذا كنت تستخدم جهاز المقاييس الحيوية لتسجيل تسجيلات وصول الموظفين ومغادرتهم ، يمكنك استخدامه لإنشاء سجلات في Frappe HR. يمكنك قراءة المزيد حول هذا [هنا](https://docs.erpnext.com/docs/v14/user/manual/en/setting-up/articles/integrating-erpnext-with-biometric-attendance-devices).

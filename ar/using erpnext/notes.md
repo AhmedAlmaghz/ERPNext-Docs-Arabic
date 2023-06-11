@@ -6,7 +6,7 @@
 
 > الصفحة الرئيسية> أدوات> ملاحظة
 
-! [ملاحظات] (https://docs.erpnext.com/files/using-notes-1.png)
+![ملاحظات](https://docs.erpnext.com/files/using-notes-1.png)
 
 ## كيفية إنشاء ملاحظة جديدة
 
@@ -15,24 +15,24 @@
 3. أدخل محتوى الملاحظة. مربع المحتوى هو مربع محرر نصوص لتمكينك من تنسيق المحتوى وفقًا لمتطلباتك.
 4. حفظ.
 
-! [ملاحظات] (https://docs.erpnext.com/files/using-notes-2.png)
+![ملاحظات](https://docs.erpnext.com/files/using-notes-2.png)
 
 ### رؤية الملاحظات
 
 يمكنك تحديد ما إذا كنت تريد أن تكون هذه الملاحظة تحديدًا عامة أم لا. سيسمح لك جعل ملاحظة عامة بمشاركتها عبر المستخدمين في حساب ERPNext الخاص بك.
 
-! [ملاحظات] (https://docs.erpnext.com/files/using-notes-3.png)
+![ملاحظات](https://docs.erpnext.com/files/using-notes-3.png)
 
 بمجرد تمكين جعل ملاحظة عامة ، سيكون هناك مربع اختيار آخر ، يقول "أبلغ المستخدمين بنافذة منبثقة عند تسجيل الدخول".
 
-! [ملاحظات] (https://docs.erpnext.com/files/using-notes-5.png)
+![ملاحظات](https://docs.erpnext.com/files/using-notes-5.png)
 
 يمكنك أيضًا تحديد ما إذا كنت ترغب في منح بعض المستخدمين المحددين الحق في قراءة ملاحظتك أو كتابتها أو مشاركتها. يمكن القيام بذلك من خيار "مشاركة" في الشريط الجانبي الأيسر.
 
-! [ملاحظات] (https://docs.erpnext.com/files/using-notes-4.png)
+![ملاحظات](https://docs.erpnext.com/files/using-notes-4.png)
 
 ### إعلام للملاحظات
 
 سيضمن تمكين هذه الخاصية أنه كلما قام أي مستخدم بتسجيل الدخول إلى حسابه ، سيكون هناك إشعار منبثق للملاحظة.
 
-! [ملاحظات] (https://docs.erpnext.com/files/using-notes-7.png)
+![ملاحظات](https://docs.erpnext.com/files/using-notes-7.png)

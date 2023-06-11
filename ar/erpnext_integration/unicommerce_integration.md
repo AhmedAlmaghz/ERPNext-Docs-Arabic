@@ -1,4 +1,4 @@
-\n\n## تكامل التجارة الأحادية
+## تكامل التجارة الأحادية
 
 Unicommerce هو مجمع للعديد من منصات التجارة الإلكترونية التي تسمح لك ببيع العناصر من خلال العديد من الأسواق المدعومة وأمر العملية عبر واجهة موحدة تسمى Uniware. تعرف على المزيد حول Unicommerce على [https://unicommerce.com/](https://unicommerce.com/)
 
@@ -13,13 +13,13 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 ## تثبيت التطبيق
 
-* إذا كنت تستضيف موقع ERPNext الخاص بك على Frappe Cloud ، فيمكنك تثبيت التطبيق بسرعة من خلال الانتقال إلى لوحة التحكم في موقعك. التطبيق متاح في [Frappe Cloud Marketplace] (https://frappecloud.com/marketplace/apps/ecommerce_integrations)
+* إذا كنت تستضيف موقع ERPNext الخاص بك على Frappe Cloud ، فيمكنك تثبيت التطبيق بسرعة من خلال الانتقال إلى لوحة التحكم في موقعك. التطبيق متاح في [Frappe Cloud Marketplace](https://frappecloud.com/marketplace/apps/ecommerce_integrations)
 * إذا كان موقعك مستضافًا بواسطة Frappe ، فيرجى رفع تذكرة دعم لتثبيت التطبيق على موقعك.
-* إذا كنت تستضيف ERPNext بنفسك ، يمكنك تثبيت التطبيق باستخدام مقعد Frappe. راجع [وثائق مقاعد البدلاء] (https://frappeframework.com/docs/user/en/bench/frappe-commands#app-installation) لتثبيت تطبيقات Frappe. "التجارة الإلكترونية_تكامل get-app - الفرع الرئيسي"
+* إذا كنت تستضيف ERPNext بنفسك ، يمكنك تثبيت التطبيق باستخدام مقعد Frappe. راجع [وثائق مقاعد البدلاء](https://frappeframework.com/docs/user/en/bench/frappe-commands#app-installation) لتثبيت تطبيقات Frappe. "التجارة الإلكترونية_تكامل get-app - الفرع الرئيسي"
 
 ## المصادقة والإعداد الأساسي
 
-! [إعداد مصادقة unicommerce] (https://docs.erpnext.com/files/unicommerce-auth-setup.png)
+![إعداد مصادقة unicommerce](https://docs.erpnext.com/files/unicommerce-auth-setup.png)
 
 1. بمجرد تثبيت التطبيق ، انتقل إلى صفحة "Unicommerce Settings".
 2. انقر فوق مربع الاختيار "تمكين التجارة الموحدة".
@@ -51,7 +51,7 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 1. ابحث أولاً عن رمز فئة المنتج على Unicommerce.
 2. افتح مجموعة العناصر ذات الصلة على ERPNext وقم بتحديث رمز فئة منتج Unicommerce هناك.
 
-! [فئة منتج Unicommerce] (https://docs.erpnext.com/files/unicommerce-product-category.png)! [مجموعة عناصر ERPNext] (https://docs.erpnext.com/files/erpnext-item- group.png)
+![فئة منتج Unicommerce](https://docs.erpnext.com/files/unicommerce-product-category.png)![مجموعة عناصر ERPNext](https://docs.erpnext.com/files/erpnext-item- group.png)
 
 يتم تعيين حقل مزامنة العنصر على النحو التالي:
 
@@ -91,7 +91,7 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 فيما يلي سير العمل لمعالجة الطلبات على ERPNext. يمكنك أيضًا بدلاً من ذلك معالجة الطلبات على Unicommerce ومزامنة الطلب النهائي فقط.
 
-! [سير عمل Unicommerce] (https://docs.erpnext.com/files/unicommerce_workflow.png)
+![سير عمل Unicommerce](https://docs.erpnext.com/files/unicommerce_workflow.png)
 
 ## مزامنة طلب المبيعات - إعداد القناة (القنوات)
 
@@ -99,7 +99,7 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 ### الإعدادات الافتراضية لمزامنة طلب المبيعات
 
-! [مزامنة أمر المبيعات الافتراضية] (https://docs.erpnext.com/files/sales-order-sync.png)
+![مزامنة أمر المبيعات الافتراضية](https://docs.erpnext.com/files/sales-order-sync.png)
 
 1. اذهب إلى "Unicommerce Settings".
 2. قم بالتمرير إلى قسم إعداد "مزامنة أمر المبيعات".
@@ -108,7 +108,7 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 ### تكوينات مزامنة طلبات المبيعات الخاصة بالقناة
 
-! [مزامنة أمر مبيعات معين للقناة] (https://docs.erpnext.com/files/unicommerce-channel-setup.png)
+![مزامنة أمر مبيعات معين للقناة](https://docs.erpnext.com/files/unicommerce-channel-setup.png)
 
 للسماح بتكوين مرن لكل قناة ، يلزمك إنشاء مستند "Unicommerce Channel" لكل قناة تريد تمكينها لمزامنة أمر المبيعات.
 
@@ -124,17 +124,17 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 يمكن معالجة مزامنة فاتورة المبيعات بإحدى طريقتين. يرجى تحديد الخيار المناسب حسب احتياجاتك.
 
-#### 1 \. معالجة الفاتورة على Unicommerce (موصى به)
+#### 1. معالجة الفاتورة على Unicommerce (موصى به)
 
 إذا كنت ترغب في معالجة الطلبات والفواتير على Unicommerce ومزامنة الطلبات التي تمت معالجتها بالكامل فقط في ERPNext ، فقم بتمكين "مزامنة الطلبات المكتملة فقط" في إعدادات Unicommerce.
 
-#### 2 \. معالجة الفاتورة على ERPNext
+#### 2. معالجة الفاتورة على ERPNext
 
 إذا كنت ترغب في معالجة الطلبات من ERPNext فقط ، فأنت بحاجة إلى إنشاء فاتورة من أمر مبيعات ERPNext.
 
 لإنشاء فاتورة ، انتقل إلى أمر مبيعات Unicommerce المتزامن ، وانقر فوق "التجارة الموحدة> إنشاء فاتورة". سيؤدي هذا إلى إنشاء فاتورة مبيعات وخصم المخزون أيضًا.
 
-! [إنشاء زر الفاتورة] (https://docs.erpnext.com/files/generate-invoice.png)
+![إنشاء زر الفاتورة](https://docs.erpnext.com/files/generate-invoice.png)
 
 ## بيان الشحن
 
@@ -142,7 +142,7 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 المتطلبات المسبقة هي إعداد أنواع الدليل التالية ، ويمكنك العثور على التعليمات البرمجية في صفحة إنشاء بيان Unicommerce: 1. إنشاء موفر شحن Unicommerce 2. إنشاء طريقة شحن Unicommerce
 
-! [بيان شحنة Unicommerce] (https://docs.erpnext.com/files/shipment-manifest.png)
+![بيان شحنة Unicommerce](https://docs.erpnext.com/files/shipment-manifest.png)
 
 عملية إنشاء البيان:
 
@@ -154,7 +154,7 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 ## تحديثات الحالة
 
-! [قسم تفاصيل التجارة الموحدة] (https://docs.erpnext.com/files/unicommerce-details-section.png)
+![قسم تفاصيل التجارة الموحدة](https://docs.erpnext.com/files/unicommerce-details-section.png)
 
 يتم تحديث حالة التجارة الموحدة بشكل دوري في ERPNext ، يمكنك الاطلاع على الحالة الحالية في قسم "تفاصيل التجارة الموحدة".
 
@@ -175,4 +175,4 @@ Unicommerce هو مجمع للعديد من منصات التجارة الإلك
 
 أثناء إنشاء المرتجعات ، يتم اختيار مستودع المرتجعات بناءً على مستودع المرتجعات المكون في إعدادات التجارة غير الرسمية. إذا لم يتم تعيينه ، فسيتم استخدام المستودع الأصلي.
 
-! [مستودع إرجاع Unicommerce] (https://docs.erpnext.com/files/return-warehouse-map.png)
+![مستودع إرجاع Unicommerce](https://docs.erpnext.com/files/return-warehouse-map.png)

@@ -1,4 +1,4 @@
-\n## موقع إلكتروني
+## موقع إلكتروني
 
 تعد مواقع الويب مكونًا أساسيًا لأي عمل تجاري. عادةً ما يعني امتلاك موقع ويب جيد الوقوع في عقبات مثل استثمار الكثير من المال ، وصعوبة التحديث ، وعدم تفاعله.
 
@@ -11,8 +11,8 @@
 
 على الرغم من أنه ليس ضروريًا ، لإنشاء موقع ويب جيد ، فقد تضطر إلى معرفة القليل من HTML / CSS أو استئجار خدمات محترف. الجزء الجيد هو أنه بمجرد إعداد ذلك ، يمكنك إضافة وتحرير المحتوى والمدونات والمنتجات مباشرة من حساب ERPNext الخاص بك.
 
-يمكنك التحقق من [هذا الفيديو] (https://www.youtube.com/watch؟v=lyW6mfFBSNw) للحصول على عرض توضيحي لوحدة موقع الويب في ERPNext.
+يمكنك التحقق من [هذا الفيديو](https://www.youtube.com/watch؟v=lyW6mfFBSNw) للحصول على عرض توضيحي لوحدة موقع الويب في ERPNext.
 
 ## فيديو تعليمي
 
-1. [Website Module Frappe School Course] (https://frappe.school/courses/website-management)
+1. [Website Module Frappe School Course](https://frappe.school/courses/website-management)

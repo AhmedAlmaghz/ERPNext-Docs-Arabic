@@ -1,40 +1,40 @@
-\n## هيكل الرسوم
+## هيكل الرسوم
 
-** هيكل الرسوم هو نموذج يمكن استخدامه أثناء عمل سجلات الرسوم أو إنشائها عبر جدول الرسوم. **
+**هيكل الرسوم هو نموذج يمكن استخدامه أثناء عمل سجلات الرسوم أو إنشائها عبر جدول الرسوم.**
 
-يمكن جلب هيكل الرسوم أثناء إنشاء [الرسوم] (https://docs.erpnext.com/docs/v13/user/manual/en/education/fees) لكل طالب.
+يمكن جلب هيكل الرسوم أثناء إنشاء [الرسوم](https://docs.erpnext.com/docs/v13/user/manual/en/education/fees) لكل طالب.
 
-! [هيكل الرسوم] (https://docs.erpnext.com/files/education-fee-structure-2.png)
+![هيكل الرسوم](https://docs.erpnext.com/files/education-fee-structure-2.png)
 
 للوصول إلى هيكل الرسوم ، انتقل إلى:
 
 > الرئيسية> التعليم> الرسوم> هيكل الرسوم
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء هيكل الرسوم ، يُنصح بإنشاء التالي أولاً:
 
-1. [مصطلح أكاديمي] (https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-term)
-2. [العام الدراسي] (https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-year)
-3. [البرنامج] (https://docs.erpnext.com/docs/v13/user/manual/en/education/program)
-4. [فئة الطالب] (https://docs.erpnext.com/docs/v13/user/manual/en/education/student-category)
+1. [مصطلح أكاديمي](https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-term)
+2. [العام الدراسي](https://docs.erpnext.com/docs/v13/user/manual/en/education/academic-year)
+3. [البرنامج](https://docs.erpnext.com/docs/v13/user/manual/en/education/program)
+4. [فئة الطالب](https://docs.erpnext.com/docs/v13/user/manual/en/education/student-category)
 
-## 2 \. كيفية إنشاء هيكل الرسوم
+## 2. كيفية إنشاء هيكل الرسوم
 
 1. اذهب إلى قائمة هيكل الرسوم وانقر على جديد.
-2. حدد وأضف ** البرنامج ** والتفاصيل الأخرى لهيكل الرسوم.
-3. في جدول المكونات ، أدخل ** فئة الرسوم ** و ** المبلغ **.
+2. حدد وأضف**البرنامج**والتفاصيل الأخرى لهيكل الرسوم.
+3. في جدول المكونات ، أدخل**فئة الرسوم**و**المبلغ**.
 4. حفظ وإرسال.
     
-    ! [هيكل الرسوم] (https://docs.erpnext.com/files/education-fee-structure-1.gif)
+    ![هيكل الرسوم](https://docs.erpnext.com/files/education-fee-structure-1.gif)
     
 
 ### 2.1. خيارات إضافية أثناء إنشاء هيكل الرسوم.
 
-* أدخل التفاصيل الأساسية مثل ** فئة الطالب ** ، ** الفصل الدراسي ** و ** العام الأكاديمي **.
-* في جدول المكونات ، أضف ** الوصف ** لفئة الرسوم.
+* أدخل التفاصيل الأساسية مثل**فئة الطالب**،**الفصل الدراسي**و**العام الأكاديمي**.
+* في جدول المكونات ، أضف**الوصف**لفئة الرسوم.
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1. حسابات
 
@@ -42,20 +42,20 @@
 
 لتسهيل ذلك بسلاسة ، يمكنك إضافة تفاصيل حساباتك في هيكل الرسوم.
 
-* ** حساب المدين **: أدخل اسم حساب المدين لمؤسستك.
-* ** حساب الدخل **: حدد وأضف حساب الدخل لمؤسستك.
-* ** الشركة **: حدد وأضف الشركة التي يتم بموجبها إجراء جميع المدفوعات. إذا كان هناك العديد من المؤسسات في حساب ERPNext الخاص بك ، أو إذا تم التعامل مع الحسابات بواسطة شركة شقيقة.
+***حساب المدين**: أدخل اسم حساب المدين لمؤسستك.
+***حساب الدخل**: حدد وأضف حساب الدخل لمؤسستك.
+***الشركة**: حدد وأضف الشركة التي يتم بموجبها إجراء جميع المدفوعات. إذا كان هناك العديد من المؤسسات في حساب ERPNext الخاص بك ، أو إذا تم التعامل مع الحسابات بواسطة شركة شقيقة.
 
 ### 2.2. أبعاد المحاسبة
 
-* ** مركز التكلفة **: حدد وأضف اسم مركز التكلفة التابع لمعهد أبعاد المحاسبة.
+***مركز التكلفة**: حدد وأضف اسم مركز التكلفة التابع لمعهد أبعاد المحاسبة.
 
-! [هيكل الرسوم] (https://docs.erpnext.com/files/education-fee-structure-3.png)
+![هيكل الرسوم](https://docs.erpnext.com/files/education-fee-structure-3.png)
 
-## 3 \. بعد تقديم هيكل الرسوم
+## 3. بعد تقديم هيكل الرسوم
 
-بمجرد إرسال هيكل الرسوم ، ستتمكن من إنشاء [جدول الرسوم] (https://docs.erpnext.com/docs/v13/user/manual/en/education/fee-schedule) من داخل هيكل الرسوم .
+بمجرد إرسال هيكل الرسوم ، ستتمكن من إنشاء [جدول الرسوم](https://docs.erpnext.com/docs/v13/user/manual/en/education/fee-schedule) من داخل هيكل الرسوم .
 
-! [هيكل الرسوم] (https://docs.erpnext.com/files/education-fee-structure-4.png)
+![هيكل الرسوم](https://docs.erpnext.com/files/education-fee-structure-4.png)
 
-## 4 \. دروس فيديو لهيكل الرسوم
+## 4. دروس فيديو لهيكل الرسوم

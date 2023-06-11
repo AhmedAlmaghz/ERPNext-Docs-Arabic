@@ -1,4 +1,4 @@
-\n## دورة المحاصيل
+## دورة المحاصيل
 
 بمجرد تحديد محصولنا ، يمكننا إنشاء العديد من دورات المحاصيل كما نرغب ، باستخدام المعلمات الموضحة مسبقًا
 
@@ -19,7 +19,7 @@
 
 يجب أن يبدو الآن شيئًا كهذا
 
-! [مهمة] (https://docs.erpnext.com/files/crop_cycle.png)
+![مهمة](https://docs.erpnext.com/files/crop_cycle.png)
 
 كرر هذه لكل دورة المحاصيل التي تحتاجها
 
@@ -27,4 +27,4 @@
 
 > المشاريع> المشروع
 
-! [مهمة] (https://docs.erpnext.com/files/projects.png)
+![مهمة](https://docs.erpnext.com/files/projects.png)

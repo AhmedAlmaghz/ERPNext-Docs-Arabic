@@ -1,4 +1,4 @@
-\nأثناء إنشاء أي نوع DocType ، قد ترغب في ربط حقل معين بنوع DocType آخر. على سبيل المثال ، في DocType طلب المبيعات ، يسمح لك حقل "العميل" بتحديد عميل حالي. تسمى هذه الحقول [Link Fields] (https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/field-types#link).
+\nأثناء إنشاء أي نوع DocType ، قد ترغب في ربط حقل معين بنوع DocType آخر. على سبيل المثال ، في DocType طلب المبيعات ، يسمح لك حقل "العميل" بتحديد عميل حالي. تسمى هذه الحقول [Link Fields](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/field-types#link).
 
 باستخدام حقول الارتباط ، يمكنك إنشاء ملف
 
@@ -16,10 +16,10 @@
 
 تحديث اسم حقل المستودع في حقل البحث حسب.
 
-! [البحث في نموذج التخصيص] (https://docs.erpnext.com/files/customize-search-record-1.png)
+![البحث في نموذج التخصيص](https://docs.erpnext.com/files/customize-search-record-1.png)
 
-! [البحث في نموذج التخصيص] (https://docs.erpnext.com/files/customize-search-record-2.png)
+![البحث في نموذج التخصيص](https://docs.erpnext.com/files/customize-search-record-2.png)
 
 بمجرد تحديث هذه الإعدادات ، أثناء إنشاء طلب المبيعات ، عند تحديد العنصر ، ستتمكن أيضًا من الوصول إلى المستودع هناك.
 
-! [البحث في نموذج التخصيص] (https://docs.erpnext.com/files/customize-search-record-3.png)
+![البحث في نموذج التخصيص](https://docs.erpnext.com/files/customize-search-record-3.png)

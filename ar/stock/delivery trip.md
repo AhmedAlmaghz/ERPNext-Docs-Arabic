@@ -1,26 +1,26 @@
-\n## رحلة توصيل
+## رحلة توصيل
 
-** تسجل رحلة التسليم عمليات تسليم العملاء في سيارة واحدة. **
+**تسجل رحلة التسليم عمليات تسليم العملاء في سيارة واحدة.**
 
 يمكن أيضًا إضافة نقاط توقف متعددة ويمكن وضع علامة على مذكرة التسليم المرسلة لكل عميل.
 
-## 1 \. كيفية إنشاء رحلة توصيل
+## 1. كيفية إنشاء رحلة توصيل
 
-يمكن إنشاء رحلة توصيل من [مذكرة التسليم] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note) بالنقر على "إنشاء> رحلة التسليم".
+يمكن إنشاء رحلة توصيل من [مذكرة التسليم](https://docs.erpnext.com/docs/v13/user/manual/en/stock/delivery-note) بالنقر على "إنشاء> رحلة التسليم".
 
-1. انتقل إلى: ** المخزون> معاملات المخزون> رحلة التسليم> جديد **
+1. انتقل إلى:**المخزون> معاملات المخزون> رحلة التسليم> جديد**
 2. حدد السائق والمركبة ، وأنشئ كلاهما إن لم يكن موجودًا.
 3. تعيين التاريخ وتاريخ المغادرة والوقت.
 4. أضف عملاء لإيقاف التسليم ، سيتم جلب العنوان إذا تم تعيينه بالفعل. يمكن أيضًا جلب العملاء بالنقر فوق "الحصول على عملاء من> مذكرة التسليم". يمكن إضافة نقاط توقف تسليم إضافية عن طريق النقر فوق الزر "إضافة صف" قبل الإرسال:
     
-    ! [التسليم] (https://docs.erpnext.com/files/delivery_stops.png)
+    ![التسليم](https://docs.erpnext.com/files/delivery_stops.png)
     
 5. حفظ وتقديم.
     
-    ! [التوصيل] (https://docs.erpnext.com/files/delivery_trip.png)
+    ![التوصيل](https://docs.erpnext.com/files/delivery_trip.png)
     
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 احسب أوقات الوصول المقدرة
 
@@ -30,5 +30,5 @@
 
 باستخدام خرائط Google ، سيتم حساب أفضل طريق للتسليم.
 
-1. [قسيمة التعبئة] (https://docs.erpnext.com/docs/v13/user/manual/en/stock/packing-slip)
-2. [قاعدة الشحن] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/shipping-rule)
+1. [قسيمة التعبئة](https://docs.erpnext.com/docs/v13/user/manual/en/stock/packing-slip)
+2. [قاعدة الشحن](https://docs.erpnext.com/docs/v13/user/manual/en/selling/shipping-rule)

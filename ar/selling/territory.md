@@ -1,6 +1,6 @@
-\n## إِقلِيم
+## إِقلِيم
 
-** المنطقة هي منطقة جغرافية تمارس فيها نشاطًا تجاريًا. **
+**المنطقة هي منطقة جغرافية تمارس فيها نشاطًا تجاريًا.**
 
 في ERPNext ، يتم استخدام المنطقة لتصنيف العملاء والعناوين والتقرير المحاسبي وأهداف المبيعات المخصصة.
 
@@ -8,18 +8,18 @@
 
 > الصفحة الرئيسية> البيع> الإعدادات> المنطقة الجغرافية
 
-## 1 \. كيفية إنشاء منطقة
+## 1. كيفية إنشاء منطقة
 
 1. انتقل إلى قائمة المنطقة ، وانقر فوق جديد.
 2. ضع علامة على "عقدة المجموعة" إذا كان سيكون هناك أقاليم فرعية تحت هذا الإقليم. على سبيل المثال ، فرنسا هي منطقة مجموعة وباريس هي منطقة فرعية.
 3. حفظ.
     
-    ! [قائمة المناطق] (https://docs.erpnext.com/files/territory-list.png)
+    ![قائمة المناطق](https://docs.erpnext.com/files/territory-list.png)
     
 
 يمكنك إضافة مناطق فرعية متعددة ضمن منطقة أصل. عند الحفظ ، يمكن تحديد منطقة في المعاملات والتقارير.
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 تعيين مدير إقليم
 
@@ -35,9 +35,9 @@
 * المبلغ المستهدف
 * التوزيع المستهدف
 
-! [هدف المنطقة] (https://docs.erpnext.com/files/territory-target.png)
+![هدف المنطقة](https://docs.erpnext.com/files/territory-target.png)
 
-لمعرفة المزيد حول تحديد أهداف المبيعات ، تفضل بزيارة صفحة [تخصيص هدف مندوب المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-person-target-allocation)
+لمعرفة المزيد حول تحديد أهداف المبيعات ، تفضل بزيارة صفحة [تخصيص هدف مندوب المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-person-target-allocation)
 
-1. [العميل] (https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
-2. [العنوان] (https://docs.erpnext.com/docs/v13/user/manual/en/CRM/address)
+1. [العميل](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+2. [العنوان](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/address)

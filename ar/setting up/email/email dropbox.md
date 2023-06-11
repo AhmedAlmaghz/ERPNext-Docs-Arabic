@@ -4,24 +4,24 @@
 
 عند التمكين ، سيكون لكل سجل في ERPNext عنوان بريد إلكتروني فريد خاص به يمكنك إعادة توجيه رسائل البريد الإلكتروني إليه. يمكنك النقر فوق عنوان البريد الإلكتروني لنسخه إلى الحافظة الخاصة بك ، والتي يمكن إضافتها بعد ذلك إلى حقل "إلى" أو "نسخة إلى" أو "نسخة مخفية الوجهة" للبريد الإلكتروني الذي ترغب في إرساله.
 
-## 1 \. تمكين ميزة البريد الإلكتروني Dropbox
+## 1. تمكين ميزة البريد الإلكتروني Dropbox
 
-في [حساب البريد الإلكتروني] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account) ، حدد "تمكين صندوق تحميل البريد الإلكتروني".
+في [حساب البريد الإلكتروني](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account) ، حدد "تمكين صندوق تحميل البريد الإلكتروني".
 
-! [Enable Email Dropbox] (https://docs.erpnext.com/files/enable_email_dropbox.png)
+![Enable Email Dropbox](https://docs.erpnext.com/files/enable_email_dropbox.png)
 
-## 2 \. انسخ عنوان البريد الإلكتروني الفريد في أي سجل
+## 2. انسخ عنوان البريد الإلكتروني الفريد في أي سجل
 
 بمجرد تمكين ميزة Email Dropbox ، يصبح عنوان البريد الإلكتروني الفريد مرئيًا في جميع السجلات. يمكنك النقر فوق نفس العنوان ويتم نسخ العنوان إلى الحافظة الخاصة بك. يمكنك لصقها مباشرة في "إلى" أو "نسخة إلى" أو "نسخة مخفية الوجهة" وإرسال البريد الإلكتروني.
 
-! [عنوان بريد إلكتروني فريد] (https://docs.erpnext.com/files/unique_email_address_dropbox.png)
+![عنوان بريد إلكتروني فريد](https://docs.erpnext.com/files/unique_email_address_dropbox.png)
 
-## 3 \. البريد الإلكتروني في الجدول الزمني
+## 3. البريد الإلكتروني في الجدول الزمني
 
 بمجرد استلام البريد الإلكتروني ، يقوم ERPNext بإرفاقه بالسجل المناسب وسيكون مرئيًا في المخطط الزمني لهذا السجل.
 
-! [بريد إلكتروني في المخطط الزمني] (https://docs.erpnext.com/files/email_in_timeline.png)
+![بريد إلكتروني في المخطط الزمني](https://docs.erpnext.com/files/email_in_timeline.png)
 
-1. [مجال البريد الإلكتروني] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-domain)
-2. [حساب البريد الإلكتروني] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account)
-3. [صندوق البريد الإلكتروني] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-inbox)
+1. [مجال البريد الإلكتروني](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-domain)
+2. [حساب البريد الإلكتروني](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account)
+3. [صندوق البريد الإلكتروني](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-inbox)

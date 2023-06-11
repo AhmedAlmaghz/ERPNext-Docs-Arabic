@@ -1,4 +1,4 @@
-\n## مرشحات أبعاد المحاسبة
+## مرشحات أبعاد المحاسبة
 
 > مقدمة في الإصدار 13
 
@@ -8,7 +8,7 @@
 
 > الرئيسية> المحاسبة> فلاتر أبعاد المحاسبة
 
-## 1 \. كيفية إنشاء عامل تصفية البعد المحاسبي في ERPNext.
+## 1. كيفية إنشاء عامل تصفية البعد المحاسبي في ERPNext.
 
 1. اذهب إلى قائمة عامل تصفية البعد المحاسبي وانقر على جديد.
 2. حدد البعد المحاسبي الذي يجب تطبيق القيد عليه.
@@ -16,24 +16,24 @@
 4. أضف الحسابات التي سيتم تطبيق القيود عليها في جدول الحسابات. اختياريًا ، يمكنك أيضًا تحديد مربع الاختيار "إلزامي" إذا كان يجب جعل بُعد المحاسبة إلزاميًا لأي حساب محدد.
 5. أضف قيم الأبعاد في جدول الأبعاد التي سيتم السماح بها أو تقييدها للحسابات المذكورة.
 
-! [إنشاء عامل تصفية مكون المحاسبة] (https://docs.erpnext.com/files/accounting-dimension-filter.png)
+![إنشاء عامل تصفية مكون المحاسبة](https://docs.erpnext.com/files/accounting-dimension-filter.png)
 
-## 2 \. سمات
+## 2. سمات
 
 ### 2.1 تصفية أبعاد المحاسبة في المعاملات
 
 بناءً على القيود المطبقة على الحساب ، سيتم تصفية وعرض الأبعاد المسموح بها فقط في المعاملات.
 
-! [أبعاد المحاسبة مع عوامل التصفية] (https://docs.erpnext.com/files/accounting-dimension-with-filters.png)
+![أبعاد المحاسبة مع عوامل التصفية](https://docs.erpnext.com/files/accounting-dimension-with-filters.png)
 
 ### 2.2 عمليات التحقق من صحة الأبعاد غير الصالحة والإلزامية
 
 في حالة فقد أي بُعد إلزامي أو تم تمييز بُعد مقيد مقابل أي حساب قابل للتطبيق ، فلن يسمح النظام بإرسال تلك المعاملة حتى يتم تحديد البعد المحاسبي الصحيح.
 
-! [أبعاد غير صالحة] (https://docs.erpnext.com/files/invalid-dimension.png)
+![أبعاد غير صالحة](https://docs.erpnext.com/files/invalid-dimension.png)
 
-! [البعد الإلزامي] (https://docs.erpnext.com/files/mandatory-dimension.png)
+![البعد الإلزامي](https://docs.erpnext.com/files/mandatory-dimension.png)
 
-1. [مركز التكلفة] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/cost-center)
-2. [الميزانية] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting)
-3. [أبعاد المحاسبة] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions)
+1. [مركز التكلفة](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/cost-center)
+2. [الميزانية](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/budgeting)
+3. [أبعاد المحاسبة](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions)

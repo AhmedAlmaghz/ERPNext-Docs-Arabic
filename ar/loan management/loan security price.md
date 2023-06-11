@@ -1,8 +1,8 @@
-\n## سعر ضمان القرض
+## سعر ضمان القرض
 
 > مقدمة في الإصدار 13
 
-** سعر ضمان القرض هو السجل الذي يمكنك من خلاله تسجيل سعر ضمان القرض وصلاحيته. **
+**سعر ضمان القرض هو السجل الذي يمكنك من خلاله تسجيل سعر ضمان القرض وصلاحيته.**
 
 أثناء عملية تحديث سعر سند القرض ، يتم استخدام سعر ضمان القرض لجلب سعر ضمان القرض الصالح للتحديث.
 
@@ -10,16 +10,16 @@
 
 > الصفحة الرئيسية> إدارة القروض> ضمان القرض> سعر ضمان القرض
 
-! [سعر ضمان القرض] (https://docs.erpnext.com/files/loan-security-price.png)
+![سعر ضمان القرض](https://docs.erpnext.com/files/loan-security-price.png)
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء سعر ضمان القرض واستخدامه ، يُنصح بإنشاء ما يلي أولاً:
 
-* [نوع ضمان القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
-* [قرض الضمان] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security)
+* [نوع ضمان القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
+* [قرض الضمان](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security)
 
-## 2 \. كيفية إنشاء سعر ضمان القرض
+## 2. كيفية إنشاء سعر ضمان القرض
 
 1. اذهب إلى قائمة أسعار ضمان القرض ، وانقر على جديد.
 2. حدد ضمان القرض. سيتم جلب نوع ضمان القرض و UOM تلقائيًا من مدير نوع ضمان القرض.

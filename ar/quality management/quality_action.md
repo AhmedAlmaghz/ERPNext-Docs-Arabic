@@ -1,8 +1,8 @@
-\n## جودة العمل
+## جودة العمل
 
 > مقدمة في الإصدار 12
 
-** يتم اتخاذ إجراء الجودة في مراجعة الجودة لتصحيح النتائج غير المرضية أو منع حدوثها. **
+**يتم اتخاذ إجراء الجودة في مراجعة الجودة لتصحيح النتائج غير المرضية أو منع حدوثها.**
 
 إجراءات الجودة هي ميزة قياسية للسماح بتنفيذ الإجراءات التصحيحية والوقائية. سيلبي هذا الامتثال للوائح الصناعة بما في ذلك GMP و ISO 9001 و 14001 و TSCA و REACH وما إلى ذلك.
 
@@ -14,13 +14,13 @@
 
 > الصفحة الرئيسية> الجودة> المراجعة والعمل> إجراءات الجودة
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء إجراء الجودة واستخدامه ، يُنصح بإنشاء ما يلي أولاً:
 
-* [مراجعة الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review) أو [Quality feedback] (https://docs.erpnext.com/docs/ الإصدار 13 / المستخدم / دليل / ar / إدارة الجودة / quality_feedback)
+* [مراجعة الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review) أو [Quality feedback](https://docs.erpnext.com/docs/ الإصدار 13 / المستخدم / دليل / ar / إدارة الجودة / quality_feedback)
 
-## 2 \. كيفية إنشاء إجراء الجودة
+## 2. كيفية إنشاء إجراء الجودة
 
 1. انتقل إلى قائمة إجراءات الجودة ، وانقر فوق جديد.
 2. حدد ما إذا كان إجراءً تصحيحيًا أم وقائيًا. يشير هذا إلى ما إذا تمت جدولة الإجراء للأغراض التصحيحية أو الوقائية.
@@ -31,8 +31,8 @@
 
 يشير حقل الحالة إلى ما إذا كان إجراء الجودة مفتوحًا ومستمرًا أم مغلقًا.
 
-! [إدارة الجودة] (https://docs.erpnext.com/files/action.gif)
+![إدارة الجودة](https://docs.erpnext.com/files/action.gif)
 
-* [هدف الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_goal)
-* [مراجعة الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review)
-* [إجراء الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)
+* [هدف الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_goal)
+* [مراجعة الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review)
+* [إجراء الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)

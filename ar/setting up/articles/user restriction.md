@@ -10,10 +10,10 @@
 
 حدد نوع المستند الذي تريد تعيين إذن المستخدم له. بعد تحميل الأذونات للمستند المحدد ، قم بالتمرير إلى الدور الذي تريد تعيين التقييد له.
 
-! [طلب المبيعات] (https://docs.erpnext.com/files/customize-user-permissions-2.png)
+![طلب المبيعات](https://docs.erpnext.com/files/customize-user-permissions-2.png)
 
 #### الخطوة 3: تطبيق إذن المستخدم
 
 لكي يتم تقييد الدور (مستخدم المبيعات في هذه الحالة) ، حدد "Only If Creator".
 
-! [S] (https://docs.erpnext.com/files/customize-user-permissions-1.png)
+![S](https://docs.erpnext.com/files/customize-user-permissions-1.png)

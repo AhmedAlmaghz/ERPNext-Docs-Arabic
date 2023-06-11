@@ -1,4 +1,4 @@
-\n\n## Shopify التكامل
+## Shopify التكامل
 
 يسحب رابط Shopify الطلبات من Shopify ويقوم بإنشاء أمر مبيعات ضدها في ERPNext.
 
@@ -6,7 +6,7 @@
 
 ### كيفية إعداد الموصل؟
 
-تم نقل Shopify Connector من ERPNext ومتاح من خلال تطبيق Frappe على [Frappe Cloud Marketplace] (https://frappecloud.com/marketplace/apps/ecommerce_integrations)
+تم نقل Shopify Connector من ERPNext ومتاح من خلال تطبيق Frappe على [Frappe Cloud Marketplace](https://frappecloud.com/marketplace/apps/ecommerce_integrations)
 
 #### ملاحظة لمستخدمي Shopify رابط القديم
 
@@ -16,21 +16,21 @@
 
 #### تثبيت التطبيق
 
-* إذا كنت تستضيف موقع ERPNext الخاص بك على Frappe Cloud ، فيمكنك تثبيت التطبيق بسرعة من خلال الانتقال إلى لوحة التحكم في موقعك. التطبيق متاح في [Frappe Cloud Marketplace] (https://frappecloud.com/marketplace/apps/ecommerce_integrations)
+* إذا كنت تستضيف موقع ERPNext الخاص بك على Frappe Cloud ، فيمكنك تثبيت التطبيق بسرعة من خلال الانتقال إلى لوحة التحكم في موقعك. التطبيق متاح في [Frappe Cloud Marketplace](https://frappecloud.com/marketplace/apps/ecommerce_integrations)
 * إذا كان موقعك مستضافًا بواسطة Frappe ، فيرجى رفع تذكرة دعم لتثبيت التطبيق على موقعك.
-* إذا كنت تستضيف ERPNext بنفسك ، يمكنك تثبيت التطبيق باستخدام مقعد Frappe. راجع [وثائق مقاعد البدلاء] (https://frappeframework.com/docs/user/en/bench/frappe-commands#app-installation) لتثبيت تطبيقات Frappe. "التجارة الإلكترونية_تكامل get-app - الفرع الرئيسي"
+* إذا كنت تستضيف ERPNext بنفسك ، يمكنك تثبيت التطبيق باستخدام مقعد Frappe. راجع [وثائق مقاعد البدلاء](https://frappeframework.com/docs/user/en/bench/frappe-commands#app-installation) لتثبيت تطبيقات Frappe. "التجارة الإلكترونية_تكامل get-app - الفرع الرئيسي"
 
 يتم استضافة مستودع التطبيق على GitHub: [http://github.com/frappe/ecommerce\_integrations/](http://github.com/frappe/ecommerce_integrations/)
 
 #### إنشاء تطبيق مخصص في Shopify
 
-1. انقر فوق التطبيقات في شريط القوائم! [قسم القائمة] (https://docs.erpnext.com/files/app_menu.png)
+1. انقر فوق التطبيقات في شريط القوائم![قسم القائمة](https://docs.erpnext.com/files/app_menu.png)
     
-2. انقر فوق ** تطوير تطبيقات لمتجرك ** لإنشاء تطبيق مخصص! [تطبيق جديد] (https://docs.erpnext.com/files/Screenshot٪202022-02-16٪20at٪2011.36.57٪20AM .بي إن جي)
+2. انقر فوق**تطوير تطبيقات لمتجرك**لإنشاء تطبيق مخصص![تطبيق جديد](https://docs.erpnext.com/files/Screenshot٪202022-02-16٪20at٪2011.36.57٪20AM .بي إن جي)
     
-3. إنشاء تطبيق جديد! [] (https://docs.erpnext.com/files/new_app.png)
+3. إنشاء تطبيق جديد![](https://docs.erpnext.com/files/new_app.png)
     
-4. املأ التفاصيل وإنشاء التطبيق. يحتوي كل تطبيق على مفتاح API وكلمة مرور وسر مشترك خاص به! [] (https://docs.erpnext.com/files/configure_admin_scope.png)
+4. املأ التفاصيل وإنشاء التطبيق. يحتوي كل تطبيق على مفتاح API وكلمة مرور وسر مشترك خاص به![](https://docs.erpnext.com/files/configure_admin_scope.png)
     
 5. السماح للأذونات التالية للتطبيق.
     
@@ -45,9 +45,9 @@
     
     يجب أن تبدو نطاقاتك الإدارية النهائية كما يلي:
     
-    ! [] (https://docs.erpnext.com/files/final_admin_scopes.png)
+    ![](https://docs.erpnext.com/files/final_admin_scopes.png)
     
-6. قم بتثبيت التطبيق على موقعك! [] (https://docs.erpnext.com/files/install.png)
+6. قم بتثبيت التطبيق على موقعك![](https://docs.erpnext.com/files/install.png)
     
 
 #### الإعداد Shopify على ERPN
@@ -56,15 +56,15 @@
 
 > للوصول إلى Shopify الإعدادات ، انتقل إلى: شريط بحث رائع> Shopify الإعداد
 
-1. املأ Shopify عنوان URL للموقع ، والوصول إلى رمز وسر واجهة برمجة التطبيقات من Shopify's Private App. ! [] (https://docs.erpnext.com/files/tokens.png)! [] (https://docs.erpnext.com/files/Screenshot٪202022-02-16٪20at٪2011.57.34٪ 20 ص. png)
+1. املأ Shopify عنوان URL للموقع ، والوصول إلى رمز وسر واجهة برمجة التطبيقات من Shopify's Private App. ![](https://docs.erpnext.com/files/tokens.png)![](https://docs.erpnext.com/files/Screenshot٪202022-02-16٪20at٪2011.57.34٪ 20 ص. png)
     
 2. إعداد تكوينات العملاء والشركة والمخزون.
     
-3.! [Shopify صفحة الإعداد] (https://docs.erpnext.com/files/main-settings.png)
+3.![Shopify صفحة الإعداد](https://docs.erpnext.com/files/main-settings.png)
     
-4. إعداد تكوينات المزامنة. يسحب النظام الطلبات من Shopify ويقوم بإنشاء أمر مبيعات في ERPNext. يمكنك تكوين نظام ERPNext لالتقاط المدفوعات والإنجازات مقابل الطلبات. ! [Shopify مزامنة التكوين للطلبات] (https://docs.erpnext.com/files/series-setting.png)
+4. إعداد تكوينات المزامنة. يسحب النظام الطلبات من Shopify ويقوم بإنشاء أمر مبيعات في ERPNext. يمكنك تكوين نظام ERPNext لالتقاط المدفوعات والإنجازات مقابل الطلبات. ![Shopify مزامنة التكوين للطلبات](https://docs.erpnext.com/files/series-setting.png)
     
-5. إعداد مخطط الضرائب. قم بإعداد مخطط الضرائب ورسوم الشحن لكل ضريبة ورسوم شحن تطبقها في Shopify. يمكنك العثور على اسم الضرائب الخاصة بك من Shopify صفحة المسؤول. ! [Shopify tax mapping] (https://docs.erpnext.com/files/tax-mapping.png)! [Finding Shopify Tax names] (https://docs.erpnext.com/files/Screenshot٪202021-08 -25٪ 20at٪ 2011.02.20٪ 20 AM.png)
+5. إعداد مخطط الضرائب. قم بإعداد مخطط الضرائب ورسوم الشحن لكل ضريبة ورسوم شحن تطبقها في Shopify. يمكنك العثور على اسم الضرائب الخاصة بك من Shopify صفحة المسؤول. ![Shopify tax mapping](https://docs.erpnext.com/files/tax-mapping.png)![Finding Shopify Tax names](https://docs.erpnext.com/files/Screenshot٪202021-08 -25٪ 20at٪ 2011.02.20٪ 20 AM.png)
     
 
 بعد إعداد جميع التكوينات ، قم بتمكين Shopify مزامنة وحفظ الإعدادات. سيؤدي هذا إلى تسجيل واجهة برمجة التطبيقات في Shopify وسيبدأ النظام مزامنة الطلب بين Shopify و ERPNext.
@@ -74,7 +74,7 @@
 بمجرد الانتهاء من تكوين Shopify وتمكين Shopify Syncing ، ستحصل أيضًا على شرط لمزامنة طلباتك القديمة من Shopify إلى ERPNext. ستحدث هذه المزامنة في الخلفية ويمكن أن تستغرق بضع ساعات حسب عدد الطلبات التي لديك.
 
 1. مكّن "مزامنة الطلبات القديمة Shopify"
-2. أدخل تاريخي "من وإلى" الذي يجب مزامنة الطلبات بينهما! [shopify مزامنة الطلبات القديمة] (https://docs.erpnext.com/files/sync-old-orders.png)
+2. أدخل تاريخي "من وإلى" الذي يجب مزامنة الطلبات بينهما![shopify مزامنة الطلبات القديمة](https://docs.erpnext.com/files/sync-old-orders.png)
 
 ### مزامنة المخزون
 
@@ -86,7 +86,7 @@
 4. اربط كل موقع بمستودع ERPNext.
 5. حفظ الإعدادات.
 
-! [مزامنة المخزون مع shopify] (https://docs.erpnext.com/files/inventory-sync.png)
+![مزامنة المخزون مع shopify](https://docs.erpnext.com/files/inventory-sync.png)
 
 > ملاحظة: يفترض هذا الموصل أن ERPNext هو المصدر الرئيسي للمعلومات حول مستويات المخزون ، وأي تغييرات يتم إجراؤها على Shopify ستتم الكتابة فوق مستويات المخزون بواسطة ERPNext إذا تغيرت مستويات مخزون ERPNext.
 

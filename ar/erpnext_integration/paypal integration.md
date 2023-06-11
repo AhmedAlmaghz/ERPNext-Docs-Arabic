@@ -1,4 +1,4 @@
-\n## إعداد PayPal
+## إعداد PayPal
 
 بوابة الدفع هي خدمة موفر خدمة تطبيقات التجارة الإلكترونية التي تسمح بدفع مدفوعات بطاقات الائتمان للأعمال التجارية الإلكترونية ، أو تجار التجزئة عبر الإنترنت ، أو الطوب والنقرات ، أو الطوب التقليدي.
 
@@ -10,17 +10,17 @@
 
 لتمكين خدمة الدفع PayPal ، تحتاج إلى تكوين معلمات مثل اسم مستخدم API وكلمة مرور API والتوقيع.
 
-! [إعدادات PayPal] (https://docs.erpnext.com/files/paypal_settings.png)
+![إعدادات PayPal](https://docs.erpnext.com/files/paypal_settings.png)
 
 يمكنك أيضًا تعيين بيئة الدفع الاختبارية ، من خلال الإعدادات "Use Sandbox"
 
 عند تمكين الخدمة ، سيقوم النظام بإنشاء سجل بوابة الدفع ورئيس الحساب في مخطط الحسابات التي لها نوع حساب مثل البنك.
 
-! [PayPal COA] (https://docs.erpnext.com/files/paypal_coa.png)
+![PayPal COA](https://docs.erpnext.com/files/paypal_coa.png)
 
 كما سيتم إنشاء إدخال حساب بوابة الدفع. حساب بوابة الدفع هو مركز التكوين من هذا يمكنك تعيين رئيس الحساب من COA الموجودة ، قالب نص البريد الإلكتروني الافتراضي لطلب الدفع.
 
-! [حساب بوابة الدفع] (https://docs.erpnext.com/files/payment_gateway_account_paypal.png)
+![حساب بوابة الدفع](https://docs.erpnext.com/files/payment_gateway_account_paypal.png)
 
 بعد تمكين الخدمة وتكوين حساب Payment Gateway ، يستطيع نظامك قبول المدفوعات عبر الإنترنت.
 
@@ -32,18 +32,18 @@ AUD ، BRL ، CAD ، CZK ، DKK ، EUR ، HKD ، فورنت هنغاري ، شي
 
 #### توقيع Paypal Sanbox API
 
-* تسجيل الدخول إلى حساب مطور paypal ، [حساب مطور PayPal] (https://developer.paypal.com/)
-* من علامة التبويب ** حسابات **. إنشاء حساب أعمال جديد. ! [طلب الدفع] (https://docs.erpnext.com/files/setup-sanbox-1.png)
+* تسجيل الدخول إلى حساب مطور paypal ، [حساب مطور PayPal](https://developer.paypal.com/)
+* من علامة التبويب**حسابات**. إنشاء حساب أعمال جديد. ![طلب الدفع](https://docs.erpnext.com/files/setup-sanbox-1.png)
     
-* من ملف تعريف الحساب هذا ، ستحصل على بيانات اعتماد واجهة برمجة تطبيقات الحماية الخاصة بك! [طلب الدفع] (https://docs.erpnext.com/files/sanbox-credentials.png)
+* من ملف تعريف الحساب هذا ، ستحصل على بيانات اعتماد واجهة برمجة تطبيقات الحماية الخاصة بك![طلب الدفع](https://docs.erpnext.com/files/sanbox-credentials.png)
     
 
 * * *
 
 #### توقيع واجهة برمجة تطبيقات حساب PayPal
 
-* تسجيل الدخول إلى حساب PayPal وانتقل إلى الملف الشخصي! [طلب الدفع] (https://docs.erpnext.com/files/api-step-1.png)
+* تسجيل الدخول إلى حساب PayPal وانتقل إلى الملف الشخصي![طلب الدفع](https://docs.erpnext.com/files/api-step-1.png)
     
-* من ** أدوات البيع الخاصة بي ** انتقل إلى ** api Access **! [Payment Request] (https://docs.erpnext.com/files/api-step-2.png)
+* من**أدوات البيع الخاصة بي**انتقل إلى**api Access**![Payment Request](https://docs.erpnext.com/files/api-step-2.png)
     
-* في صفحة الوصول إلى واجهة برمجة التطبيقات ، اختر الخيار 2 لإنشاء بيانات اعتماد API! [Payment Request] (https://docs.erpnext.com/files/api-step-3.png)
+* في صفحة الوصول إلى واجهة برمجة التطبيقات ، اختر الخيار 2 لإنشاء بيانات اعتماد API![Payment Request](https://docs.erpnext.com/files/api-step-3.png)

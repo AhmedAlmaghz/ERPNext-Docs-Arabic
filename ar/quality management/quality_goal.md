@@ -1,4 +1,4 @@
-\n## هدف الجودة
+## هدف الجودة
 
 > مقدمة في الإصدار 12
 
@@ -6,29 +6,29 @@
 
 يمكنك إنشاء هدف جودة لعملك له أهداف جودة متعددة. يمكن أن يكون لأهداف الجودة المختلفة لهدف ما هدف أو هدف رقمي محدد يتم قياسه من حيث حالة الإنجاز (نعم أو لا). يتم رصده على أساس التردد المحدد لهذا الهدف.
 
-إذا قمت بتعيين التكرار ، فسيتم إنشاء مستند [مراجعة الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review) تلقائيًا بشكل دوري حيث يمكنك الحفاظ على مقاييس الأداء.
+إذا قمت بتعيين التكرار ، فسيتم إنشاء مستند [مراجعة الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review) تلقائيًا بشكل دوري حيث يمكنك الحفاظ على مقاييس الأداء.
 
 للوصول إلى قائمة هدف الجودة ، انتقل إلى:
 
 > الصفحة الرئيسية> الجودة> هدف الجودة
 
-## 1 \. كيفية إنشاء هدف الجودة
+## 1. كيفية إنشاء هدف الجودة
 
 1. اذهب إلى قائمة هدف الجودة ، وانقر على جديد.
 2. أدخل اسمًا للهدف.
-3. حدد [إجراء جودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure) ليتم اتباعه لتحقيق الهدف.
+3. حدد [إجراء جودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure) ليتم اتباعه لتحقيق الهدف.
 4. تم الإنشاء بواسطة الشخص المسؤول عن إنشاء الهدف.
 5. أدخل تردد المراقبة من "يوميًا" أو "أسبوعيًا" أو "شهريًا" أو "ربع سنوي". حدد "بلا" إذا لم تكن هناك حاجة للمراقبة. في جدول الأهداف ، أدخل:
     1. الأهداف التي تتكون من الأهداف المختلفة التي يجب استكمالها لتحقيق هدف الجودة.
     2. الهدف الذي يتكون من القيمة المستهدفة الرقمية للهدف المطلوب تحقيقه.
-    3. وحدة القياس لقياس الهدف. على سبيل المثال: العملاء المحتملون ، ساعات العمل ، إلخ. [هدف الجودة] (https://docs.erpnext.com/files/quality-goal.png)
+    3. وحدة القياس لقياس الهدف. على سبيل المثال: العملاء المحتملون ، ساعات العمل ، إلخ. [هدف الجودة](https://docs.erpnext.com/files/quality-goal.png)
 6. حفظ.
 
 يعرض حقل المراجعة عدد المرات التي تم فيها حفظ المستند.
 
 إنشاء هدف الجودة:
 
-! [إدارة الجودة] (https://docs.erpnext.com/files/creating-quality-goal.gif)
+![إدارة الجودة](https://docs.erpnext.com/files/creating-quality-goal.gif)
 
-1. [إجراء الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)
-2. [مراجعة الجودة] (https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review)
+1. [إجراء الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_procedure)
+2. [مراجعة الجودة](https://docs.erpnext.com/docs/v13/user/manual/en/quality-management/quality_review)

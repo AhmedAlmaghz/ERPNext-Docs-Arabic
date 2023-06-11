@@ -1,24 +1,24 @@
-\n## استهلاك المواد
+## استهلاك المواد
 
 تتيح لك وظيفة استهلاك المواد الحصول على "إدخال مخزون" متعدد الاستهلاك مقابل طلب العمل. لتمكين هذا ، انتقل إلى التصنيع> إعدادات التصنيع.
 
-! [بديل العنصر] (https://docs.erpnext.com/files/allow-material-consumption.png)
+![بديل العنصر](https://docs.erpnext.com/files/allow-material-consumption.png)
 
 بمجرد التمكين ، سيكون زر "استهلاك المواد" متاحًا في أمر العمل بمجرد البدء.
 
-! [بديل العنصر] (https://docs.erpnext.com/files/material-consumption-button.png)
+![بديل العنصر](https://docs.erpnext.com/files/material-consumption-button.png)
 
 عند النقر فوق الزر ، سيقوم بما يلي:
 
 1. سيتم إنشاء إدخال مخزون بغرض "استهلاك المواد للتصنيع".
 
-! [Item Alternative] (https://docs.erpnext.com/files/material-consumption-for-manufacture.png)
+![Item Alternative](https://docs.erpnext.com/files/material-consumption-for-manufacture.png)
 
 2. إذا تم تعيين "التدفق الرجعي للمواد الخام المستندة إلى" في "إعدادات التصنيع" على "BOM" ، إذا كان سيقترح استهلاك كل الكمية المطلوبة للتصنيع.
 3. إذا تم تعيين "التدفق الرجعي للمواد الخام المستندة إلى" في إعدادات التصنيع على "المواد المنقولة للتصنيع" ، إذا كان سيقترح استهلاك جميع الكمية المنقولة للتصنيع.
 4. بمجرد الإرسال ، سيتم تحديث عمود "الكمية المستهلكة" في طلب العمل.
 
-! [بديل العنصر] (https://docs.erpnext.com/files/consumed-qty.png)
+![بديل العنصر](https://docs.erpnext.com/files/consumed-qty.png)
 
 5. في نجاح استهلاك المواد ، سوف يقترح الكمية غير المستهلكة.
 6. بمجرد النقر فوق الزر "إنهاء" في أمر العمل ، سيأخذ في الاعتبار الكمية المستهلكة.
@@ -27,8 +27,8 @@
 
 * إذا لم يتم تعيين "السماح باستهلاك مواد متعددة" في إعدادات التصنيع ولكن تم استخدام "استهلاك المواد للتصنيع" في إدخال المخزون.
 
-! [Item Alternative] (https://docs.erpnext.com/files/material-consumption-stock-entry.gif)
+![Item Alternative](https://docs.erpnext.com/files/material-consumption-stock-entry.gif)
 
 * لا يمكن إلغاء "استهلاك المواد للتصنيع" لأمر العمل المكتمل.
 
-! [Item Alternative] (https://docs.erpnext.com/files/cancel-material-consumption-stock-entry.gif)
+![Item Alternative](https://docs.erpnext.com/files/cancel-material-consumption-stock-entry.gif)

@@ -1,4 +1,4 @@
-\n\n## إعداد النسخ الاحتياطية لـ Dropbox
+## إعداد النسخ الاحتياطية لـ Dropbox
 
 نوصي العملاء دائمًا بالاحتفاظ بنسخة احتياطية من بياناتهم في ERPNext. يتم تنزيل النسخة الاحتياطية لقاعدة البيانات في شكل ملف SQL. إذا لزم الأمر ، يمكن استعادة ملف SQL للنسخ الاحتياطي هذا في حساب ERPNext آخر أيضًا.
 
@@ -16,7 +16,7 @@
 
 قم بتعيين التردد لتنزيل نسخة احتياطية في حساب Dropbox الخاص بك.
 
-! [ضبط التردد] (https://docs.erpnext.com/files/setup-backup-frequency.png)
+![ضبط التردد](https://docs.erpnext.com/files/setup-backup-frequency.png)
 
 #### الخطوة 2: السماح بالوصول إلى Dropbox
 
@@ -26,13 +26,13 @@
 
 قم بتسجيل الدخول إلى حساب Dropbox الخاص بك عن طريق إدخال بيانات اعتماد تسجيل الدخول.
 
-! [تسجيل الدخول] (https://docs.erpnext.com/files/dropbox-2.png)
+![تسجيل الدخول](https://docs.erpnext.com/files/dropbox-2.png)
 
 #### الخطوة 4: السماح
 
 عند تسجيل الدخول بنجاح ، ستجد رسالة تأكيد على النحو التالي. انقر فوق "السماح" للسماح لحساب ERPNext الخاص بك بالوصول إلى حساب Dropbox الخاص بك.
 
-! [سماح] (https://docs.erpnext.com/files/dropbox-3.png)
+![سماح](https://docs.erpnext.com/files/dropbox-3.png)
 
 باستخدام هذا ، سيتم إنشاء مجلد يسمى "ERPNext" في حساب Dropbox الخاص بك ، وسيبدأ التنزيل التلقائي لقاعدة البيانات فيه.
 
@@ -44,21 +44,21 @@
 
 #### الخطوة الثانية: إنشاء تطبيق Dropbox جديد
 
-! [إنشاء جديد] (https://docs.erpnext.com/files/dropbox-open-3.png)
+![إنشاء جديد](https://docs.erpnext.com/files/dropbox-open-3.png)
 
 #### الخطوة 3: املأ التفاصيل الخاصة بتطبيقك الجديد
 
-! [اختر Dropbox API واكتب كمجلد APP] (https://docs.erpnext.com/files/dropbox-open-1.png) -! [Setup APP Name] (https://docs.erpnext.com/ files / dropbox-open-2.png)
+![اختر Dropbox API واكتب كمجلد APP](https://docs.erpnext.com/files/dropbox-open-1.png) -![Setup APP Name](https://docs.erpnext.com/ files / dropbox-open-2.png)
 
 #### الخطوة 4: أدخل نطاقك الخاص Redirect URI
 
-`https: // {yourwebsite.com} / api / method / frappe.integrations.doctype.dropbox_settings.dropbox_settings.dropbox_auth_finish`! [تعيين عنوان URL لإعادة التوجيه] (https://docs.erpnext.com/files/dropbox_redirect_uri.png)
+`https: // {yourwebsite.com} / api / method / frappe.integrations.doctype.dropbox_settings.dropbox_settings.dropbox_auth_finish`![تعيين عنوان URL لإعادة التوجيه](https://docs.erpnext.com/files/dropbox_redirect_uri.png)
 
 #### الخطوة 5: في نافذة جديدة ، افتح صفحة إعدادات Dropbox في تثبيت ERPnext
 
 #### الخطوة 6: ضبط تردد النسخ الاحتياطي والبريد الإلكتروني
 
-قم بتعيين التردد لتنزيل النسخ الاحتياطية لموقعك على حساب Dropbox الخاص بك. ! [ضبط التردد] (https://docs.erpnext.com/files/setup-backup-frequency.png)
+قم بتعيين التردد لتنزيل النسخ الاحتياطية لموقعك على حساب Dropbox الخاص بك. ![ضبط التردد](https://docs.erpnext.com/files/setup-backup-frequency.png)
 
 #### الخطوة 7: مفاتيح الإدخال من نافذة تطبيق Dropbox
 
@@ -78,7 +78,7 @@
 
 #### الخطوة 11: السماح بالوصول إلى Dropbox
 
-عند تسجيل الدخول بنجاح ، ستجد رسالة تأكيد على النحو التالي. انقر فوق "السماح" للسماح لحساب ERPNext الخاص بك بالوصول إلى حساب Dropbox الخاص بك. ! [سماح] (https://docs.erpnext.com/files/dropbox-3.png)
+عند تسجيل الدخول بنجاح ، ستجد رسالة تأكيد على النحو التالي. انقر فوق "السماح" للسماح لحساب ERPNext الخاص بك بالوصول إلى حساب Dropbox الخاص بك. ![سماح](https://docs.erpnext.com/files/dropbox-3.png)
 
 #### الخطوة 12: تأكيد عمل النسخ الاحتياطية
 
@@ -90,4 +90,4 @@
 الملفات الخاصة: / Apps / erpnext / private / files
 ""
 
-> ** ملاحظة **: إذا تجاوز حجم النسخ الاحتياطي المضغوط 1 جيجا بايت (جيجا بايت) ، فسيقوم النظام بتحميل أحدث نسخة احتياطية متاحة إلى Dropbox بدلاً من إنشاء ملف نسخ احتياطي جديد.
+>**ملاحظة**: إذا تجاوز حجم النسخ الاحتياطي المضغوط 1 جيجا بايت (جيجا بايت) ، فسيقوم النظام بتحميل أحدث نسخة احتياطية متاحة إلى Dropbox بدلاً من إنشاء ملف نسخ احتياطي جديد.

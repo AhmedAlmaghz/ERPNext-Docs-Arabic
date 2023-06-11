@@ -10,13 +10,13 @@
 
 وفقًا للسيناريو الخاص بنا ، سيتم تحديد أمر المبيعات كنوع المستند.
 
-! [نوع المستند] (https://docs.erpnext.com/files/customize-make-fields-visible.png)
+![نوع المستند](https://docs.erpnext.com/files/customize-make-fields-visible.png)
 
 #### الخطوة 3: تعطيل إخفاء الطباعة
 
-انقر لفتح الحقل ليكون مرئيًا في تنسيق الطباعة القياسي. تعطيل حقل ** Print Hide **.
+انقر لفتح الحقل ليكون مرئيًا في تنسيق الطباعة القياسي. تعطيل حقل**Print Hide**.
 
-! [Uncheck Print Hide] (https://docs.erpnext.com/files/customize-visible٪20in٪20print.gif)
+![Uncheck Print Hide](https://docs.erpnext.com/files/customize-visible٪20in٪20print.gif)
 
 #### الخطوة الرابعة: التحديث
 

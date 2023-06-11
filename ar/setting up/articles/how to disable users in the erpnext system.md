@@ -7,4 +7,4 @@
 3. قم بإلغاء تحديد مربع الاختيار "ممكّن" للمستخدم المحدد
 4. احفظ التغييرات
 
-! [] (https://docs.erpnext.com/files/LHzZayc.png)
+![](https://docs.erpnext.com/files/LHzZayc.png)

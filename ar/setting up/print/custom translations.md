@@ -1,14 +1,14 @@
 ## الترجمات المخصصة
 
-** باستخدام الترجمات المخصصة ، يمكن للمستخدم طباعة مستند العميل والمورد بلغته المحلية. **
+**باستخدام الترجمات المخصصة ، يمكن للمستخدم طباعة مستند العميل والمورد بلغته المحلية.**
 
 على سبيل المثال ، إذا كان لديك عملاء من ألمانيا وفرنسا يريدون عروض أسعار باللغتين الألمانية والفرنسية ، فمن الممكن استخدام ترجمات مخصصة.
 
-## 1 \. اضبط اللغة
+## 1. اضبط اللغة
 
-في العميل الرئيسي ، حدد اللغة الافتراضية. لنفترض أن اللغة الافتراضية للعميل هي ** الإسبانية **.
+في العميل الرئيسي ، حدد اللغة الافتراضية. لنفترض أن اللغة الافتراضية للعميل هي**الإسبانية**.
 
-! [تعيين لغة العميل] (https://docs.erpnext.com/files/set-customer-language.png)
+![تعيين لغة العميل](https://docs.erpnext.com/files/set-customer-language.png)
 
 بنفس الطريقة ، يمكنك أيضًا تعيين اللغة الافتراضية في مدير المورد.
 
@@ -18,7 +18,7 @@
 
 معاينة طباعة عرض أسعار العميل باللغة الافتراضية للعميل.
 
-! [الفاتورة بلغة العميل] (https://docs.erpnext.com/files/invoice-in-customer-language.png)
+![الفاتورة بلغة العميل](https://docs.erpnext.com/files/invoice-in-customer-language.png)
 
 معاينة طباعة عرض أسعار المورد باللغة الافتراضية للمورد.
 
@@ -26,20 +26,20 @@
 
 المستخدم لديه خيار تحديد لغة بديلة في عرض الطباعة.
 
-! [اختر اللغة في الفاتورة] (https://docs.erpnext.com/files/select-language-in-invoice.png)
+![اختر اللغة في الفاتورة](https://docs.erpnext.com/files/select-language-in-invoice.png)
 
-## 2 \. ترجمة مخصصة
+## 2. ترجمة مخصصة
 
 يمكن للمستخدمين تعيين ترجماتهم المخصصة باستخدام نموذج الترجمات المخصصة. على سبيل المثال ، إذا أراد المستخدم تعيين وصف لمنتج بلغة العميل (الإسبانية). لذلك ، قم بإنشاء ترجمة جديدة باستخدام اللغة الإسبانية ، وأدخل بيانات المصدر والمعلومات المترجمة.
 
 > الصفحة الرئيسية> التخصيص> أخرى> الترجمات المخصصة> جديد
 
-! [ترجمة] (https://docs.erpnext.com/files/translation.png)
+![ترجمة](https://docs.erpnext.com/files/translation.png)
 
 يتم تطبيق الترجمة عندما يختار المستخدم اللغة كلغة أسبانية في معاينة الطباعة الخاصة بعرض أسعار المورد. لاحظ أنه لا يتم تطبيق أي ترجمة لوصف العنصر الثاني نظرًا لأنه لم يتم إنشاؤه في قائمة الترجمة.
 
-! [الترجمة في المعاملة] (https://docs.erpnext.com/files/translation-in-transaction.png)
+![الترجمة في المعاملة](https://docs.erpnext.com/files/translation-in-transaction.png)
 
-1. [قالب العنوان] (https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/address-template)
-2. [اقتباس] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/quotation)
-3. [أمر المبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)
+1. [قالب العنوان](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/address-template)
+2. [اقتباس](https://docs.erpnext.com/docs/v13/user/manual/en/selling/quotation)
+3. [أمر المبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/selling/sales-order)

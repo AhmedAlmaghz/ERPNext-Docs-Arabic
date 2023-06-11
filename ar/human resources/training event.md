@@ -1,4 +1,4 @@
-\n** يسمح لك حدث التدريب بجدولة الندوات وورش العمل والمؤتمرات وما إلى ذلك في إطار برنامج تدريبي. **
+\n**يسمح لك حدث التدريب بجدولة الندوات وورش العمل والمؤتمرات وما إلى ذلك في إطار برنامج تدريبي.**
 
 يمكنك أيضًا دعوة موظفيك لحضور الحدث باستخدام هذه الميزة.
 
@@ -6,30 +6,30 @@
 
 \> الرئيسية> الموارد البشرية> التدريب> فعالية التدريب
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء حدث تدريبي ، يُنصح بإنشاء المستندات التالية:
 
-* [برنامج تدريبي] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-program)
-* [موظف] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
+* [برنامج تدريبي](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-program)
+* [موظف](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/employee)
 
-## 2 \. كيفية إنشاء حدث تدريبي
+## 2. كيفية إنشاء حدث تدريبي
 
 1. اذهب إلى قائمة حدث التدريب ، وانقر على جديد.
 2. أدخل اسم الحدث.
 3. حدد نوع الحدث.
 4. حدد مستوى الحدث (مبتدئ ، متوسط ​​، خبير).
 5. أدخل اسم المدرب والبريد الإلكتروني ورقم الاتصال.
-6. حدد الحدث [الدورة التدريبية] (https://docs.erpnext.com/docs/v143/user/manual/en/education/course). أدخل وقت البدء ووقت الانتهاء وموقع الحدث التدريبي.
+6. حدد الحدث [الدورة التدريبية](https://docs.erpnext.com/docs/v143/user/manual/en/education/course). أدخل وقت البدء ووقت الانتهاء وموقع الحدث التدريبي.
 7. بالإضافة إلى ذلك ، يمكنك أيضًا كتابة وصف موجز للحدث في مربع الوصف.
 8. حفظ وإرسال.
     
-    ! [موظف] (https://docs.erpnext.com/files/training-event.png)
+    ![موظف](https://docs.erpnext.com/files/training-event.png)
     
 
-\> ** ملاحظة: ** حدد مربع الاختيار "لديه شهادة" إذا كان الحدث التدريبي عبارة عن دورة تدريبية معتمدة.
+\>**ملاحظة:**حدد مربع الاختيار "لديه شهادة" إذا كان الحدث التدريبي عبارة عن دورة تدريبية معتمدة.
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 دعوة الموظفين للحدث
 
@@ -37,10 +37,10 @@
 
 بشكل افتراضي ، ستكون حالة الموظف "مفتوحة".
 
-! [موظف] (https://docs.erpnext.com/files/training-event-employee.png)
+![موظف](https://docs.erpnext.com/files/training-event-employee.png)
 
 عند إرسال حدث التدريب ، سيتم إرسال إشعار إلى الموظف لإعلامه بأنه قد تمت جدولة التدريب. يتم إرسال هذا عبر البريد الإلكتروني تنبيه "التدريب المقرر". يمكنك تعديل تنبيه البريد الإلكتروني هذا لتخصيص الرسالة.
 
-1. [نتيجة التدريب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-result)
-2. [ملاحظات التدريب] (https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-feedback)
-3. [دورة تدريبية] (https://docs.erpnext.com/docs/v143/user/manual/en/education/course) \ `
+1. [نتيجة التدريب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-result)
+2. [ملاحظات التدريب](https://docs.erpnext.com/docs/v14/user/manual/en/human-resources/training-feedback)
+3. [دورة تدريبية](https://docs.erpnext.com/docs/v143/user/manual/en/education/course) \ `

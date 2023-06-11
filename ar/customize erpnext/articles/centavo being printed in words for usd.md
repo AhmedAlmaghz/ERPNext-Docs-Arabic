@@ -2,12 +2,12 @@
 
 يمكنك الانتقال إلى نوع مستند قائمة العملات -> إضافة العملة -> إضافة سعر الصرف -> تمكين العملة -> يمكنك بعد ذلك إضافة العملة في أي معاملة مطلوبة.
 
-! [] (https://docs.erpnext.com/files/kue13XQ.png)
+![](https://docs.erpnext.com/files/kue13XQ.png)
 
 على سبيل المثال:
 
-! [] (https://docs.erpnext.com/files/NrkXiGJ.png)
+![](https://docs.erpnext.com/files/NrkXiGJ.png)
 
 تنسيق الطباعة:
 
-! [] (https://docs.erpnext.com/files/QKgg11w.png)
+![](https://docs.erpnext.com/files/QKgg11w.png)

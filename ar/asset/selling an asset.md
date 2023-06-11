@@ -1,6 +1,6 @@
-\n## بيع أصل
+## بيع أصل
 
-لبيع أصل ، افتح سجل الأصل وانقر على زر ** Sell Asset **. سينقلك هذا إلى [فاتورة مبيعات] (https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice). في فاتورة المبيعات ، أدخل تفاصيل مثل العميل وتاريخ استحقاق الدفع.
+لبيع أصل ، افتح سجل الأصل وانقر على زر**Sell Asset**. سينقلك هذا إلى [فاتورة مبيعات](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/sales-invoice). في فاتورة المبيعات ، أدخل تفاصيل مثل العميل وتاريخ استحقاق الدفع.
 
 عند تقديم فاتورة المبيعات ، سيتم تنفيذ القيود المحاسبية التالية:
 
@@ -9,7 +9,7 @@
 * سيتم خصم "حساب الاستهلاك المتراكم" من إجمالي المبلغ المستهلك حتى الآن.
 * سيتم قيد / خصم "حساب الربح / الخسارة عند التخلص من الأصول" بناءً على مبلغ الربح / الخسارة. يمكن تعيين حساب الربح / الخسارة في سجل الشركة.
 
-! [الأصل] (https://docs.erpnext.com/files/asset-sales.png)
+![الأصل](https://docs.erpnext.com/files/asset-sales.png)
 
-1. [تعديل قيمة الأصول] (https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset-value-adjustment)
-2. [شراء أصل] (https://docs.erpnext.com/docs/v13/user/manual/en/asset/purchasing-an-asset)
+1. [تعديل قيمة الأصول](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset-value-adjustment)
+2. [شراء أصل](https://docs.erpnext.com/docs/v13/user/manual/en/asset/purchasing-an-asset)

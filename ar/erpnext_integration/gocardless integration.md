@@ -1,4 +1,4 @@
-\n## إعداد GoCardless
+## إعداد GoCardless
 
 لإعداد GoCardless ، انتقل إلى "استكشاف> عمليات التكامل> إعدادات GoCardless"
 
@@ -8,15 +8,15 @@
 
 يمكنك إعداد عدة بوابات دفع GoCardless إذا لزم الأمر. سيحدد اختيار حساب بوابة الدفع حساب GoCardless المستخدم للدفع.
 
-! [إعدادات GoCardless] (https://docs.erpnext.com/files/gocardless_account.png)
+![إعدادات GoCardless](https://docs.erpnext.com/files/gocardless_account.png)
 
 عند تمكين الخدمة ، سيقوم النظام بإنشاء سجل بوابة الدفع ورئيس الحساب في مخطط الحساب مع نوع الحساب مثل البنك.
 
-! [GoCardless COA] (https://docs.erpnext.com/files/gocardless_coa.png)
+![GoCardless COA](https://docs.erpnext.com/files/gocardless_coa.png)
 
 سيتم أيضًا إنشاء حساب بوابة دفع. يمكنك تغيير الحساب المصرفي الافتراضي إذا لزم الأمر وإنشاء نموذج لطلب الدفع.
 
-! [حساب بوابة الدفع] (https://docs.erpnext.com/files/payment_gateway_account_gocardless.png)
+![حساب بوابة الدفع](https://docs.erpnext.com/files/payment_gateway_account_gocardless.png)
 
 بعد تكوين حساب Payment Gateway ، يمكن لنظامك قبول المدفوعات عبر الإنترنت من خلال GoCardless.
 

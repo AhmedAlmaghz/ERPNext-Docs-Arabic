@@ -1,26 +1,26 @@
-\n## يُقرض
+## يُقرض
 
 > مقدمة في الإصدار 13
 
-** سجل القرض هو حساب القرض الذي يحتوي على جميع المعلومات المتعلقة بالقرض. **
+**سجل القرض هو حساب القرض الذي يحتوي على جميع المعلومات المتعلقة بالقرض.**
 
-يعمل سجل القرض كحساب قرض يحتوي على جميع تفاصيل مقدم الطلب وجدول السداد ومعلومات السداد. جميع المستندات المتعلقة بالقرض مثل [القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-disbursement) ، [القرض السداد] (https: // docs .erpnext.com / docs / v13 / user / manual / en / قرض-إدارة / قرض-سداد) ، إلخ ، مرتبطة بقرض.
+يعمل سجل القرض كحساب قرض يحتوي على جميع تفاصيل مقدم الطلب وجدول السداد ومعلومات السداد. جميع المستندات المتعلقة بالقرض مثل [القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-disbursement) ، [القرض السداد](https: // docs .erpnext.com / docs / v13 / user / manual / en / قرض-إدارة / قرض-سداد) ، إلخ ، مرتبطة بقرض.
 
 للوصول إلى قائمة القروض ، انتقل إلى:
 
 > الصفحة الرئيسية> إدارة القروض> القرض> القرض
 
-## 1 \. المتطلبات الأساسية
+## 1. المتطلبات الأساسية
 
 قبل إنشاء القرض واستخدامه ، يُنصح بإنشاء ما يلي أولاً:
 
-* [نوع ضمان القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
-* [قرض الضمان] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security)
-* [نوع القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-type)
-* [طلب قرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-application)
-* [تعهد ضمان القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-pledge)
+* [نوع ضمان القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-type)
+* [قرض الضمان](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security)
+* [نوع القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-type)
+* [طلب قرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-application)
+* [تعهد ضمان القرض](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-security-pledge)
 
-## 2 \. كيفية إنشاء قرض
+## 2. كيفية إنشاء قرض
 
 1. اذهب إلى قائمة القروض ، وانقر على جديد.
 2. حدد نوع مقدم الطلب.
@@ -30,13 +30,13 @@
 6. أدخل تاريخ الترحيل.
 7. إذا كان نوع مقدم الطلب موظفًا ، فحدد "السداد من الراتب" إذا كان سيتم سداد القرض من الراتب.
     
-    ! [تقديم قرض] (https://docs.erpnext.com/files/loan-details.png)
+    ![تقديم قرض](https://docs.erpnext.com/files/loan-details.png)
     
 8. أدخل نوع القرض. سيتم جلب جميع حسابات القرض وطريقة الدفع وتفاصيل القرض الأخرى مثل ما إذا كان القرض لأجل أو قرض تحت الطلب تلقائيًا من سيد نوع القرض. إذا كان القرض عبارة عن جدول سداد قرض لأجل سيتم إنشاؤه تلقائيًا عند حفظ مستند القرض.
     
-    ! [تقديم قرض] (https://docs.erpnext.com/files/loan-accounts.png)
+    ![تقديم قرض](https://docs.erpnext.com/files/loan-accounts.png)
     
-    ! [تقديم قرض] (https://docs.erpnext.com/files/loan-repayment-schedule.png)
+    ![تقديم قرض](https://docs.erpnext.com/files/loan-repayment-schedule.png)
     
 9. حدد "قرض مضمون" إذا كان القرض مضمونًا. حدد أيضًا "تعهد ضمان القرض" إذا كان القرض عبارة عن قرض مضمون.
     
@@ -46,26 +46,26 @@
 
 ### 2.1. طرق أخرى لإنشاء قرض
 
-يمكنك أيضًا إنشاء قرض من طلب قرض معتمد عبر الزر ** إنشاء ** في أعلى اليمين.
+يمكنك أيضًا إنشاء قرض من طلب قرض معتمد عبر الزر**إنشاء**في أعلى اليمين.
 
-! [طلب قرض] (https://docs.erpnext.com/files/create-loan.png)
+![طلب قرض](https://docs.erpnext.com/files/create-loan.png)
 
-## 3 \. سمات
+## 3. سمات
 
 ### 3.1 إنشاء إدخال الصرف
 
-بعد تقديم مستند القرض ، إذا كانت الحالة "تمت الموافقة عليه" و "السداد من الراتب" غير محدد ، يمكنك إنشاء [صرف القرض] (https://docs.erpnext.com/docs/v13/user/manual/en/ إدارة القرض / صرف القرض) من مستند القرض عبر زر ** إنشاء ** في أعلى اليمين.
+بعد تقديم مستند القرض ، إذا كانت الحالة "تمت الموافقة عليه" و "السداد من الراتب" غير محدد ، يمكنك إنشاء [صرف القرض](https://docs.erpnext.com/docs/v13/user/manual/en/ إدارة القرض / صرف القرض) من مستند القرض عبر زر**إنشاء**في أعلى اليمين.
 
-! [إنشاء صرف القرض] (https://docs.erpnext.com/files/create-loan-disbursement.png)
+![إنشاء صرف القرض](https://docs.erpnext.com/files/create-loan-disbursement.png)
 
 ### 3.2 إنشاء إدخال السداد
 
-إذا تم صرف القرض كليًا أو جزئيًا ولم يتم تحديد "السداد من الراتب" ، فيمكنك إنشاء [القرض السداد] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/ سداد القرض) من مستند القرض عبر زر ** إنشاء ** في أعلى اليمين.
+إذا تم صرف القرض كليًا أو جزئيًا ولم يتم تحديد "السداد من الراتب" ، فيمكنك إنشاء [القرض السداد](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/ سداد القرض) من مستند القرض عبر زر**إنشاء**في أعلى اليمين.
 
-! [إنشاء سداد قرض] (https://docs.erpnext.com/files/create-loan-repayment.png)
+![إنشاء سداد قرض](https://docs.erpnext.com/files/create-loan-repayment.png)
 
 ### 3.3 خصم سداد القرض من الراتب
 
-لخصم سداد القرض تلقائيًا من الراتب ، حدد "السداد من الراتب" في القرض. سيظهر على شكل سداد قرض في قسيمة الراتب وسيتم أيضًا إنشاء سجل [القرض السداد] (https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-repayment) تلقائيًا لذلك.
+لخصم سداد القرض تلقائيًا من الراتب ، حدد "السداد من الراتب" في القرض. سيظهر على شكل سداد قرض في قسيمة الراتب وسيتم أيضًا إنشاء سجل [القرض السداد](https://docs.erpnext.com/docs/v13/user/manual/en/loan-management/loan-repayment) تلقائيًا لذلك.
 
-! [قسيمة الراتب] (https://docs.erpnext.com/files/salary-slip-loan.png)
+![قسيمة الراتب](https://docs.erpnext.com/files/salary-slip-loan.png)

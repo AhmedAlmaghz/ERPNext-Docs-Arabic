@@ -1,10 +1,10 @@
 \nيمكن الآن تعديل السعر والكمية في أمر الشراء بعد إرسال باستخدام الزر "تحديث العناصر".
 
-! [تحديث العناصر] (https://docs.erpnext.com/files/po-update-items.png)
+![تحديث العناصر](https://docs.erpnext.com/files/po-update-items.png)
 
 لتحديث السعر والكمية في طلب الشراء المقدم ، انقر فوق الزر "تحديث العناصر". سيظهر مربع حوار للسماح لك بإجراء التغيير.
 
-! [تحديث العناصر] (https://docs.erpnext.com/files/po-update-items-rate-and-qty.gif)
+![تحديث العناصر](https://docs.erpnext.com/files/po-update-items-rate-and-qty.gif)
 
 يرجى ملاحظة عمليات التحقق من الصحة وحالات الاستخدام التالية:
 

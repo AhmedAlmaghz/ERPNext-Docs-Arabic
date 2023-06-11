@@ -1,4 +1,4 @@
-\n## تقرير الإيرادات / المصاريف المؤجلة
+## تقرير الإيرادات / المصاريف المؤجلة
 
 قد يكون حساب الدخل / المصروفات الفعلية من فاتورة المبيعات / الشراء مع العناصر المؤجلة أمرًا صعبًا. يهدف هذا التقرير إلى تبسيط هذه العملية.
 
@@ -6,8 +6,8 @@
 
 ### الإيرادات المؤجلة
 
-! [] (https://docs.erpnext.com/files/def_revenue.png)
+![](https://docs.erpnext.com/files/def_revenue.png)
 
 ### المصروفات المؤجلة
 
-! [] (https://docs.erpnext.com/files/def_expense.png)
+![](https://docs.erpnext.com/files/def_expense.png)
