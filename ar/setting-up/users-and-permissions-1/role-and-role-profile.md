@@ -1,8 +1,14 @@
-## ملف الدور والدور
+---
+description: role and role profile
+---
+
+# الأدوار وملف الأدوار
+
+### ملف الدور والدور
 
 **يحدد الدور أذونات الوصول إلى المستندات المختلفة في ERPNext.**
 
-تحدد الأدوار مجموعة من الأذونات التي يمكن تعيينها من [Roles Permission Manager](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role- على أساس أذونات). الأدوار الأكثر استخدامًا محددة بالفعل في ERPNext ، يمكنك استخدام النظام معها. إذا لزم الأمر ، يمكنك إضافة المزيد من الأدوار. على سبيل المثال ، إذا قمت بتعيين دور مستخدم المبيعات إلى مستخدم ، فسيكون قادرًا على الوصول إلى مستندات مثل عروض الأسعار وطلبات المبيعات نظرًا لأن الأذونات تم تعيينها بالفعل لدور مستخدم المبيعات.
+تحدد الأدوار مجموعة من الأذونات التي يمكن تعيينها من \[Roles Permission Manager]\(https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role- على أساس أذونات). الأدوار الأكثر استخدامًا محددة بالفعل في ERPNext ، يمكنك استخدام النظام معها. إذا لزم الأمر ، يمكنك إضافة المزيد من الأدوار. على سبيل المثال ، إذا قمت بتعيين دور مستخدم المبيعات إلى مستخدم ، فسيكون قادرًا على الوصول إلى مستندات مثل عروض الأسعار وطلبات المبيعات نظرًا لأن الأذونات تم تعيينها بالفعل لدور مستخدم المبيعات.
 
 **تخزن ملفات تعريف الأدوار أدوارًا مختلفة بحيث يمكن تعيين أدوار متعددة في وقت واحد.**
 
@@ -12,7 +18,7 @@
 
 > الصفحة الرئيسية> المستخدمون والأذونات> الدور
 
-## 1. كيفية إضافة دور
+### 1. كيفية إضافة دور
 
 1. اذهب إلى قائمة الدور ، وانقر على جديد.
 2. أدخل اسمًا للدور.
@@ -23,7 +29,7 @@
 
 ![أذونات لدور جديد](https://docs.erpnext.com/files/role-permissions.png)
 
-## 2. كيفية إضافة ملف تعريف الدور
+### 2. كيفية إضافة ملف تعريف الدور
 
 للوصول إلى ملف تعريف الدور ، انتقل إلى:
 
@@ -32,11 +38,9 @@
 1. انتقل إلى قائمة "ملف تعريف الدور" ، وانقر فوق "جديد".
 2. أدخل اسمًا.
 3. حدد الأدوار التي تريد تعيينها لهذا الملف الشخصي.
-4. حفظ.
-    
-    ![ملف تعريف الدور](https://docs.erpnext.com/files/role-profile.png)
-    
+4.  حفظ.
 
-1. [الأذونات المستندة إلى الدور](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions)
-2. [أذونات المستخدم](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/user-permissions)
-3. [إذن الدور للصفحة والتقرير](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-permission-for-page-and -تقرير)
+    ![ملف تعريف الدور](https://docs.erpnext.com/files/role-profile.png)
+5. [الأذونات المستندة إلى الدور](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions)
+6. [أذونات المستخدم](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/user-permissions)
+7. \[إذن الدور للصفحة والتقرير]\(https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/users-and-permissions/role-permission-for-page-and -تقرير)

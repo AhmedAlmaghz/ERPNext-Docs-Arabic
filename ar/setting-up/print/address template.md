@@ -1,4 +1,10 @@
-## قالب العنوان
+---
+description: address template
+---
+
+# قالب العنوان
+
+### قالب العنوان
 
 **يمكن لقالب العنوان تخزين تنسيقات مختلفة من العناوين بناءً على المنطقة.**
 
@@ -14,30 +20,29 @@
 
 > يتحقق قالب العنوان من حقل "البلد" في العنوان الرئيسي لتطبيق قوالب عناوين مختلفة على المعاملات.
 
-## 1. كيفية إنشاء قالب العنوان
+### 1. كيفية إنشاء قالب العنوان
 
 1. انتقل إلى قائمة قالب العنوان ، وانقر فوق جديد.
 2. حدد دولة.
 3. قم بتغيير CSS و Jinja إذا لزم الأمر.
 4. حفظ.
 
-### 1.1 قالب Jinja
+#### 1.1 قالب Jinja
 
 يعتمد محرك القوالب على HTML ونظام [Jinja Templating](https://jinja.palletsprojects.com/). ستكون جميع الحقول (بما في ذلك الحقول المخصصة) متاحة لإنشاء النموذج.
 
 ها هو قالب Jinja الافتراضي:
 
-""
-{٪ raw٪} {{address_line1}} <br>
-{٪ if address_line2٪} {{address_line2}} <br> {٪ endif -٪}
-{{مدينة}} <br>
-{٪ if state٪} {{state}} <br> {٪ endif -٪}
-{٪ if pincode٪} رقم التعريف الشخصي: {{pincode}} <br> {٪ endif -٪}
-{{country}} <br>
-{٪ if phone٪} الهاتف: {{phone}} <br> {٪ endif -٪}
-{٪ if fax٪} الفاكس: {{fax}} <br> {٪ endif -٪}
-{٪ if email_id٪} البريد الإلكتروني: {{email_id}} <br> {٪ endif -٪} {٪ endraw٪}
-""
+"" {٪ raw٪} \{{address\_line1\}}\
+{٪ if address\_line2٪} \{{address\_line2\}}\
+{٪ endif -٪} \{{مدينة\}}\
+{٪ if state٪} \{{state\}}\
+{٪ endif -٪} {٪ if pincode٪} رقم التعريف الشخصي: \{{pincode\}}\
+{٪ endif -٪} \{{country\}}\
+{٪ if phone٪} الهاتف: \{{phone\}}\
+{٪ endif -٪} {٪ if fax٪} الفاكس: \{{fax\}}\
+{٪ endif -٪} {٪ if email\_id٪} البريد الإلكتروني: \{{email\_id\}}\
+{٪ endif -٪} {٪ endraw٪} ""
 
 هنا مثال:
 

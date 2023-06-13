@@ -1,3 +1,9 @@
+---
+description: setting default values for any field in erpnext
+---
+
+# إعداد القيمة الافتراضية لأي حقل في ERPNext
+
 باستخدام**تخصيص النموذج**، يمكننا تعيين قيمة _default_ لأي حقل من أي حقل من نوع Doctype في ERPNext.
 
 **خطوات:**
@@ -12,7 +18,7 @@
 
 ![](https://docs.erpnext.com/files/th62UXt.png)
 
-تحقق من ملف GIF أدناه حيث قمنا بتعيين القيمة الافتراضية _ كـ**Stores - ETL**للحقل "مستودع المصدر الافتراضي" في إدخال مخزون DocType:
+تحقق من ملف GIF أدناه حيث قمنا بتعيين القيمة الافتراضية \_ كـ**Stores - ETL**للحقل "مستودع المصدر الافتراضي" في إدخال مخزون DocType:
 
 ![](https://docs.erpnext.com/files/wXMccxf.gif)
 

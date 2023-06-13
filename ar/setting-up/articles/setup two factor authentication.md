@@ -1,6 +1,12 @@
-## إعداد المصادقة الثنائية
+---
+description: setting up sendgrid smtp email in erpnext
+---
 
-## تمكين المصادقة الثنائية (2FA)
+# إعداد المصادقة الثنائية
+
+### إعداد المصادقة الثنائية
+
+### تمكين المصادقة الثنائية (2FA)
 
 قم بتنشيط المصادقة الثنائية عن طريق تشغيل الأمر.
 
@@ -28,17 +34,17 @@
 
 عندما يحاول المستخدم الجديد تسجيل الدخول لأول مرة في نظام تم فيه تمكين المصادقة الثنائية ولديه خيار المصادقة مثل تطبيق OTP ، يتم إرسال بريد إلكتروني يحتوي على رابط إلى رمز الاستجابة السريعة.
 
-![Email Notify Two Factor](https://docs.erpnext.com/files/twofactor-5.png)![صفحة كود QR](https://docs.erpnext.com/files/twofactor-6.png )
+![Email Notify Two Factor](https://docs.erpnext.com/files/twofactor-5.png) ![صفحة كود QR](https://docs.erpnext.com/files/twofactor-6.png)
 
 يقوم مسح رمز الاستجابة السريعة باستخدام تطبيق مصادقة مثل Google Authenticator بتسجيل وصول المستخدم ويبدأ تلقائيًا في إنشاء الرموز المميزة التي يمكن استخدامها لتسجيل الدخول
 
-![تطبيق Two Factor Scan](https://docs.erpnext.com/files/twofactor_app.jpeg)
+![تطبيق Two Factor Scan](https://docs.erpnext.com/files/twofactor\_app.jpeg)
 
 إذا تم استخدام أي من البريد الإلكتروني / الرسائل القصيرة كطريقة مصادقة ، فستتلقى إشعارات أيضًا
 
 ![البريد الإلكتروني والرسائل القصيرة](https://docs.erpnext.com/files/twofactor-8.png)
 
-### أسئلة وأجوبة (FAQ)
+#### أسئلة وأجوبة (FAQ)
 
 س: لا يمكنني تسجيل الدخول حتى بعد اتباع العملية برمتها.
 

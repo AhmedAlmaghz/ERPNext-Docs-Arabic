@@ -1,4 +1,10 @@
-## إعدادات الرسائل القصيرة
+---
+description: sms setting
+---
+
+# إعداد الرسائل القصيرة SMS
+
+### إعدادات الرسائل القصيرة
 
 **يمكنك الاشتراك في مزود خدمة الرسائل القصيرة لإرسال الرسائل القصيرة إلى أرقام الهواتف المحمولة.**
 
@@ -12,9 +18,7 @@
 
 مثال لعنوان URL لبوابة الرسائل القصيرة:
 
-""
-http://instant.smses.com/web2sms.php؟username=<username>&password؛=<password>&to؛=<mobilenumber>&sender؛=<senderid>&message؛= <message>
-""
+"" http://instant.smses.com/web2sms.php؟username=\&password؛=\&to؛=\&sender؛=\&message؛= ""
 
 ![إعداد الرسائل القصيرة 2](https://docs.erpnext.com/files/sms-settings2.jpg)
 
@@ -22,10 +26,7 @@ http://instant.smses.com/web2sms.php؟username=<username>&password؛=<password>&
 
 مثال:
 
-""
-http://instant.smses.com/web2sms.php؟username=abcd&password؛=abcd&to؛=9900XXXXXX&sender؛
-= DEMO & message؛ = هذا + هو + A + TEST + SMS
-""
+"" http://instant.smses.com/web2sms.php؟username=abcd\&password؛=abcd\&to؛=9900XXXXXX\&sender؛ = DEMO & message؛ = هذا + هو + A + TEST + SMS ""
 
 سيرسل عنوان URL أعلاه رسالة نصية قصيرة من الحساب abcd إلى رقم الهاتف المحمول 9900XXXXXX مع معرف المرسل كعرض تجريبي مع رسالة نصية كـ "هذه رسالة نصية قصيرة تجريبية".
 
@@ -33,13 +34,13 @@ http://instant.smses.com/web2sms.php؟username=abcd&password؛=abcd&to؛=9900XXX
 
 ![إعداد الرسائل القصيرة](https://docs.erpnext.com/files/sms-settings1.png)
 
-## كيفية تكوين ERPNext باستخدام Voip.ms
+### كيفية تكوين ERPNext باستخدام Voip.ms
 
 الخطوة الأولى هي تسجيل الدخول إلى حساب voip.ms. ثم انتقل إلى**القائمة الرئيسية**،**SOAP و REST / JSON API**. قم بتمكين واجهة برمجة التطبيقات وتعيين كلمة مرور وإدراج عنوان IP لخادمك في القائمة البيضاء.
 
 ثم انتقل إلى DIDs وقم بتمكين SMS على الرقم الذي سيتم إرسال الرسائل القصيرة منه.
 
-اضبط بوابة الرسائل القصيرة على**https: //voip.ms/api/v1/rest.
+اضبط بوابة الرسائل القصيرة على\*\*https: //voip.ms/api/v1/rest.
 
 اضبط معلمة الرسالة على**message**
 
@@ -47,16 +48,15 @@ http://instant.smses.com/web2sms.php؟username=abcd&password؛=abcd&to؛=9900XXX
 
 قم بإنشاء 4 معلمات ثابتة جديدة:
 
-***api \ _username**(اسم مستخدم حساب voip.ms
-    
-***api \ _password**(تم تكوين كلمة مرور API قبل دقائق قليلة)
-    
-***الطريقة**اضبط القيمة على**sendSMS**
-    
-***فعل**(10 أرقام DID التي سيتم استخدامها لإرسال الرسائل القصيرة)
-    
+\***api \ \_username**(اسم مستخدم حساب voip.ms
 
-![إعداد Voip.MS](https://docs.erpnext.com/files/voipms٪20sms٪20settings.jpg)
+\***api \ \_password**(تم تكوين كلمة مرور API قبل دقائق قليلة)
+
+\***الطريقة**اضبط القيمة على**sendSMS**
+
+\***فعل**(10 أرقام DID التي سيتم استخدامها لإرسال الرسائل القصيرة)
+
+![إعداد Voip.MS](https://docs.erpnext.com/files/voipms%D9%AA20sms%D9%AA20settings.jpg)
 
 ثم انتقل إلى مركز الرسائل القصيرة لاختبار ما إذا كان كل شيء يعمل بشكل صحيح.
 
