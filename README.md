@@ -1,7 +1,3 @@
----
-description: introduction
----
-
 # المقدمة ERPNext
 
 ### مقدمة
@@ -60,12 +56,4 @@ ERPNext هو حل إدارة أعمال كامل الميزات يساعد ال�
 
 #### المواضيع
 
-يمكنك أيضًا الاطلاع على الموضوعات التالية:
-
-1. [هل أحتاج إلى تخطيط موارد المؤسسات؟](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/do-i-need-an-erp)
-2. [المصدر المفتوح](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/open-source)
-3. [بدء استخدام ERPNext](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/getting-started-with-erpnext)
-4. [البطل](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/the-champion)
-5. [إستراتيجية التنفيذ](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/implementation-strategy)
-6. [Key Workflows](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/key-workflows)
-7. [المفاهيم والشروط](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/concepts-and-terms)
+يمكنك أيضًا الاطلاع على [جميع المواضيع والمستندات](./ar/SUMMRY.md)
