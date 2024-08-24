@@ -1,7 +1,0 @@
-## Requirements for Italy
-
-ERPNext aims to support local regulation for different regions in the world. In most cases ERPNext is very flexible so you can easily add Custom Fields and make Custom Reports to support the regulation of your region.
-
-This section contains region specific features for Italy.
-
-*   [Importing e-invoice from Supplier](https://docs.erpnext.com/docs/v13/user/manual/en/regional/italy/import-e-invoice)
